@@ -39,7 +39,7 @@ jobs:
 
       # 3. 📦 Install Python dependencies
       - name: Install dependencies
-        run: 
+        run: |
           python -m pip install --upgrade pip
           pip install -r req.txt
           playwright install chromium
