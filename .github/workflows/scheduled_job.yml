@@ -10,7 +10,7 @@ name: Scheduled News Update
 #
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '50 * * * *'
 
   # 🔘 Optional: Allow manual triggering from the GitHub UI
   workflow_dispatch:
