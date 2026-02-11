@@ -198,9 +198,75 @@
             "read_more_link": "https://www.qc.cuny.edu/communications/press-releases-august-11-2025/",
             "image_reference": "",
             "description": "August 11"
+        },
+        {
+            "title": "$1.1 Million Grant Supports First-Gen Students",
+            "read_more_link": "https://www.qc.cuny.edu/communications/press-releases-august-7-2025/",
+            "image_reference": "",
+            "description": "August 7"
+        },
+        {
+            "title": "Audition for the Queens College Choral Society This Month",
+            "read_more_link": "https://www.qc.cuny.edu/communications/press-releases-august-5-2025/",
+            "image_reference": "",
+            "description": "August 5"
+        },
+        {
+            "title": "Two New Distinguished Professors Appointed",
+            "read_more_link": "https://www.qc.cuny.edu/communications/press-releases-august-4-2025/",
+            "image_reference": "",
+            "description": "August 4"
+        },
+        {
+            "title": "Free Outdoor \u201cPeter and the Wolf\u201d Performances Throughout August",
+            "read_more_link": "https://www.qc.cuny.edu/communications/pressreleasesjuly312025/",
+            "image_reference": "",
+            "description": "July 31"
+        },
+        {
+            "title": "Queens College Researchers Find That Prenatal Exposure to More Than One Climate Event Affects Child Brain Development",
+            "read_more_link": "https://www.qc.cuny.edu/communications/press-releases-may-21-2025/",
+            "image_reference": "",
+            "description": "June 11"
+        },
+        {
+            "title": "Advisory: Queens College to Host City University of New York (CUNY) Pridefest 2025 Friday, June 6; Annual Celebration of Diversity and Inclusion is Free and Open to the Public",
+            "read_more_link": "https://www.qc.cuny.edu/communications/press-releases-june-4-2025/",
+            "image_reference": "",
+            "description": "June 4"
+        },
+        {
+            "title": "Queens College 101st Commencement Recognized Over 4,000 Degree Candidates May 29, with Honors for Award-Winning Journalists Brent Staples and Errol Louis",
+            "read_more_link": "https://www.qc.cuny.edu/communications/press-releases-may-28-2025/",
+            "image_reference": "",
+            "description": "May 29"
+        },
+        {
+            "title": "Queens College Faculty Members Karen Strassler and John Yao Named to 100th Class of Guggenheim Fellows",
+            "read_more_link": "https://www.qc.cuny.edu/communications/press-releases-april-25-2025/",
+            "image_reference": "",
+            "description": "April 25"
+        },
+        {
+            "title": "Queens College Choral Society Presents Verdi\u2019s Requiem at Colden Center Saturday May 17",
+            "read_more_link": "https://www.qc.cuny.edu/communications/press-release-may-7-2025/",
+            "image_reference": "",
+            "description": "April 7"
+        },
+        {
+            "title": "Queens College Presents Free Reading by Award-Winning Author Edwidge Danticat March 10 in Celebration of Women\u2019s History Month; Presented In Person and on Zoom",
+            "read_more_link": "https://www.qc.cuny.edu/communications/press-releases-february-28-2025/",
+            "image_reference": "",
+            "description": "Febraury 28"
         }
     ],
     "broklyn": [
+        {
+            "title": "Senator\u202fChuck Schumer Delivers $800,000 Federal Investment to Brooklyn College to Strengthen Perinatal Mental Health Care",
+            "read_more_link": "https://www.brooklyn.edu/bc-news/senator-chuck-schumer-delivers-800000-federal-investment-to-brooklyn-college-to-strengthen-perinatal-mental-health-care/",
+            "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
+            "description": "Congressional appropriation supports college\u2019s efforts to address perinatal mental health crisis among vulnerable communities."
+        },
         {
             "title": "Mayor Zohran Mamdani Holds Press Conference at Brooklyn College After Handing Out \u201cUnder the Radar\u201d Theater Festival Tickets",
             "read_more_link": "https://www.brooklyn.edu/bc-news/mayor-zohran-mamdani-holds-press-conference-at-brooklyn-college-after-handing-out-under-the-radar-theater-festival-tickets/",
@@ -263,6 +329,27 @@
         }
     ],
     "sph": [
+        {
+            "title": "Fall 2025 study abroad fellows report back from a semester in Spain",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/02/06/study-abroad-fellows-report-back-from-a-semester-in-spain/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/02/UofAlcala-Picture_ML-1-300x179.jpg",
+            "description": "In partnership with the University of Alcal\u00e1 (UAH) in Madrid, CUNY SPH offers a semester study abroad fellowship program for master\u2019s students in the Epidemiology and Biostatistics and Community Health tracks.\nThe fellowship offers students a unique opportunity to immerse themselves in a new cult...",
+            "date": "Feb. 6, 2026"
+        },
+        {
+            "title": "Post-Dobbs state abortion bans tied to higher postpartum depression risk in low\u2011income communities",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/02/04/abortion-bans-tied-to-higher-postpartum-depression/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/02/GettyImages-1500858096-300x200.jpg",
+            "description": "A new national study of Medicaid enrollees finds that postpartum depression (PPD) rose significantly among women and adolescents living in low\u2011income areas of states that banned or severely restricted abortion following the U.S. Supreme Court\u2019s Dobbs v. Jackson Women\u2019s Health Organization deci...",
+            "date": "Feb. 4, 2026"
+        },
+        {
+            "title": "Hudson Valley initiative puts food sovereignty into practice",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/02/04/hudson-valley-initiative-puts-food-sovereignty-into-practice/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/02/GettyImages-1468259044-300x200.jpg",
+            "description": "A study by researchers from the CUNY Urban Food Policy Institute gauges how an initiative in New York\u2019s Hudson Valley is helping farmers and community organizations build more equitable regional food systems and advance food sovereignty, a movement focused on local control over food systems and fa...",
+            "date": "Feb. 4, 2026"
+        },
         {
             "title": "Steep systemic barriers block gay and bisexual men from affirming mental health care",
             "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/01/21/systemic-barriers-gay-bisexual-men-mental-health-care/",
@@ -332,9 +419,86 @@
             "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/01/GettyImages-2132282798-300x200.jpg",
             "description": "Newly published research sheds light on how and where New York\u2019s youngest residents are exposed to environmental metals before they are even born.\nTwo publications by recent CUNY SPH doctoral graduate Fiona Fogarty, Associate Professor Brian Pavilonis, Professor Suzanne McDermott, and colleagues s...",
             "date": "Jan. 6, 2026"
+        },
+        {
+            "title": "Abigail Goldberg appointed program specialist in Office of Experiential Learning and Career Services",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/01/06/abigail-goldberg-appointed-program-specialist/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/01/IMG_5721-scaled-e1767712453592-300x300.jpg",
+            "description": "The CUNY SPH Office of Experiential Learning and Career Services (OEL/OCS) is thrilled to announce Abigail Goldberg\u2019s appointment as its program specialist.\nAbigail first joined the OEL/OCS team in 2023 as a special projects assistant. She supported the office\u2019s Career Skills Academy program, em...",
+            "date": "Jan. 6, 2026"
+        },
+        {
+            "title": "New Yorkers share lived experiences of segregated health care and demand systemic reform",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2025/12/17/lived-experiences-segregated-health-care/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2025/12/GettyImages-1742810594-300x200.jpg",
+            "description": "New Yorkers want a more just, respectful health care system\u2014and they have concrete ideas for how to get there, according to a new study by CUNY SPH researchers.\nAs part of the Health Equity and Access to Care (HEAC) project, researchers including CUNY SPH doctoral candidate Silpa Srinivasulu, Prof...",
+            "date": "Dec. 17, 2025"
+        },
+        {
+            "title": "Dr. Danielle Greene appointed to NYC Gender and Racial Equity Advisory Board",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2025/12/17/greene-appointed-nyc-gender-racial-equity-advisory-board/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2025/12/Danielle-Greene_Headshot_Nov-2025-01-scaled-e1765987706704-300x237.jpg",
+            "description": "Mayor Eric Adams has appointed Dr. Danielle Greene, CUNY SPH Executive Director of State and Local Public Health Initiatives, to New York City\u2019s new Gender and Racial Equity Advisory Board.\nThe board was created by Local Law 30 of 2021 and is housed within the Department of Health and Mental Hygie...",
+            "date": "Dec. 17, 2025"
+        },
+        {
+            "title": "Food environments limit heart-healthy eating",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2025/12/10/food-environments-limit-heart-healthy-eating/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2025/12/GettyImages-1495218251-300x200.jpg",
+            "description": "Following a heart-healthy Mediterranean-style diet may be difficult for people of all income levels, not just those in lower-income neighborhoods, according to a new modeling study. The challenges stem from higher prices and limited local availability of the healthy foods that make up that diet.\nThe...",
+            "date": "Dec. 10, 2025"
+        },
+        {
+            "title": "Researchers urge policy action as injectable PrEP remains out of reach for many",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2025/12/09/injectable-prep-out-of-reach/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2024/04/Gloved-hand-with-vaccine-vials-300x200.jpg",
+            "description": "In a new brief report, researchers caution against repeating past mistakes in HIV prevention, as high drug prices and insurance coverage issues have slowed uptake of long-acting, bi-monthly injectable pre-exposure prophylaxis (PrEP) in recent years. They warn that these same challenges are poised to...",
+            "date": "Dec. 9, 2025"
+        },
+        {
+            "title": "Professor Ghada Soliman named associate dean for faculty affairs",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2025/12/04/ghada-soliman-associate-dean-faculty-affairs/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2025/01/ghada-soliman-300x225.jpeg",
+            "description": "CUNY SPH is delighted to announce that, after surpassing expectations in the role of interim\u00a0associate dean for faculty affairs, Professor Ghada Soliman has been appointed to the position effective January 26, 2026.\nDr. Soliman is a tenured professor of nutrition in the Department of Environmental,...",
+            "date": "Dec. 4, 2025"
+        },
+        {
+            "title": "Virtual forum to examine city-run grocery stores and public ownership models",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2025/12/03/media-advisory-municipal-grocery-stores/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2025/11/grocerie-stores-300x217.jpg",
+            "description": "New York, NY \u2013 On Wednesday, December 10, the CUNY Urban Food Policy Institute at the CUNY Graduate School of Public Health and Health Policy (CUNY SPH) will host a virtual public forum examining proposals for city-run grocery stores and exploring how public ownership could advance food affordabil...",
+            "date": "Dec. 3, 2025"
         }
     ],
     "hostos": [
+        {
+            "title": "Congressman Ritchie Torres Secures Funding to Renovate Hostos Library",
+            "date": "2026-02-10",
+            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Congressman-Ritchie-Torres-Secures-Funding-to-Reno",
+            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Congressman-Ritchie-Torres-Secures-Funding-to-Reno/library1.png.aspx;.gif;;?lang=en-US&width=225&height=149",
+            "description": "Hostos Community College is delighted to announce that Congressman Ritchie Torres has secured $700,000 in Community Project Funding to renovate the College\u2019s library."
+        },
+        {
+            "title": "Meet New Student Government Association President Tyler Woods",
+            "date": "2026-02-10",
+            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Meet-New-Student-Government-Association-President",
+            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Meet-New-Student-Government-Association-President/tyler-woods.jpg.aspx;.gif;;?lang=en-US&width=225&height=300",
+            "description": "Hello from Hostos! Meet Tyler Woods, the new Hostos Student Government Association (SGA) President and CUNY-wide University Student Senate Vice Chair for Community College Affairs."
+        },
+        {
+            "title": "Hostos Professor Sean Gerrity\u2019s \"Beyond Emancipation\" Examines Runaway Slaves in American Literature",
+            "date": "2026-02-09",
+            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Professor-Sean-Gerrity\u2019s-Beyond-Emancipatio",
+            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Professor-Sean-Gerrity\u2019s-Beyond-Emancipatio/sean-gerrity.png.aspx;.gif;;?lang=en-US&width=225&height=144",
+            "description": "In June 2025 SUNY Press published Hostos faculty member Sean Gerrity\u2019s book Beyond Emancipation: Maroon Freedoms in US Literature, 1850-1862 . \u00a0\u00a0The history of Marronage is a fascinating but relatively unknown aspect of Black American history. As part of Hostos\u2019 Black History Month celebrations, Gerrity \u2013 an Associate Professor in the College\u2019s English Department \u2013 was asked to share his thoughts on the history of Marronage and its continuing relevance to the contemporary scene."
+        },
+        {
+            "title": "Honoring Our Namesake: Celebrating Eugenio Mar\u00eda de Hostos at the Spring 2026 All-College Meeting",
+            "date": "2026-02-05",
+            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Honoring-Our-Namesake-Celebrating-Eugenio-Maria-de",
+            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Honoring-Our-Namesake-Celebrating-Eugenio-Maria-de/hbd1.png.aspx;.gif;;?lang=en-US&width=225&height=299",
+            "description": "During our Spring 2026 All-College Meeting, we came together as a community to celebrate the birthday of our cherished namesake, Eugenio Mar\u00eda de Hostos."
+        },
         {
             "title": "Inaugural Alumni Newsletter Published January 29",
             "date": "2026-01-29",
@@ -446,244 +610,6 @@
             "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Digital-Design-Animation-and-Arts-Administration-a",
             "image_reference": "https://www.hostos.cuny.edu/getattachment/6fe8e1cc-0a23-4383-ad26-8f46b98f8219/digital1.png.aspx;.gif;;?lang=en-US&width=225&height=168",
             "description": "On Thursday, November 11, Hostos Community College convened the seventh in a series of Industry Summits designed to bring together professionals, educators and students to discuss various fields and the career opportunities they represent, how to optimize Hostos curricula to better prepare students for jobs in those fields, and provide tips and insights from those who have already established themselves professionally. This time, the focus was on Digital Design & Animation and Arts Administration."
-        },
-        {
-            "title": "Hostos Celebrates Science Week with Focus on AI, Student Achievement, and Global Impact of Alumni",
-            "date": "2025-11-13",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Celebrates-Science-Week-with-Focus-on-AI,-S",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Celebrates-Science-Week-with-Focus-on-AI,-S/science1.png.aspx;.gif;;?lang=en-US&width=225&height=169",
-            "description": "Hostos Community College launched its 2025 Science Week on Wednesday, November 12, with a standing-room-only audience in the Hostos Research Center. This year\u2019s theme, \u201cArtificial Intelligence (AI) and Science Discovery,\u201d framed an opening ceremony that blended scientific insight with powerful student and alumni stories, setting an enthusiastic tone for the week\u2019s STEM-focused events."
-        },
-        {
-            "title": "Hostos Celebrates the Life and Work of Puerto Rican Poet Julia de Burgos with Special Screening of \u2018Julia VIVE\u2019",
-            "date": "2025-11-07",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Celebrates-the-Life-and-Work-of-Puerto-Rica",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Celebrates-the-Life-and-Work-of-Puerto-Rica/photo1.jpg.aspx;.gif;;?lang=en-US&width=225&height=168",
-            "description": "On Wednesday, November 5, Hostos Community College celebrated the spirit of Puerto Rico's beloved national poet, Julia de Burgos, with screenings of the documentary \"Julia VIVE.\""
-        },
-        {
-            "title": "New Men\u2019s Head Basketball Coach, Kenneth Stevens \u2013 Building a Legacy in Basketball and Community",
-            "date": "2025-10-31",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/New-Men\u2019s-Head-Basketball-Coach,-Kenneth-Stevens-\u2013",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/New-Men\u2019s-Head-Basketball-Coach,-Kenneth-Stevens-\u2013/coach1.jpg.aspx;.gif;;?lang=en-US&width=225&height=186",
-            "description": "The Caimans\u2019 new Head Men\u2019s Basketball Coach is a familiar face to the Hostos community. After over twelve years with the team as their beloved assistant coach, Coach Kenneth Stevens is taking up the mantle and leading the College\u2019s storied Caimans in the 2025-26 season."
-        },
-        {
-            "title": "Hostos Welcomes CUNY Chancellor F\u00e9lix V. Matos Rodr\u00edguez Back to Campus for 2025 State of the University Address",
-            "date": "2025-10-30",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Welcomes-CUNY-Chancellor-Felix-V-Matos-Rodr",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Welcomes-CUNY-Chancellor-Felix-V-Matos-Rodr/Picture1.png.aspx;.gif;;?lang=en-US&width=225&height=219",
-            "description": "Hostos Community College was honored to welcome City University of New York (CUNY) Chancellor F\u00e9lix V. Matos Rodr\u00edguez back to Hostos on Wednesday, October 29, for his 2025 State of the University Address, marking a meaningful homecoming for the former Hostos president."
-        },
-        {
-            "title": "\"Be Bold, Be Engaged\u201d: Hostos Students Receive Inspiring Guidance from Seasoned Higher Ed Leader Dr. Robert A. Scott",
-            "date": "2025-10-23",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Be-Bold,-Be-Engaged\u201d-Hostos-Students-Receive-Inspi",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Be-Bold,-Be-Engaged\u201d-Hostos-Students-Receive-Inspi/Book1.png.aspx;.gif;;?lang=en-US&width=225&height=280",
-            "description": "On Wednesday, October 22, Hostos Community College proudly hosted Dr. Robert A. Scott, co-author of \u201cLetters to Students: What It Means to Be a College Graduate,\u201d for an inspiring presentation that celebrated the transformative power of higher education, reflection, and purpose-driven learning."
-        },
-        {
-            "title": "Hostos President, Dr. Daisy Cocco De Filippis, Recognized As a 2025 Power Player in Education by PoliticsNY and amNY",
-            "date": "2025-10-22",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-President,-Dr-Daisy-Cocco-De-Filippis,-Reco",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-President,-Dr-Daisy-Cocco-De-Filippis,-Reco/president-coco.png.aspx;.gif;;?lang=en-US&width=225&height=116",
-            "description": "We are proud to announce that Hostos Community College President Daisy Cocco De Filippis, Ph.D, has been recognized as a 2025 Power Player in Education by PoliticsNY and amNY! This exciting news, shared on Wednesday, October 22, highlights the remarkable contributions of leaders in education \u2014 ranging from public officials to dedicated advocates \u2014 who work tirelessly to ensure New York\u2019s students receive the highest quality education."
-        },
-        {
-            "title": "Hostos Receives $25,000 Grant from Con Edison to Advance Clean Energy Workforce Training",
-            "date": "2025-10-17",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Receives-$25,000-Grant-from-Con-Edison-to-A",
-            "image_reference": "",
-            "description": "The Hostos Community College Division of Continuing Education and Workforce Development (CEWD) has been awarded $25,000 by the Consolidated Edison Company of New York, Inc. (Con Edison) to implement the Hostos CEWD Energy Efficiency and Clean Technology Seminar, a program designed to prepare students for education and career pathways in the clean energy and technology sectors."
-        },
-        {
-            "title": "Hostos Community College and Baruch College Celebrate the Launch of the Hostos-Baruch Business Academy",
-            "date": "2025-10-17",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Community-College-and-Baruch-College-Celebr",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/b73e0b1a-d5b8-40b9-bc1f-81f09a0b3620/Picture1.png.aspx;.gif;;?lang=en-US&width=225&height=177",
-            "description": "On Wednesday, October 15, a remarkable milestone was celebrated as Hostos Community College and Baruch College, both distinguished institutions within The City University of New York (CUNY) system, officially launched the Hostos-Baruch Business Academy!"
-        },
-        {
-            "title": "Hostos Recognizes Italian American Heritage with Celebration of Culture, History, and Scholarship",
-            "date": "2025-10-16",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Recognizes-Italian-American-Heritage-with-C",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Recognizes-Italian-American-Heritage-with-C/italian1.png.aspx;.gif;;?lang=en-US&width=225&height=126",
-            "description": "Hostos Community College proudly celebrated Italian American Heritage Month with an afternoon webinar that brought together faculty, students, and special guests to honor the enduring influence of Italian culture and the immigrant experience in America on Wednesday, October 15."
-        },
-        {
-            "title": "The Beauty of the Bronx Shines at the 19th Annual Hostos Scholarship Fund Golf Outing Classic",
-            "date": "2025-10-10",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/The-Beauty-of-the-Bronx-Shines-at-the-19th-Annual",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/The-Beauty-of-the-Bronx-Shines-at-the-19th-Annual/golf1.jpg.aspx;.gif;;?lang=en-US&width=225&height=138",
-            "description": "The beauty of the Bronx was on full display at Pelham Bay & Split Rock Golf Courses for the Hostos Scholarship Fund Golf Outing Classic on Thursday, October 9. Just over 100 golfers spent a day in the fall sunshine, and the event helped to raise more than $175,000 to support student success at Hostos Community College."
-        },
-        {
-            "title": "Puerto Rican Artist Kayleen Berry Brings Art, Science, and Heritage Together at Hostos",
-            "date": "2025-10-08",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Puerto-Rican-Artist-Kayleen-Berry-Brings-Art,-Scie",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Puerto-Rican-Artist-Kayleen-Berry-Brings-Art,-Scie/kayleen1.png.aspx;.gif;;?lang=en-US&width=225&height=299",
-            "description": "As part of its Hispanic Heritage Month celebration, Hostos Community College proudly welcomed Puerto Rican artist Kayleen Berry for a special presentation that reflected the College\u2019s mission to connect education, culture, and community while inspiring students to pursue their own creative and professional aspirations. Born in the Bronx and now living between Upstate New York and Aguadilla, Puerto Rico, and the daughter of Hostos Public Safety Officer Raul DeJesus, Berry captivated the audience with a talk that explored the dynamic intersections of art, science, and cultural identity."
-        },
-        {
-            "title": "With a Caregiver\u2019s Heart, Alicia James Will Go from Hostos to Columbia as the 2025-26 NextGen Public Health Scholar",
-            "date": "2025-10-06",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/With-a-Caregiver\u2019s-Heart,-Alicia-James-Will-Go-fro",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/5b7ae248-8715-4a3a-aec0-6b3159a42e9a/alicia-james1.jpg.aspx;.gif;;?lang=en-US&width=225&height=337",
-            "description": "When Alicia James reads the words \u201cNextGen Public Health Scholar,\u201d she still sometimes has to pause and say them out loud, as if affirming they belong to her."
-        },
-        {
-            "title": "\"Room Enough for Us All\u201d: Hostos Opens Interfaith Room to Honor Diversity of Belief on Campus",
-            "date": "2025-10-03",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Room-Enough-for-Us-All\u201d-Hostos-Opens-Interfaith-Ro",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/322323c3-8e7e-46d9-9393-17865656ef58/Interfaith1.png.aspx;.gif;;?lang=en-US&width=225&height=168",
-            "description": "On October 1, Hostos Community College marked a historic and heartfelt occasion: the opening of its new Interfaith Room, a space dedicated to honoring the diversity of faith traditions, personal beliefs, and shared humanity that defines the Hostos family."
-        },
-        {
-            "title": "Hostos Honors Program Students Attend Prestigious 2025 Concordia Summit",
-            "date": "2025-10-02",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Honors-Program-Students-Attend-Prestigious",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Honors-Program-Students-Attend-Prestigious/honors1.jpg.aspx;.gif;;?lang=en-US&width=225&height=168",
-            "description": "Last week, five Hostos Honors Program students had an incredible opportunity to attend the 2025 Concordia Annual Summit at the Sheraton Times Square, which coincided with the United Nations General Assembly."
-        },
-        {
-            "title": "A Celebration of Care and Culture for Bronx Families at Hostos",
-            "date": "2025-09-30",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/A-Celebration-of-Care-and-Culture-for-Bronx-Famili",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/A-Celebration-of-Care-and-Culture-for-Bronx-Famili/care1.jpg.aspx;.gif;;?lang=en-US&width=225&height=168",
-            "description": "On a sunny Sunday afternoon on September 28 in the Bronx, the Hostos Community College\u2019s C-building was transformed into a vibrant festival of music, health, and community spirit for the Hostos-Somos Community Care Fest."
-        },
-        {
-            "title": "Closing Ceremony Underscores Transformative Impact of 2025 Hostos Study Abroad Program in the Dominican Republic",
-            "date": "2025-09-30",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Closing-Ceremony-Underscores-Transformative-Impact",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Closing-Ceremony-Underscores-Transformative-Impact/abroad1.png.aspx;.gif;;?lang=en-US&width=225&height=128",
-            "description": "The Summer 2025 Hostos Community College Professional Development & Study Abroad Program to the Dominican Republic, which took place from June 26 to July 6 , concluded with a celebratory closing reunion at Gregorio Luper\u00f3n High School on Thursday, September 25, reaffirming the program\u2019s impact on educators across the NYC Department of Education (DOE)."
-        },
-        {
-            "title": "Hostos Highlights the Enduring Legacies of Educational Visionaries Eugenio Mar\u00eda de Hostos and Salom\u00e9 Ure\u00f1a in Honor of Hispanic Heritage Month",
-            "date": "2025-09-22",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Highlights-the-Enduring-Legacies-of-Educati",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/9efc90a8-90cc-4ee8-88ca-f2210ffe7a31/image1-(1).jpg.aspx;.gif;;?lang=en-US&width=225&height=168",
-            "description": "In celebration of Hispanic Heritage Month, Hostos Community College hosted a special bilingual gathering on Thursday, September 18, featuring Sherezada Chiqui Vicioso, renowned poet and playwright, and Dr. Orlando Hern\u00e1ndez, professor emeritus and author."
-        },
-        {
-            "title": "Hostos Community College Celebrates Hispanic Heritage Month with Inspiring Awards Ceremony Honoring Community Leaders and Scholars",
-            "date": "2025-09-18",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Community-College-Celebrates-Hispanic-Herit",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Community-College-Celebrates-Hispanic-Herit/heritage1.png.aspx;.gif;;?lang=en-US&width=225&height=168",
-            "description": "Hostos Community College kicked off its 2025 Hispanic/Latinx Heritage Month celebrations on Wednesday, September 17, with a special awards ceremony honoring the exceptional achievements of distinguished Latino leaders and Hostos student scholars."
-        },
-        {
-            "title": "Packed House, Open Minds: Hostos Constitution Day Puts Democracy in Students\u2019 Hands",
-            "date": "2025-09-18",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Packed-House,-Open-Minds-Hostos-Constitution-Day-P",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Packed-House,-Open-Minds-Hostos-Constitution-Day-P/const1.jpg.aspx;.gif;;?lang=en-US&width=225&height=300",
-            "description": "Yesterday, Wednesday, September 17, a super-packed crowd filled C-391 for Hostos Community College\u2019s Constitution Day program, a student-centered conversation on constitutional rights, privacy and law enforcement, civic learning from childhood, and the evolving meaning of \u201cWho is an American?\u201d"
-        },
-        {
-            "title": "Hostos President Welcomes City Council Finance Team to Children\u2019s Center",
-            "date": "2025-09-17",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-President-Welcomes-City-Council-Finance-Tea",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-President-Welcomes-City-Council-Finance-Tea/cc1.png.aspx;.gif;;?lang=en-US&width=225&height=150",
-            "description": "Hostos Community College President Daisy Cocco De Filippis, accompanied by Althea Sterling, Student Development and Enrollment Management Vice President, proudly welcomed NYC Council members and CUNY executives to the cutest corner of the College: the Hostos Children\u2019s Center."
-        },
-        {
-            "title": "Hostos Community College President Daisy Cocco De Filippis Named Among City & State's 2025 Latino Trailblazers",
-            "date": "2025-09-15",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Community-College-President-Daisy-Cocco-De",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Community-College-President-Daisy-Cocco-De/president-daisy.png.aspx;.gif;;?lang=en-US&width=225&height=280",
-            "description": "Hostos Community College is proud to announce that President Daisy Cocco De Filippis has been named one of City & State's 2025 Latino Trailblazers."
-        },
-        {
-            "title": "Hostos President Daisy Cocco De Filippis Featured in Historic \u201cVoices from CUNY\u201d Podcast Series",
-            "date": "2025-09-11",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-President-Daisy-Cocco-De-Filippis-Featured",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-President-Daisy-Cocco-De-Filippis-Featured/president.jpg.aspx;.gif;;?lang=en-US&width=225&height=281",
-            "description": "Hostos Community College proudly announces that our President, Dr. Daisy Cocco De Filippis, is featured in the newly launched \u201cVoices from CUNY\u201d podcast series. The show is a groundbreaking initiative led by the National Association of Community College Teacher Education Programs (NACCTEP), an organization that promotes community colleges' role in the recruitment, preparation, retention, and renewal of diverse PreK-12 educators."
-        },
-        {
-            "title": "Hostos Dean Carlos Rivera Selected as HACU Leadership Academy Fellow",
-            "date": "2025-09-09",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Dean-Carlos-Rivera-Selected-as-HACU-Leaders",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Dean-Carlos-Rivera-Selected-as-HACU-Leaders/hostos-dean.jpg.aspx;.gif;;?lang=en-US&width=225&height=278",
-            "description": "Hostos Community College is pleased to share that Carlos Rivera, Interim Associate Dean of Student Development and Enrollment Management (SDEM) and Director of Admissions and Recruitment, is among the 26 fellows selected for the Hispanic Association of Colleges and Universities' (HACU) seventh cohort of its Leadership Academy/La Academia de Liderazgo ."
-        },
-        {
-            "title": "Hostos Community College Expands its Campus into the Historic Bronx General Post Office Building",
-            "date": "2025-09-04",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Community-College-Expands-its-Campus-into-t",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Community-College-Expands-its-Campus-into-t/newb1.png.aspx;.gif;;?lang=en-US&width=225&height=169",
-            "description": "On September 3, Hostos Community College unveiled a major expansion of its campus in the South Bronx. Hostos President Dr. Daisy Cocco De Filippis was delighted to welcome NYC Mayor Eric Adams, CUNY Chancellor F\u00e9lix V. Matos Rodr\u00edguez, Council Member Rafael Salamanca and other VIPs to celebrate that the College will be moving into the historic Bronx General Post Office Building to grow its highly successful Allied Health and Nursing programs, create additional labs for its Natural Sciences courses and support the creation of new academic programs."
-        },
-        {
-            "title": "Fall Semester Kicks Off with Annual BBQ",
-            "date": "2025-08-29",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Fall-Semester-Kicks-Off-with-Annual-BBQ",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Fall-Semester-Kicks-Off-with-Annual-BBQ/bbq10.png.aspx;.gif;;?lang=en-US&width=225&height=165",
-            "description": "The smoky aroma of the grill drifted down the Grand Concourse, mixing with music beats and the chatter of faculty, staff, and students. Their voices carried across Evelina Antonetty Playground on Thursday, August 28, when Hostos\u2019 Division of\u00a0 Student Development and Enrollment Management (SDEM) turned the sunny end-of-summer afternoon into a full-on block party vibe with the annual Start of Fall BBQ."
-        },
-        {
-            "title": "Hostos Students to Benefit from Bold New Initiatives Powered by the Ms. MacKenzie Scott\u2019s Gift",
-            "date": "2025-08-27",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Students-to-Benefit-from-Bold-New-Initiativ",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Students-to-Benefit-from-Bold-New-Initiativ/samantha.jpg.aspx;.gif;;?lang=en-US&width=200&height=266",
-            "description": "Hostos Community College is pleased to announce the 2025-26 Ms. MacKenzie Scott\u2019s Gift: President\u2019s Initiatives Winning Proposals: \u201cSee It, Believe It, Achieve It,\u201d \u201cONLN Peer Assistant Learning Scholars (PALS),\u201d and \u201cTransfer and Career Pathways in LLAC Studies: Establishing a Mentored Student Cohort.\u201d"
-        },
-        {
-            "title": "Hostos Department of Public Safety Honored with Professional Development FBI Award",
-            "date": "2025-08-26",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Department-of-Public-Safety-Honored-with-Pr",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Department-of-Public-Safety-Honored-with-Pr/safety1.png.aspx;.gif;;?lang=en-US&width=225&height=219",
-            "description": "Hostos Community College is proud to announce that its Department of Public Safety was awarded the prestigious Agency Trilogy Award from the FBI Law Enforcement Executive Development Association (FBI-LEEDA) on Monday, August 25."
-        },
-        {
-            "title": "Hostos Professor Linda Hirsch Named Distinguished Fellow by the Association for Writing Across the Curriculum",
-            "date": "2025-08-21",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Professor-Linda-Hirsch-Named-Distinguished",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Professor-Linda-Hirsch-Named-Distinguished/linda.jpg.aspx;.gif;;?lang=en-US&width=170&height=315",
-            "description": "Hostos Community College is thrilled to share that Dr. Linda Hirsch, Ph.D., has been recognized as a Distinguished Fellow by the Association for Writing Across the Curriculum (AWAC). She is the first CUNY WAC coordinator to ever receive this accolade."
-        },
-        {
-            "title": "High School Entrepreneurs Present Business Plans in Hostos College Now Program",
-            "date": "2025-08-14",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/High-School-Entrepreneurs-Present-Business-Plans-i",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/High-School-Entrepreneurs-Present-Business-Plans-i/collegenow1.png.aspx;.gif;;?lang=en-US&width=225&height=132",
-            "description": "This summer, Hostos College Now piloted a new program called CareerReady/CUNY Reach in partnership with the Laboratory School for Finance and Technology (LFT).\u00a0 Twenty-eight high school students took the BUS 240 (Entrepreneurship) class at Hostos Community College in the morning, stayed for lunch provided by the cafeteria, and then, in the afternoons, worked at internships on campus that supported the work of the college course."
-        },
-        {
-            "title": "CUNY Executive Vice Chancellor Hector Batista  Gives a Surprise Concert at Hostos",
-            "date": "2025-08-13",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/CUNY-Executive-Vice-Chancellor-Hector-Batista-Give",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/CUNY-Executive-Vice-Chancellor-Hector-Batista-Give/hos1.png.aspx;.gif;;?lang=en-US&width=225&height=168",
-            "description": "On August 12, as the bright sun streamed in through the windows of the A-Atrium at Hostos Community College, the irresistible rhythms of a salsa band pulled faculty, staff and students onto the floor to dance.\u00a0The percussionist propelling the band was none other than CUNY\u2019s Executive Vice Chancellor and Chief Operating Officer Hector Batista who had come to Hostos to fulfill a promise to President Daisy Cocco De Filippis: to come play for her at the College."
-        },
-        {
-            "title": "Hostos Community College\u2019s Dean Ana Garc\u00eda Reyes Honored at NYC Dominican Flag Raising Ceremony",
-            "date": "2025-08-12",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Community-College\u2019s-Dean-Ana-Garcia-Reyes-H",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/b30efab5-4d98-41c5-8e05-c62560841a7a/dp1.png.aspx;.gif;;?lang=en-US&width=225&height=168",
-            "description": "The Dominican flag waved proudly over Bowling Green on Monday, August 11, as Ana Garc\u00eda Reyes, Hostos Community College\u2019s Dean of Community Relations, was honored during the City of New York\u2019s Fourth Annual Dominican Flag Raising Ceremony in Lower Manhattan."
-        },
-        {
-            "title": "Hostos Celebrates Dominican Pride Week at 43rd National Dominican Day Parade and More",
-            "date": "2025-08-11",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Celebrates-Dominican-Pride-Week-at-43rd-Nat",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Celebrates-Dominican-Pride-Week-at-43rd-Nat/ddp1.png.aspx;.gif;;?lang=en-US&width=225&height=158",
-            "description": "Hostos Community College proudly joined the citywide celebration of Dominican culture and heritage during Dominican Pride Week, with a strong presence at the 43rd National Dominican Day Parade on Sunday, August 10, and several affiliated events."
-        },
-        {
-            "title": "HOPE at Hostos: Hostos' Holistic Oasis for Parents\u2019 Education Program Celebrates (HOPE)\u00a0 2025 Scholars in Inspiring Ceremony and Showcase",
-            "date": "2025-07-28",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/HOPE-at-Hostos-Hostos-Holistic-Oasis-for-Parents\u2019",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/HOPE-at-Hostos-Hostos-Holistic-Oasis-for-Parents\u2019/hope1.jpg.aspx;.gif;;?lang=en-US&width=225&height=178",
-            "description": "On Thursday, July 24, Hostos Community College's Holistic Oasis for Parents' Education (HOPE) program concluded its summer session with an exciting showcase and completion ceremony, led by Mistress of Ceremonies Leyla Caballero, a 2025 HOPE alumna and research assistant."
-        },
-        {
-            "title": "Hostos Delegation Participates in NYC-Dominican Republic Academic Exchange",
-            "date": "2025-07-28",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Delegation-Participates-in-NYC-Dominican-Re",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Delegation-Participates-in-NYC-Dominican-Re/pic1.png.aspx;.gif;;?lang=en-US&width=225&height=337",
-            "description": "From June 26 to July 6, a diverse delegation of teachers, school principals, college professors, and administrators from Hostos Community College (CUNY) and the New York City Department of Education participated in an intensive academic and cultural exchange program in the Dominican Republic, co-coordinated with the Universidad Aut\u00f3noma de Santo Domingo (UASD), the first university in the Americas."
         }
     ],
     "york": [
@@ -830,6 +756,48 @@
     ],
     "lagrdia": [
         {
+            "title": "LaGuardia Graduate Tony Alarc\u00f3n Advocates for Immigrant Rights on the National Stage",
+            "read_more_link": "https://www.laguardia.edu/news/laguardia-graduate-tony-alarcon-advocates-for-immigrant-rights-on-the-national-stage/",
+            "image_reference": "",
+            "description": "LaGuardia Graduate Tony Alarc\u00f3n Advocates for Immigrant Rights on the National Stage LONG ISLAND CITY, NY (February 10, 2026) \u2014\u00a0LaGuardia Community College/CUNY graduate Antonio (Tony) Alarc\u00f3n, 31, is fighting for immigration rights on a national level. His career is dedicated",
+            "date": "February 10, 2026"
+        },
+        {
+            "title": "LPAC and Culture Lab LIC Present SARAH, a Work-in-Progress by Hussein Smko",
+            "read_more_link": "https://www.laguardia.edu/news/lpac-and-culture-lab-lic-present-sarah-a-work-in-progress-by-hussein-smko/",
+            "image_reference": "",
+            "description": "LPAC and Culture Lab LIC Present SARAH, a Work-in-Progress by Hussein Smko LONG ISLAND CITY, NY (February 10, 2026) \u2014\u00a0LaGuardia Performing Arts Center (LPAC) at LaGuardia Community College/CUNY, in partnership with Culture Lab LIC, presents A Duet from SARAH, a",
+            "date": "February 10, 2026"
+        },
+        {
+            "title": "BROADWAY WORLD",
+            "read_more_link": "https://www.broadwayworld.com/off-off-broadway/regional/Rough-Draft-Festival-4357839",
+            "image_reference": "",
+            "description": "February 9, 2026: Rough Draft Festival at LaGuardia Performing Arts Center Off-Off-Broadway \u2013 2026.",
+            "date": "February 9, 2026"
+        },
+        {
+            "title": "PATCH",
+            "read_more_link": "https://patch.com/new-york/astoria-long-island-city/laguardia-performing-arts-center-presents-rough-draft-festival-nodx",
+            "image_reference": "",
+            "description": "February 9, 2026: LaGuardia Performing Arts Center Presents Rough Draft Festival 2026.",
+            "date": "February 9, 2026"
+        },
+        {
+            "title": "SECRET NYC",
+            "read_more_link": "https://secretnyc.co/g-train-weekend-service-forest-hills-extension/",
+            "image_reference": "",
+            "description": "February 9, 2026: Extending the G would speed up trips to places like LaGuardia Community College and high-traffic cultural spots such as Forest Hills Stadium.",
+            "date": "February 9, 2026"
+        },
+        {
+            "title": "AMNY",
+            "read_more_link": "https://www.amny.com/news/g-train-weekend-service-forest-hills-push/",
+            "image_reference": "",
+            "description": "February 6, 2026: Extending the G train to Forest Hills during weekend service would enhance transportation to LaGuardia Community College and other Queens destinations, according to transit advocates.",
+            "date": "February 6, 2026"
+        },
+        {
             "title": "PIX11 NEWS",
             "read_more_link": "https://www.youtube.com/watch?v=fPOynnKfLoU",
             "image_reference": "",
@@ -898,6 +866,34 @@
             "image_reference": "",
             "description": "Environmental Science Students Participate in Model USDA 2026 at Arizona State University LONG ISLAND CITY, NY (February 4, 2026) \u2014 Students at LaGuardia Community College/CUNY are taking an active role in learning about agricultural policy at a national level. Recently,",
             "date": "February 4, 2026"
+        },
+        {
+            "title": "LaGuardia Group Launches AI Institute to Shape Campus-Wide Framework on Artificial Intelligence",
+            "read_more_link": "https://www.laguardia.edu/news/laguardia-group-launches-ai-institute-to-shape-campus-wide-framework-on-artificial-intelligence/",
+            "image_reference": "",
+            "description": "LaGuardia Group Launches AI Institute to Shape Campus-Wide Framework on Artificial Intelligence LONG ISLAND CITY, NY (February 4, 2026) \u2014 On January 30, more than 80 faculty and staff gathered in the Poolside Caf\u00e9 of the LaGuardia Community College/CUNY campus",
+            "date": "February 4, 2026"
+        },
+        {
+            "title": "INSIDE HIGHER ED",
+            "read_more_link": "https://www.insidehighered.com/news/student-success/college-experience/2026/02/04/barbershop-builds-community-black-male-students",
+            "image_reference": "",
+            "description": "February 4, 2026: LaGuardia Community College\u2019s biweekly barbershop sessions offer connection, mentorship and candid conversations about life as a young Black man. Launched in October 2025, the sessions are hosted by LaGuardia\u2019s Black Male Empowerment Cooperative, an extension of CUNY\u2019s",
+            "date": "February 4, 2026"
+        },
+        {
+            "title": "QNS",
+            "read_more_link": "https://qns.com/2026/02/southpole-scholarship-laguardia-college/",
+            "image_reference": "",
+            "description": "February 4, 2026: Southpole Foundation awards $20,000 total in scholarships to 11 LaGuardia college students.",
+            "date": "February 4, 2026"
+        },
+        {
+            "title": "LaGuardia Community Hosts Events to Celebrate Black History Month",
+            "read_more_link": "https://www.laguardia.edu/news/laguardia-community-hosts-events-to-celebrate-black-history-month/",
+            "image_reference": "",
+            "description": "LaGuardia Community Hosts Events to Celebrate Black History Month LONG ISLAND CITY, NY (February 3, 2026) \u2014 February is Black History Month, which celebrates the triumphs, struggles, and profound contributions of Black people throughout history. It commemorates trailblazers in science,",
+            "date": "February 3, 2026"
         }
     ],
     "sps": [
@@ -970,6 +966,76 @@
             "read_more_link": "https://sps.cuny.edu/about/news/cuny-sps-community-memorializes-life-of-beloved-academic-director",
             "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/Former-CUNY-SPS-academic-director-Dr.-Mariette-Bates.jpg?itok=xXCciwTJ",
             "description": "The CUNY SPS community shared heartwarming personal memories of Dr. Mariette Bates, the School's founding academic director of its Disability Studies programs."
+        },
+        {
+            "title": "This Veterans Day, CUNY SPS Salutes All Who Served",
+            "date": "November 11, 2025",
+            "read_more_link": "https://sps.cuny.edu/about/news/this-veterans-day-cuny-sps-salutes-all-who-served",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/joel-rivera-camacho-z4flTWuGDHs-unsplash_Square600.JPG?itok=P1YWLkON",
+            "description": "CUNY SPS proudly honors all veterans within our School and extends our heartfelt appreciation for their bravery and service. In recognition of this important day, we are pleased to showcase several student veterans and the community who supports them."
+        },
+        {
+            "title": "CUNY SPS Celebrates Faculty and Staff Service with Milestone Anniversary Ceremony",
+            "date": "October 31, 2025",
+            "read_more_link": "https://sps.cuny.edu/about/news/cuny-sps-celebrates-faculty-and-staff-service-with-milestone-anniversary-ceremony",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/CUNY-SPS-Employee-appreciation-event.png?itok=XrLnNJSE",
+            "description": "For the second year in a row, CUNY SPS celebrated the hard work and dedication of its staff with a Years of Service Awards Ceremony honoring employees who reached milestone work anniversaries."
+        },
+        {
+            "title": "Undergraduate Business Programs To Be Offered As Zero Textbook Cost, Providing Students With Substantial Savings",
+            "date": "October 24, 2025",
+            "read_more_link": "https://sps.cuny.edu/about/news/undergraduate-business-programs-to-be-offered-as-zero-textbook-cost-providing-students",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/CUNY-SPS-student-working-laptop_0.jpg?itok=RyHbzJa8",
+            "description": "Starting in Winter Session 2026, CUNY SPS will add the BS in Business and the BPS in Applied Management and Entrepreneurship programs to the growing list of degree programs offering student savings through textbook-free curriculum, called \"Z Degrees.\""
+        },
+        {
+            "title": "ILS\u2019 Energy Training Program Attains International Accreditation",
+            "date": "October 08, 2025",
+            "read_more_link": "https://sps.cuny.edu/about/news/ils-energy-training-program-attains-international-accreditation",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/Energy%20Training%20photo600.JPG?itok=ytx0Qubc",
+            "description": "The International Accreditors for Continuing Education and Training (IACET), an organization known for its internationally recognized standards in the areas of quality, consistency, and learner-centered excellence, formally certified ILS' program for the high-quality training it provides to energy professionals."
+        },
+        {
+            "title": "CUNY SPS Announces Slate of New Online Degree and Certificate Programs in AI, Psychology, and Business",
+            "date": "October 07, 2025",
+            "read_more_link": "https://sps.cuny.edu/about/news/cuny-sps-announces-slate-of-new-online-degree-and-certificate-programs-in-ai-psychology",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/CUNY-SPS-online-student.jpg?itok=LwIzGrUB",
+            "description": "Beginning with the Fall 2025 semester, CUNY SPS will introduce several new academic programs that respond to a rapidly changing job market and offer online students the in-demand skills necessary for their careers."
+        },
+        {
+            "title": "CUNY SPS Observes NDEAM with Inclusion Events and New Disability Advocacy Program",
+            "date": "October 02, 2025",
+            "read_more_link": "https://sps.cuny.edu/about/news/cuny-sps-observes-ndeam-with-inclusion-events-and-new-disability-advocacy-program",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/2025%20virtual%20background_square600.PNG?itok=mX02EeO1",
+            "description": "In honor of the month, the community is invited to attend several events exploring inclusion in the workplace, and to learn more about the School's new Advanced Certificate in Disability Advocacy, which is now accepting applications for Spring 2026."
+        },
+        {
+            "title": "First-of-its-Kind Trip Brings CUNY SPS Psychology Students to National Conference",
+            "date": "September 29, 2025",
+            "read_more_link": "https://sps.cuny.edu/about/news/firstofitskind-trip-brings-cuny-sps-psychology-students-to-national-conference",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/student_nation_group.jpg?itok=tqo9ZaGg",
+            "description": "With the help of a generous grant, thirty-two undergraduate psychology majors were able to attend the 2025 Association for Psychological Science Annual Convention in Washington, DC, this summer."
+        },
+        {
+            "title": "Annual Leadership Retreat Offers Student Leaders Practical Solutions",
+            "date": "September 24, 2025",
+            "read_more_link": "https://sps.cuny.edu/about/news/annual-leadership-retreat-offers-student-leaders-practical-solutions",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/CUNY-SPS-alumni-leaders.png?itok=AE5_G61l",
+            "description": "CUNY SPS hosted a special series of workshops focused on providing tools for student leaders over a four-day period. The hybrid series featured numerous specialists in leadership who shared their advice on best practices."
+        },
+        {
+            "title": "The 2025 Theatre in Education Festival Delights Audiences of All Ages",
+            "date": "September 18, 2025",
+            "read_more_link": "https://sps.cuny.edu/about/news/the-2025-theatre-in-education-festival-delights-audiences-of-all-ages",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/MAAT%20TIE%20Festival.png?itok=gqjhu5Be",
+            "description": "The CUNY SPS MAAT program presented four student-produced performance projects for a multi-generational audience during the Theatre in Education (TIE) Festival."
+        },
+        {
+            "title": "Welcome to the Fall 2025 Semester",
+            "date": "August 26, 2025",
+            "read_more_link": "https://sps.cuny.edu/about/news/welcome-to-the-fall-2025-semester",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/Fall%202024_social%20media%20post_2.png?itok=nlqqW12z",
+            "description": "Dean Braverman offers advice to all new and returning students as she reflects upon a new semester starting at CUNY SPS."
         }
     ],
     "qcc": [
@@ -1403,21 +1469,126 @@
             "read_more_link": "https://macaulay.cuny.edu/news-and-events/macaulay-announces-2025-2026-kenan-scholars-cohort/",
             "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2022/09/Macaulay-Kenan-Scholars-Slider-667x375.png",
             "description": "Macaulay introduces the 2025\u20132026 cohort of Kenan Scholars\u2014a dynamic group of students who will bring passion, creativity, and determination to the challenge of creating a more just and equitable New York City."
+        },
+        {
+            "title": "Student Optimism Shines in New Civic Engagement Survey",
+            "date": "9/18/2025",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/student-optimism-shines-in-new-civic-engagement-survey/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2024/02/Macaulay-Programs-and-Events-Sliders-1340-x-755-px-667x375.jpeg",
+            "description": "Findings from the Civic Futures Lab, a partnership with Design for America, will guide a new student leadership initiative, the Civic Futures Fellowship."
+        },
+        {
+            "title": "Inaugural CUNY Honors Connect Cohort Presents Research",
+            "date": "8/01/2025",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/inaugural-cuny-honors-connect-cohort-presents-research/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2025/08/Macaulay-CUNY-Honors-Connect-inaugural-cohort-1440x960-1-667x375.jpg",
+            "description": "Cornell Tech welcomed the first-ever cohort from the City University of New York (CUNY) Honors Connect program, a collaboration between Cornell Tech and CUNY\u2019s Macaulay Honors College."
+        },
+        {
+            "title": "2025 Student and Alumni Awards",
+            "date": "3/21/2025",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/2025-student-and-alumni-awards/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2025/03/2025-Awards-Page-667x375.png",
+            "description": "Awards, fellowships, and recognition for Macaulay students and alumni."
+        },
+        {
+            "title": "Macaulay Honors College Commencement for the Class of 2025",
+            "date": "6/06/2025",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/macaulay-honors-college-commencement-for-the-class-of-2025/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2025/06/Commencement-2025-667x375.jpeg",
+            "description": "On June 4, 2025, Macaulay Honors College celebrated a triumphant milestone as 444 students graduated at the historic United Palace in upper Manhattan. The class of 2025 excelled academically--with an average GPA of this class is 3.8--and generously served their communities."
+        },
+        {
+            "title": "2025 Senior Award Recipients",
+            "date": "6/03/2025",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/2025-senior-award-recipients/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2025/06/IMG_9295-Large-667x375.jpeg",
+            "description": "Meet the Macaulay seniors recognized this year for their leadership, scholarship, and service."
+        },
+        {
+            "title": "Bridging the Gap: Macaulay Students Explore Product Development with Google",
+            "date": "6/01/2025",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/bridging-the-gap-macaulay-students-explore-product-development-with-google/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2025/06/GoogleDemoDay20250515-667x375.jpg",
+            "description": "Macaulay students participated in a unique new program in partnership with Google that allows them to get hands-on experience with product development, testing, and sales in the marketplace under the guidance of Google mentors and Macaulay faculty."
+        },
+        {
+            "title": "Celebrating a Record-Breaking Night",
+            "date": "5/30/2025",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/celebrating-a-record-breaking-night/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2025/05/Macaulay-Honors-College-Gala-2025-37-667x375.jpeg",
+            "description": "On April 28, 250 supporters of Macaulay Honors College gathered for our most unforgettable Gala yet. The event set new records, welcoming more new donors than ever before and raising $575,000 in support of our students."
+        },
+        {
+            "title": "Meet the 2025 New York: City Designed Interns",
+            "date": "6/02/2025",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/meet-the-2025-new-york-city-designed-interns/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2025/06/new-york-city-designed-667x375.jpeg",
+            "description": "The summer 2025 cohort of interns participating in New York: City Designed, a partnership with Design Trust for Public Space, share their thoughts about starting the program."
+        },
+        {
+            "title": "Highlighting CUNY's Creative Space Potential",
+            "date": "5/13/2025",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/highlighting-cunys-creative-space-potential/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2025/05/20250420_173427-667x375.jpg",
+            "description": "Part concert, part thesis presentation, and part public experiment, CUNY Rocks united student musicians from across the five boroughs for an unforgettable evening of live, original music."
+        },
+        {
+            "title": "Macaulay Students Earn Prestigious Salk Awards",
+            "date": "5/26/2025",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/macaulay-students-earn-prestigious-salk-awards/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2025/05/2025SalkWinners-667x375.png",
+            "description": "Macaulay is pleased to congratulate five graduates who have received CUNY\u2019s prestigious Jonas E. Salk Award along with\u00a0a group of outstanding scholarship recipients accepted into medical schools or graduate programs in the biomedical sciences."
         }
     ],
     "lehman": [
         {
+            "title": "As Fulbright Specialist, Lehman Nursing\u2019s Elizabeth Simon to Advance Student Assessment in Vietnam",
+            "date": "February 9, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/As-Fulbright-Specialist-Lehman-Nursings-Elizabeth-Simon-to-Advance-Student-Assessment-in-Vietnam.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2025/E-Simon-1707x1420.jpg",
+            "description": "For third Fulbright project, she will help transform testing methods in nursing education"
+        },
+        {
+            "title": "Wesley Pitts Named School of Education Dean",
+            "date": "February 9, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Wesley-Pitts-Named-School-of-Education-Dean-1.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/School-of-Education/Middle-High-School-Ed/images/Wesley-Pitts-1295x870.jpg",
+            "description": "An educational leader at Lehman, now leader of Education"
+        },
+        {
+            "title": "Lehman Weekly February 1-7, 2026: New Semester, New Podcast",
+            "date": "February 5, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-February-1-7-2026-New-Semester-New-Podcast-1.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2025/Tea.jpg",
+            "description": "New Semester, New Podcast"
+        },
+        {
+            "title": "Sean Stein Smith Offers Roadmap on Digital Asset Accounting",
+            "date": "February 5, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Sean-Stein-Smith-Offers-Roadmap-on-Digital-Asset-Accounting.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/School-of-Business/Accounting/images/Sean-Stein-Smith-Headshot-2022-for-sharing.jpeg",
+            "description": "White paper outlines key issues as stablecoin issuers go public"
+        },
+        {
+            "title": "In Memoriam: Woodie King Jr.",
+            "date": "February 4, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/In-Memoriam-Woodie-King-Jr-1.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2025/2008_Lehman_College_Commencement_Photographed_by_Jason_Green_0314-X4.jpg",
+            "description": "Alumnus, Honorary Degree Recipient, Pioneer"
+        },
+        {
             "title": "Lehman College Launches New Podcast, 'Your Health Equity Matters'",
             "date": "February 4, 2026",
             "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-College-Launches-New-Podcast-Your-Health-Equity-Matters-1.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/resources/images/Coms-amp-Marketing---OLD-DO-NOT-USE/YHEM_Final-Logo.png",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/resources/images/Communications-and-Marketing/YHEM_Final-Logo-601x290.png",
             "description": "Dialogues with healthcare experts inform audiences, inspire self-advocacy"
         },
         {
             "title": "Lehman Interns Gain Industry Skills at Bally's Atlantic City",
             "date": "February 2, 2026",
             "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Interns-Gain-Industry-Skills-at-Ballys-Atlantic-City-1.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/resources/images/Coms-amp-Marketing---OLD-DO-NOT-USE/Ballys-interns.jpeg",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/resources/images/Communications-and-Marketing/Ballys-interns.jpeg",
             "description": "Monthlong internship takes them from The Bronx to the boardwalk"
         },
         {
@@ -1449,18 +1620,18 @@
             "description": "Event celebrated more than 875 graduates"
         },
         {
-            "title": "Lehman\u2019s Jennifer Laird quoted in AP report on winter-storm outages",
-            "date": "January 23, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehmans-Jennifer-Laird-quoted-in-AP-report-on-winter-storm-outages.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/resources/images/Laird-Jennifer-1.jpg",
-            "description": "Sociology professor discussed findings on energy insecurity"
-        },
-        {
             "title": "On BronxTalk, Lehman Professor Provides Insight on Venezuela",
             "date": "January 23, 2026",
             "read_more_link": "https://www.lehman.cuny.edu/news/2026/On-BronxTalk-Lehman-Professor-Provides-Insight-on-Venezuela-1.php",
             "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2025/Monserrate-Joaquin_crop.jpg",
             "description": "Joaquin Monserrate Discusses Maduro Capture, South American Geopolitics"
+        },
+        {
+            "title": "Lehman\u2019s Jennifer Laird quoted in AP report on winter-storm outages",
+            "date": "January 23, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehmans-Jennifer-Laird-quoted-in-AP-report-on-winter-storm-outages.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/resources/images/Laird-Jennifer-1.jpg",
+            "description": "Sociology professor discussed findings on energy insecurity"
         },
         {
             "title": "Lehman's Newest Schwarzman Scholar Swaps The Bronx for Beijing",
@@ -1475,9 +1646,51 @@
             "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-January-18-24-2026-Congratulations-to-the-2026-Winter-Class-1.php",
             "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2025/Ltsce1Fc-1.jpg",
             "description": "Congratulations to the 2026 Winter Class"
+        },
+        {
+            "title": "Student Spotlight: Commencement Speaker Diana Janna Reyes Nu\u0301n\u0303ez",
+            "date": "January 15, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Student-Spotlight-Commencement-Speaker-Diana-Janna-Reyes-Nunez-1.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/resources/images/Communications-and-Marketing/Nu\u0301n\u0303ez-Reyes-Janna-Diana_crop.jpg",
+            "description": "The path to success is not always a straight line"
+        },
+        {
+            "title": "Lehman College Student Kilhah St. Fort Selected as a 2026\u20132027 Schwarzman Scholar",
+            "date": "January 15, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-College-Student-Kilhah-St-Fort-Selected-as-a-20262027-Schwarzman-Scholar.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/resources/images/Communications-and-Marketing/StFort,Kilhah-Edit.jpg",
+            "description": "Second Lehman student selected for elite program"
+        },
+        {
+            "title": "Lehman Weekly January 11-17, 2026: Name that Dorm",
+            "date": "January 14, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-January-11-17-2026-Name-that-Dorm-1.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2025/LS-03-2026-New-Student-Orientation_00136.png",
+            "description": "Name that Dorm"
+        },
+        {
+            "title": "Democracy by the Numbers: Lehman Sociologist Shapes New Numeracy Collection",
+            "date": "January 12, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Democracy-by-the-Numbers-Lehman-Sociologist-Shapes-New-Numeracy-Collection.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/School-of-Education/Schoolx2FCollege-Collaborative/Images-/LS-137-2018-Esther-Wilder-Headshot_066-X4-1295x870.jpg",
+            "description": "Esther Wilder and CUNY colleagues co-edit latest journal issue"
+        },
+        {
+            "title": "Margot Mifflin Looks at the Long History of Married Names",
+            "date": "January 7, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Margot-Mifflin-Looks-at-the-Long-History-of-Married-Names-1.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/resources/images/Communications-and-Marketing/Lehman-photo.-squarejpeg.jpeg",
+            "description": "JSTOR Daily feature follows 170 years of debate"
         }
     ],
     "law": [
+        {
+            "title": "CUNY Law\u2019s Community Economic Development Clinic Advises Bronx Coalition on Kingsbridge Armory Community Benefits Agreement",
+            "date": "",
+            "read_more_link": "https://www.law.cuny.edu/newsroom_post/cuny-laws-community-economic-development-clinic-advises-bronx-coalition-on-kingsbridge-armory-community-benefits-agreement/",
+            "image_reference": "https://www.law.cuny.edu/wp-content/uploads/page-assets/newsroom_post/cuny-laws-community-economic-development-clinic-advises-bronx-coalition-on-kingsbridge-armory-community-benefits-agreement/Kingsbridge-Armory-1.png",
+            "description": "Community-led redevelopment, backed by enforceable commitments for jobs, housing, and environmental protections"
+        },
         {
             "title": "Professor Ramzi Kassem Appointed Chief Counsel to Mayor Zohran Mamdani",
             "date": "",
@@ -1547,14 +1760,74 @@
             "read_more_link": "https://www.law.cuny.edu/newsroom_post/alumni-class-notes/",
             "image_reference": "https://www.law.cuny.edu/wp-content/uploads/media-assets/2024-05-02_AlumniFinancialPlanningEventEdits-9-of-30-scaled.jpg",
             "description": "Catch up on the latest from CUNY Law alumni\u2014career moves, personal milestones, and the many ways they\u2019re advancing justice"
+        },
+        {
+            "title": "CUNY Law\u2019s INRC and Coalition Partners Release New Report on the Campaign That Closed 3 ICE Detention Sites in New Jersey",
+            "date": "",
+            "read_more_link": "https://www.law.cuny.edu/newsroom_post/cuny-laws-inrc-and-coalition-partners-release-new-report-on-the-campaign-that-closed-3-ice-detention-centers-in-new-jersey/",
+            "image_reference": "https://www.law.cuny.edu/wp-content/uploads/page-assets/resistance-in-the-era-of-hyper-immigration-enforcement/2025-11-10_Resistance_in_the_Era_of_Hyper-Immigration_Enforcement-16-of-20-scaled.jpg",
+            "description": "New report examines the community-led movement that closed ICE detention\u00a0sites at three NJ county jails and offers strategies for today\u2019s rapidly changing enforcement landscape"
+        },
+        {
+            "title": "Senator Kristen Gonzalez Hosts Inaugural \u201cState of the District\u201d at CUNY School of Law",
+            "date": "",
+            "read_more_link": "https://www.law.cuny.edu/newsroom_post/senator-kristen-gonzalez-hosts-inaugural-state-of-the-district-at-cuny-school-of-law/",
+            "image_reference": "https://www.law.cuny.edu/wp-content/uploads/page-assets/newsroom_post/senator-kristen-gonzalez-hosts-inaugural-state-of-the-district-at-cuny-school-of-law/Featured-Image-Newsroom-Post_Kristen-Gonzalez_1.png",
+            "description": "New York State Senator Kristen Gonzalez hosted her first-ever \u201cState of the District\u201d on Monday, November 17th at CUNY School of Law in Long Island City, bringing together constituents, community partners, and advocates to discuss the pressing issues facing District 59 and outline her legislative agenda for the upcoming session."
+        },
+        {
+            "title": "CUNY Law at SOMOS 2025: Creating Connections, Strengthening Community",
+            "date": "",
+            "read_more_link": "https://www.law.cuny.edu/newsroom_post/cuny-law-at-somos-2025-creating-connections-strengthening-community/",
+            "image_reference": "https://www.law.cuny.edu/wp-content/uploads/page-assets/newsroom_post/cuny-law-at-somos-2025-creating-connections-strengthening-community/2025-11-10_Somos_Folder-5-of-7.jpg",
+            "description": "Leaders and alumni from CUNY Law took part in the conference\u2019s wide range of programming"
+        },
+        {
+            "title": "CUNY Law Secures $6M Investment to Expand Community Space in Queens, Deepening Local Partnerships and Access to Justice",
+            "date": "",
+            "read_more_link": "https://www.law.cuny.edu/newsroom_post/cuny-law-secures-6m-investment-to-expand-community-space-in-queens-deepening-local-partnerships-and-access-to-justice/",
+            "image_reference": "https://www.law.cuny.edu/wp-content/uploads/page-assets/newsroom_post/cuny-law-secures-6m-investment-to-expand-community-space-in-queens-deepening-local-partnerships-and-access-to-justice/2025-10-24_Julie_Won_Check_Singing_Dean_Gomez-Velez-1-of-5-scaled.jpg",
+            "description": "Championed by Council Member Julie Won, the project will transform a former kitchen into a hub for student learning, civic engagement, and youth programming"
+        },
+        {
+            "title": "CUNY Law Discusses Where Our Community Stands On The First Amendment, Censorship, and Higher Education",
+            "date": "",
+            "read_more_link": "https://www.law.cuny.edu/newsroom_post/cuny-law-discusses-where-our-community-stands-on-the-first-amendment-censorship-and-higher-education/",
+            "image_reference": "https://www.law.cuny.edu/wp-content/uploads/page-assets/newsroom_post/cuny-law-discusses-where-our-community-stands-on-the-first-amendment-censorship-and-higher-education/2025-10_08_PDC_FIRST_AMENDMENT_EVENT-12-scaled.jpg",
+            "description": "The CUNY Law community came together for this informative presentation presented by our Faculty Professional Development Committee and vital dialogue with faculty, students, and staff."
+        },
+        {
+            "title": "As Chief Pro Bono Counsel, Harlene Katzman \u201995 is Making the Legal System More Equitable and Fair",
+            "date": "",
+            "read_more_link": "https://www.law.cuny.edu/newsroom_post/as-chief-pro-bono-counsel-harlene-katzman-95-is-making-the-legal-system-more-equitable-and-fair/",
+            "image_reference": "https://www.law.cuny.edu/wp-content/uploads/page-assets/newsroom_post/as-chief-pro-bono-counsel-harlene-katzman-95-is-making-the-legal-system-more-equitable-and-fair/Featured-Image_Alumni-QA_Katzman.png",
+            "description": "In celebration of Pro Bono Week, we asked Harlene to reflect on her career inspiring generations of lawyers to serve low income and vulnerable communities through pro bono work."
         }
     ],
     "ccny": [
+        {
+            "title": "Dominicans among highest health insured in U.S., according to new CUNY DSI study",
+            "read_more_link": "https://www.ccny.cuny.edu/news/dominicans-among-highest-health-insured-us-according-new-cuny-dsi-study",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-02/CUNY%20DSI_Health%20Insurance._Double.JPG?itok=efLmBKYm",
+            "description": "In a landmark nationwide study, the City College of New York-based CUNY Dominican Studies Institute reports that Dominicans have among the highest health insurance coverage rates among Hispanics/Latinos. This is largely due to their significant reliance on public health insurance and publicly supported plans. The report constitutes the first detailed national study focused specifically on the health insurance status of Dominicans in the United States. It was co-authored by: Ramona Hern\u00e1ndez, Director of CUNY DSI and professor of sociology in CCNY\u2019s Colin Powell for Civic and Global Leadership"
+        },
+        {
+            "title": "Six CCNY undergrads receive Gilman International scholarships",
+            "read_more_link": "https://www.ccny.cuny.edu/news/six-ccny-undergrads-receive-gilman-international-scholarships",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-02/Gilman%20Scholars_2026.jpg?itok=0knLMgel",
+            "description": "Africa, Asia, Europe and the Middle East were the destinations for the latest cohort of Gilman Scholars at The City College of New York. Six outstanding undergraduates at CCNY were among the 29 recipients from CUNY of Benjamin A. Gilman International Scholarships that provide support for overseas travel and research. Administered by the U.S. Department of State, Gilman Scholarships enable students of limited financial means to study or intern abroad, gaining skills critical to national security and economic competitiveness. Following are CCNY\u2019s Gilman Scholars, their destinations and research"
+        },
         {
             "title": "CCNY opens Upper Manhattan Small Business Development Center to aid aspiring entrepreneurs",
             "read_more_link": "https://www.ccny.cuny.edu/news/ccny-opens-upper-manhattan-small-business-development-center-aid-aspiring-entrepreneurs",
             "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-02/New%20York%20Small%20Business%20Development%20Centers.png?itok=WSWFXAU7",
             "description": "The City College of New York has partnered with the New York Small Business Development Centers to open a regional center at CCNY to encourage entrepreneurship and the creation of small businesses by the members of the CCNY community, as well as entrepreneurs and small businesses throughout Upper Manhattan. This will be the fifth CUNY campus to host a regional center, joining Baruch College, York College, the College of Staten Island, and LaGuardia Community College. The center will be located in Shepard Hall and managed by the Office of Institutional Advancement, Communications, & External"
+        },
+        {
+            "title": "TED Talk author and urbanist Carlos Moreno gives CCNY Mumford Lecture",
+            "read_more_link": "https://www.ccny.cuny.edu/news/ted-talk-author-and-urbanist-carlos-moreno-gives-ccny-mumford-lecture",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-01/CarlosMoreno_%C2%A9ThomasBaltes_TBA4885_A_HD.jpg?itok=awIEKkAh",
+            "description": "The Sorbonne University professor, scientist and writer Carlos Moreno will deliver The City College of New York's Bernard and Anne Spitzer School of Architecture\u2019s Lewis Mumford Lecture entitled \u201cFrom Crisis to Proximity: A New Social Contract for Cities.\u201d The talk is Monday, Feb. 23, 2026, at 6 p.m. in CCNY's Great Hall. The lecture is free and open to the public. Moreno is associate professor and scientific director of the ETI (Entrepreneurship \u2013 Territory \u2013 Innovation) Chair at the IAE Paris, the Sorbonne Business School. The French-Colombian scholar coined the term \u201c15-Minute City,\u201d which"
         },
         {
             "title": "CCNY celebrates Black History Month with wide-ranging events led by Black Studies Department",
@@ -1609,9 +1882,65 @@
             "read_more_link": "https://www.ccny.cuny.edu/news/former-ambassador-marc-ostfield-new-colin-powell-school-dean",
             "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2025-12/AMB%20Ostfield%20-%20CCNY%20headshot_0.png?itok=VvIC-J_c",
             "description": "Executive, scholar, educator and diplomat are all titles that describe Marc Ostfield, who becomes the Richard J. Henley and Susan L. Davis Dean of the Colin Powell School for Civic and Global Leadership at The City College of New York on Jan. 26, 2026. Identified through a search process that drew more than 100 applicants from across the country, Ostfield spent more than two decades in government service, including serving as the U.S. ambassador to the Republic of Paraguay from January 2022 to January 2025. As the chief diplomatic representative of the U.S. government to this South American"
+        },
+        {
+            "title": "New NASA-Funded HiFLOWS Project underway at CCNY",
+            "read_more_link": "https://www.ccny.cuny.edu/news/new-nasa-funded-hiflows-project-underway-ccny",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2025-12/Nick%20Steiner%20HiFLOWS%20Peoject%20_2025.png?itok=9hL2s1TC",
+            "description": "As Arctic flooding accelerates due to climate change and current satellite systems frequently miss the peak of flood events, City College of New York scientists led by Nicholas C. Steiner have embarked on a pioneering project that addresses a critical gap in responsive flood monitoring for Arctic and sub-Arctic regions. The High-Latitude Flood and Open Water Surveillance (HiFLOWS) project runs from 2025 to 2027 with more than $350,000 in funding from NASA\u2019s Climate and Earth System Response to Arctic Change (CESRA) program. It will use commercial Synthetic Aperture Radar (SAR) constellations"
+        },
+        {
+            "title": "CCNY Dean Juan Carlos Mercado earns vote to top Spanish-language academy",
+            "read_more_link": "https://www.ccny.cuny.edu/news/ccny-dean-juan-carlos-mercado-earns-vote-top-spanish-language-academy",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2025-12/Juan%20Carlos%20Mercado_2025.jpg?itok=V_IgoK7m",
+            "description": "Juan Carlos Mercado, dean of The City College of New York\u2019s Division of Interdisciplinary Studies at the Center for Worker Education (CWE), is one of five leading academics and \u201ccreators of recognized international prestige\u201d elected Corresponding Members of the North American Academy of the Spanish Language (ANLE). The distinction recognizes outstanding academic careers dedicated to the study, teaching, and international promotion of the Spanish language and Hispanic culture. ANLE cited Mercado as \u201ca pioneer in expanding educational access and international cooperation.\u201d It noted his research"
+        },
+        {
+            "title": "UNU Hub R-SIRUS at CCNY presents workshop to address global sustainability challenges",
+            "read_more_link": "https://www.ccny.cuny.edu/news/unu-hub-r-sirus-ccny-presents-workshop-address-global-sustainability-challenges",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2025-12/R-SIRUS_Reza_Khanbilvardi_0.jpg?itok=h2HOkh6L",
+            "description": "Marking the first anniversary of its establishment at The City College of New York, the United Nations University Hub on Remote-Sensing and Sustainable Innovations for Resilient Urban Systems ( R-SIRUS) will present a weeklong Professional Development Workshop in Digital Earth and Artificial Intelligence for Sustainability in January 2026. The five-day micro-credential workshop, from Monday, Jan. 12 to Friday, Jan. 16, 2026, each day from 9 a.m. to 5 p.m., will take place on site and online. Designed for professionals, researchers, and policymakers looking to harness digital innovation for"
+        },
+        {
+            "title": "CCNY Harlem View students win College Media Association Pinnacle Awards",
+            "read_more_link": "https://www.ccny.cuny.edu/news/ccny-harlem-view-students-win-college-media-association-pinnacle-awards",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2025-11/students_edited_2.jpg?itok=nShGxYqD",
+            "description": "The City College of New York senior Tevin McKenzie and alumnus Jared Hoffman, MFA \u201925, Documentary Film, are winners of the College Media Association's 2025 Pinnacle Awards. Competing nationally in the large colleges division, McKenzie, an Advertising/Public Relations major and Journalism minor, received first place in the feature story category for his piece on the noisiest neighborhood in New York City. Hoffman received second place in the podcast category for his exploration of the origins of a controversial AI-assisted video sparked by President Trump's February remarks about redeveloping"
+        },
+        {
+            "title": "Benefactor Seymour Sternberg, theater impresario Voza Rivers, and community leader Lloyd Williams receive CCNY President\u2019s Medals",
+            "read_more_link": "https://www.ccny.cuny.edu/news/benefactor-seymour-sternberg-theater-impresario-voza-rivers-and-community-leader-lloyd",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2025-11/Sternberg%20and%20Williams.jpg?itok=8hUj9n3V",
+            "description": "Seymour \u201cSy\u201d Sternberg, B.E.E.\u201965, Voza Rivers, and the late Lloyd Williams are The City College of New York\u2019s 2025 President\u2019s Medal recipients. Sternberg and Rivers received their medals from CCNY President Vincent G. Boudreau at the annual President\u2019s Circle Dinner on Nov. 4 at the University Club of New York. Williams\u2019s son, Lateef Ade Williams, accepted his father's posthumous honor on the family\u2019s behalf. The President's Medal is awarded for distinguished achievement and public service. Past recipients include: Nelson Mandela; Nobel Laureates Robert Aumann and Leon M. Lederman; Coretta"
+        },
+        {
+            "title": "Grove School in medical breakthrough with wearable disposable electrotherapy",
+            "read_more_link": "https://www.ccny.cuny.edu/news/grove-school-medical-breakthrough-wearable-disposable-electrotherapy",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2025-11/Marom_Bikson_Wearable_electrotherapy%20copy.jpg?itok=JyhRBlVE",
+            "description": "Imagine going to the pharmacy and getting an adhesive bandage that applies gentle energy to accelerate wound healing, reduce infection or enhance skin complexion. Or sticking a patch on your forehead to control a migraine, depression or other brain disorders. Or getting your next vaccine booster not through a needle, but from a sticker. These may soon be a reality, thanks to cutting-edge research at The City College of New York led by the Grove School of Engineering\u2019s Marom Bikson, Mohamad Fallahrad, and Dean Alexander Couzis. Entitled \u201cWearable Disposable Electrotherapy,\u201d the CCNY team\u2019s work"
+        },
+        {
+            "title": "City & State names CCNY Sr. VP Dee Dee Mozeleski to 2025 Trailblazer in Economic Development list",
+            "read_more_link": "https://www.ccny.cuny.edu/news/city-state-names-ccny-sr-vp-dee-dee-mozeleski-2025-trailblazer-economic-development-list",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2025-11/Dee%20Dee%20Mozeleski-04_RGB.jpg?itok=QfmFo_81",
+            "description": "In recent years, Dee Dee Mozeleski\u2019s outstanding work in philanthropy, advertising, marketing and public relations has earned her top honors from Crain\u2019s New York Business and the Council for Advancement and Support of Education (CASE). The accolades continue for The City College of New York\u2019s senior vice president of the Office of Institutional Advancement, Communications and External Relations (OIACER), who also serves as executive director of the Foundation for City College, Inc., and as senior advisor to the CCNY President. Mozeleski has been named to City & State\u2019s 2025 Trailblazers in"
         }
     ],
     "bmcc": [
+        {
+            "title": "Summer Session at London School of Economics and Political Science Offers BMCC Students Unique Global Opportunity",
+            "date": "February 5, 2026",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/summer-session-at-london-school-of-economics-and-political-science-offers-bmcc-students-unique-global-opportunity/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/02/thumbnail-LSE.jpg",
+            "description": "BMCC is the only community college that is part of LSE summer program."
+        },
+        {
+            "title": "BMCC Annual Faculty Exhibition: Works by Faculty in the Art and Media Arts Departments, Opens February 11",
+            "date": "February 5, 2026",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-annual-faculty-exhibition-works-by-faculty-in-the-art-and-media-arts-departments-opens-feb-11/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/02/esposito-thumb.jpg",
+            "description": "Exhibit, showcasing faculty artists, is open through March 21."
+        },
         {
             "title": "BMCC-John Jay Prison-to-College Pathways Program receives Approval from Middle States, establishing Otisville facility as Additional Location",
             "date": "February 2, 2026",
@@ -1681,6 +2010,62 @@
             "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-professors-receive-182k-teagle-foundation-grant-to-implement-nyc-focused-civics-course/",
             "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/01/campus-thumb-grant.jpg",
             "description": "Grant will enable implementation of Harmony in the Metropolis: Discovering My Role in American Civic Life in New York City course."
+        },
+        {
+            "title": "BMCC\u2019s Healing through Hip Hop Initiative Hosts Event for World Premiere of \u201cBreakthrough\u201d",
+            "date": "December 18, 2025",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/bmccs-healing-through-hip-hop-initiative-hosts-event-for-world-premiere-of-breakthrough/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2025/12/breakthrough0thumb.jpg",
+            "description": "Workshops are designed to create a safe space where students can engage in creative expression with the guidance of hip-hop artists and counselor input."
+        },
+        {
+            "title": "Kaplan Educational Foundation Names Three BMCC Students to Scholar Program",
+            "date": "December 18, 2025",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/kaplan-educational-foundation-names-three-bmcc-students-to-scholar-program/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2023/11/kaplan-11162023.jpg",
+            "description": "Kaplan Leadership Scholars have been accepted to many of the country\u2019s most competitive schools, including Yale, Stanford, Brown, Amherst, Cornell and many others"
+        },
+        {
+            "title": "BMCC\u2019s Fall 2025 AI Innovation Student Summit Showcases Student Creativity, Social Good and Real-World Problem Solving",
+            "date": "December 16, 2025",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/bmccs-fall-2025-ai-innovation-student-summit-showcases-student-creativity-social-good-and-real-world-problem-solving/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2025/12/THUMB-AI-STUDENT-SUMMIT.jpg",
+            "description": "Initiative builds on BMCC\u2019s emphasis on experiential learning and positions students at the forefront of emerging fields such as public interest technology, data science, and AI-driven innovation."
+        },
+        {
+            "title": "Student Filmmakers Showcase Creative Talent at BMCC Film Festival",
+            "date": "December 10, 2025",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/student-filmmakers-showcase-creative-talent-at-bmcc-film-festival/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2025/12/film-thumb.jpg",
+            "description": "Films were judged in six categories\u2014Fiction, Documentary, Animation, Client-Based, and Montage or Experimental"
+        },
+        {
+            "title": "Record Number of BMCC Students Awarded Gilman International Scholarships",
+            "date": "December 10, 2025",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/record-number-of-bmcc-students-awarded-gilman-international-scholarships/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2025/12/gilman_seal-_blue.png",
+            "description": "The Gilman Program is a highly competitive, merit-based scholarship."
+        },
+        {
+            "title": "Teacher Education Professor Cara Kronen Elected Mayor of the Village of Tuckahoe",
+            "date": "December 3, 2025",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/teacher-education-professor-cara-kronen-elected-mayor-of-the-village-of-tuckahoe/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2025/12/Cara_thumb.jpg",
+            "description": "\u201cGetting involved in our communities models good citizenship for the next generation,\u201d says Professor Kronen."
+        },
+        {
+            "title": "BMCC Human Services Program Alumni Share Career Advice and Insight at Panel Event",
+            "date": "December 1, 2025",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-human-services-program-alumni-share-career-advice-and-insight-at-panel-event/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2025/12/thumb-human-services-panel.jpg",
+            "description": "Overall employment of social workers, counselors and related Human Services fields expected to grow in coming years."
+        },
+        {
+            "title": "BMCC Hosts AI Innovation Faculty Summit, Showcasing AI Across the Curriculum Success",
+            "date": "November 25, 2025",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-hosts-ai-innovation-faculty-summit-showcasing-ai-across-the-curriculum-success/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2025/11/Thumb-faculty-AI-SUMMIT.jpg",
+            "description": "Event was part of an ongoing National Science Foundation (NSF)-funded project supporting AI readiness, computational thinking, and student success."
         }
     ],
     "csi": [
@@ -1897,6 +2282,76 @@
             "read_more_link": "https://www.hunter.cuny.edu/news/six-hunter-students-will-study-abroad-as-gilman-scholars/?news-feed=spotlight&source=/news/",
             "image_reference": "https://s29068.pcdn.co/wp-content/uploads/benjamin-gilman-international-scholarship-logo-768x432.jpg.webp",
             "description": "Six Hunter students chosen in this round of U.S. Department of State\u2019s Benjamin A. Gilman International Scholarship."
+        },
+        {
+            "title": "Hunter Students Invited to Join a High-Impact Project To Curb Campus Waste",
+            "date": "December 22, 2025",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-students-invited-to-join-a-high-impact-project-to-curb-campus-waste/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/students-cuny-caucus-news-768x432.jpg.webp",
+            "description": "Here\u2019s your chance to create sustainable waste systems for your campus \u2014 and be paid for your participation."
+        },
+        {
+            "title": "Hunter Students Share Etchings With Family of Late Artist",
+            "date": "December 18, 2025",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-students-share-etchings-with-family-of-late-artist/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/henry-downes-and-lesly-morales-news-768x432.jpg.webp",
+            "description": "A dedicated teacher with strong connections in the New York art world promotes her students\u2019 work \u2014 to a surprising effect."
+        },
+        {
+            "title": "Hunter College Elementary School Inaugurates New Playground",
+            "date": "December 18, 2025",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-college-elementary-school-inaugurates-new-playground/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/ron-h-brown-playground-ribbon-cutting-news-768x432.jpg.webp",
+            "description": "Administrators,\u00a0parents, supporters, and\u00a0dignitaries\u00a0gathered to\u00a0cut the ribbon of the newly refurbished Ron\u00a0H.\u00a0Brown Playground on December 9."
+        },
+        {
+            "title": "Hunter Names Three to Permanent Leadership Posts",
+            "date": "December 16, 2025",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-names-three-to-permanent-leadership-posts/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/hunter-campus-768x432.jpg.webp",
+            "description": "CUNY Board of Trustees appoint three top professionals to senior leadership positions at Hunter College."
+        },
+        {
+            "title": "Hunter College Adopts New Bell Schedule for Classes at 68th Street Campus",
+            "date": "December 15, 2025",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-college-adopts-new-bell-schedule-for-classes-at-68th-street-campus/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/hunter-campus-building-4-768x432.jpg.webp",
+            "description": "Starting with the Spring 2026 semester, Hunter College will implement a new bell schedule for classes held at the 68th Street Campus."
+        },
+        {
+            "title": "Applications Open for Evelyn Lauder Community Care Nurse Practitioners",
+            "date": "December 12, 2025",
+            "read_more_link": "https://www.hunter.cuny.edu/news/applications-open-for-evelyn-lauder-community-care-nurse-practitioners/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/nursing-graduation-news-768x432.jpg.webp",
+            "description": "Here\u2019s a chance to join an elite cohort of nurse practitioners at the forefront of community healthcare in New York City."
+        },
+        {
+            "title": "Hunter Computer Scientist and Team Test Queer-Friendly Robot",
+            "date": "December 12, 2025",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-computer-scientist-and-team-test-queer-friendly-robot/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/robotics-team-news-768x432.jpg.webp",
+            "description": "They\u2019re on a mission to make new technologies friendlier for communities of all kinds \u2014 including and especially LGBTQIA+ people."
+        },
+        {
+            "title": "Hunter Nursing Student Recognized by National Honor Society",
+            "date": "December 4, 2025",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-nursing-student-recognized-by-national-honor-society/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/leon-zheng-news-768x432.jpg.webp",
+            "description": "A first-generation student at the Hunter-Bellevue School of Nursing can add an honor society membership to his repertoire."
+        },
+        {
+            "title": "Hunter Staffer Recognized With \u2018Keeper of the City\u2019 Award",
+            "date": "November 25, 2025",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-staffer-recognized-with-keeper-of-the-city-award/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/sean-davis-news-768x432.jpg.webp",
+            "description": "The annual award, presented in partnership with the DC37 union and Straus Media, celebrates individuals who keep essential operations running."
+        },
+        {
+            "title": "Four Hunter College Alumni Win CUNY\u2019s \u201850 Under 50\u2019 Award",
+            "date": "November 25, 2025",
+            "read_more_link": "https://www.hunter.cuny.edu/news/four-hunter-college-alumni-win-cunys-50-under-50-award/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/cuny-50-under-50-news-768x432.jpg.webp",
+            "description": "Four Hunter College alumni were named to CUNY\u2019s annual \u201c50 Under 50\u201d list."
         }
     ],
     "jjay": [
@@ -2048,6 +2503,13 @@
             "read_more_link": "https://www.kbcc.cuny.edu/news/2025/Suri-Duitch-Eighth-President-of-KCC.html",
             "image_reference": "https://www.kbcc.cuny.edu/news/2025/images/Suri-Duitch-800x533.jpg",
             "description": "The City University of New York has appointed Suri Duitch as president of Kingsborough Community College, making permanent the post she has held on an interim basis since January 2024."
+        },
+        {
+            "title": "Kingsborough Community College Welcomes Visiting Austrian Fulbright Scholar-in-Residence",
+            "date": "04/09/25",
+            "read_more_link": "https://www.kbcc.cuny.edu/news/2025/Ingrid-Geier.html",
+            "image_reference": "https://www.kbcc.cuny.edu/news/2025/images/Ingrid-Geier-800x533.jpg",
+            "description": "KCC has been selected to host Fulbright Scholar-in-Residence Dr. Ingrid Geier, a professor of educational science at Salzburg University of Education in Austria, through the end of the Spring 2025 semester."
         }
     ],
     "slu": [
@@ -2110,6 +2572,66 @@
             "read_more_link": "https://slu.cuny.edu/2025/11/24/new-professors-slu/",
             "image_reference": "",
             "description": "The SLU Urban Studies faculty added two new members this fall, with the arrival of Assistant Professor Samantha Agarwal and Distinguished Lecturer Puya Gerami. They both will specialize in the Leadership for Democracy and Social Justice program."
+        },
+        {
+            "title": "Publications and Media: The Latest by SLU Faculty",
+            "read_more_link": "https://slu.cuny.edu/2025/11/24/publications-and-media-the-latest-by-slu-faculty-nov-2025/",
+            "image_reference": "",
+            "description": "Samantha Agarwal was an invited panelist at the Engaging Stuart Hall In/From the Global South Symposium at the University of Pretoria, South Africa, October 29-31. She participated in the 2025 American Institute of Indian Studies (AIIS) Dissertation-to-Book Workshop at the University of Wisconsin-Madison on October 22."
+        },
+        {
+            "title": "Urban Studies Students Win CUNY-wide Awards Supporting Public Service",
+            "read_more_link": "https://slu.cuny.edu/2025/10/17/urban-studies-students-win-cuny-wide-awards-supporting-public-service/",
+            "image_reference": "",
+            "description": "Two SLU students who are both in their final year of the Urban Studies Master\u2019s program recently won CUNY-wide awards that provide financial support and professional experience."
+        },
+        {
+            "title": "\u2018Use Your Culture to Contribute to Your Community\u2019: SLU Alum Justin Sanchez on Hispanic Heritage and Running for NYC Council",
+            "read_more_link": "https://slu.cuny.edu/2025/10/16/use-your-culture-to-contribute-to-your-community-slu-alum-justin-sanchez-on-hispanic-heritage-and-running-for-nyc-council/",
+            "image_reference": "",
+            "description": "With all 51 districts of the New York City Council up for election on November 4, new faces are coming to local government \u2013 and SLU alumnus Justin Sanchez is likely to be among them."
+        },
+        {
+            "title": "From Nightclubs to Union Halls:  Joseph Juntunen Carries On Legacy of Labor Organizing",
+            "read_more_link": "https://slu.cuny.edu/2025/10/16/from-nightclubs-to-union-halls-joseph-juntunen-carries-on-legacy-of-labor-organizing/",
+            "image_reference": "",
+            "description": "SLU graduate student Joseph Juntunen has been working in the nightclub and entertainment industry for most of his life, and organizing there for almost as long."
+        },
+        {
+            "title": "SLU Mourns the Loss of Kent Wong, Labor Educator and Visionary",
+            "read_more_link": "https://slu.cuny.edu/2025/10/09/slu-mourns-the-loss-of-kent-wong-labor-educator-and-visionary/",
+            "image_reference": "",
+            "description": "It is with deep sadness that we learned of the news of the passing of Kent Wong \u2013 a giant in our field, a beloved colleague and mentor, and a dear friend of so many of us at SLU."
+        },
+        {
+            "title": "From Refugee Camp to College Campus, Rina Cummings Redefines Her Future",
+            "read_more_link": "https://slu.cuny.edu/2025/09/22/from-refugee-camp-to-college-campus/",
+            "image_reference": "",
+            "description": "SLU student Rina D. Cummings comes across as even keeled and self-possessed, even though her life has been shaken by profound transitions. Born in Liberia, she spent part of her childhood in a Ghanaian refugee camp before immigrating at 12 to America."
+        },
+        {
+            "title": "Publications and Media: The Latest by SLU Faculty",
+            "read_more_link": "https://slu.cuny.edu/2025/09/22/publications-and-media-the-latest-by-slu-faculty/",
+            "image_reference": "",
+            "description": "Sofya Aptekar published \u201cIndebted Heroes: Debt Extraction and Military Labor in the United States\u201d in South Atlantic Quarterly and co-authored \u201cFor Collective Liberation: Anticapitalism in the Migrant Justice Movement\u201d for the Spring 2025 edition of Spectre \u2026"
+        },
+        {
+            "title": "Greetings From Our New Associate Dean of Academic Affairs, Rita \u201cKiki\u201d Edozie",
+            "read_more_link": "https://slu.cuny.edu/2025/09/22/greetings-from-our-new-associate-academic-dean-rita-kiki-edozie/",
+            "image_reference": "",
+            "description": "On my first day of work, as I walked onto\u00a0the 19th\u00a0floor of SLU\u2019s\u00a0campus, I was pleasantly struck by Helen Keller\u2019s famous quote displayed on the wall:\u00a0\u201cIt\u2019s a terrible thing to see and have no vision.\u201d \u2026"
+        },
+        {
+            "title": "Welcome the new Associate Dean for Academic Affairs",
+            "read_more_link": "https://slu.cuny.edu/2025/09/03/welcome-the-new-associate-dean-for-academic-affairs/",
+            "image_reference": "https://slu.cuny.edu/wp-content/uploads/2025/09/rita-kiki-edozie-home.jpg",
+            "description": "Dear SLU Community,I am very happy to announce the appointment of Dr. Rita \u201cKiki\u201d Edozie as Associate Dean for AcademicAffairs at the CUNY School of Labor and Urban Studies \u2026"
+        },
+        {
+            "title": "The State of the Unions 2025: A Profile of Organized Labor in New York City, New York State, and the United States",
+            "read_more_link": "https://slu.cuny.edu/2025/08/25/the-state-of-the-unions-2025/",
+            "image_reference": "",
+            "description": "Organized labor has taken center stage in the 2020s, with workers leading successful organizing drives at Amazon, Starbucks, Apple, and across a range of industries from health care to higher education \u2026"
         }
     ],
     "soj": [
