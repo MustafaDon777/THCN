@@ -304,6 +304,24 @@
     ],
     "broklyn": [
         {
+            "title": "Presidential Lecture Explores Public Trust, Institutional Integrity, and Ethical Leadership",
+            "read_more_link": "https://www.brooklyn.edu/bc-news/presidential-lecture-explores-public-trust-institutional-integrity-and-ethical-leadership/",
+            "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
+            "description": "Former federal prosecutor with the U.S. Department of Justice Michael Ben\u2019Ary and Michelle J. Anderson examine the consequences of political interference in the rule of law and democratic institutions."
+        },
+        {
+            "title": "Students Gain Global Public Health Experience Through ICAP Next Generation Program",
+            "read_more_link": "https://www.brooklyn.edu/bc-news/students-gain-global-public-health-experience-through-icap-next-generation-program/",
+            "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
+            "description": "The program prepares emerging public health leaders to address urgent global health challenges."
+        },
+        {
+            "title": "A Nobel Laureate Comes to Brooklyn College",
+            "read_more_link": "https://www.brooklyn.edu/bc-news/a-nobel-laureate-comes-to-brooklyn-college/",
+            "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
+            "description": "Celebrated scientist Martin Chalfie highlights 40th anniversary of the H. Martin Friedman Lecture series."
+        },
+        {
             "title": "Hess Week 2026: Three Days of Dialogue, Reflection, and Community",
             "read_more_link": "https://www.brooklyn.edu/bc-news/hess-week-2026-three-days-of-dialogue-reflection-and-community/",
             "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
@@ -401,6 +419,20 @@
         }
     ],
     "sph": [
+        {
+            "title": "CUNY ISPH awarded $300,000 grant to sustain CHASING COVID Cohort",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/03/25/300000-grant-chasing-covid/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/03/GettyImages-1349026450-300x200.jpg",
+            "description": "The Schmidt Initiative for Long Covid has awarded researchers from the CUNY Institute for Implementation Science in Population Health (ISPH) at CUNY SPH $300,000 to maintain one of the few remaining independent platforms for tracking vaccine behavior, long COVID, and emerging public health threats i...",
+            "date": "Mar. 25, 2026"
+        },
+        {
+            "title": "Building better systems for disability inclusion in education and research",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/03/25/disability-inclusion-education-research/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/03/Picture1-300x197.png",
+            "description": "Photo: (From left to right) STEPS2 Health Educators Ariel Davis, Jordan Fogle, and Abigail Winokur\nAs part of the NIH-Funded Socialization To Enrich Participation & Support Sexuality (STEPS2) Health Education study, two CUNY SPH researchers have published papers that spotlight trauma\u2011informed ...",
+            "date": "Mar. 25, 2026"
+        },
         {
             "title": "CUNY SPH research informs mayor\u2019s plan to renew 10 underserved NYC parks",
             "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/03/18/cuny-sph-research-informs-mayors-parks-plan/",
@@ -526,23 +558,23 @@
             "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/01/GettyImages-2148295313-300x200.jpg",
             "description": "A study\u00a0by CUNY SPH researchers suggests that U.S. high school students who are bullied at school have substantially\u00a0higher odds of attempting suicide than peers who are not bullied, with bullied girls facing the greatest risk.\nFor the study, published in JAMA Open Network, the researchers used 20...",
             "date": "Jan. 20, 2026"
-        },
-        {
-            "title": "Double threat: HIV and hepatitis B co-infection increases risk of kidney dysfunction",
-            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/01/13/hiv-hepatitis-b-co-infection-kidney-dysfunction/",
-            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/01/GettyImages-2194519862-300x158.jpg",
-            "description": "A new 10-year regional study led by CUNY SPH doctoral graduate Thinh Toan Vu reveals that adults living with both HIV and hepatitis B virus across the Asia-Pacific face substantially higher risks of kidney dysfunction than those living with HIV alone.\nDrawing on data from more than 23,000 adults enr...",
-            "date": "Jan. 13, 2026"
-        },
-        {
-            "title": "Welcome Sera Thomas, SRJ Hub social media manager!",
-            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/01/13/welcome-sera-thomas/",
-            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/01/Sera-Headshot.SRJ-Hub-e1768320300555-300x255.jpg",
-            "description": "CUNY SPH is excited to welcome Sera Thomas to the staff as the social media manager for the Sexual and Reproductive Justice Hub (SRJ Hub).\nWith experience supporting communications across academic, nonprofit, and healthcare settings, Sera bridges public health knowledge and digital strategy to devel...",
-            "date": "Jan. 13, 2026"
         }
     ],
     "hostos": [
+        {
+            "title": "Student Resilience Honored During President\u2019s Recognition Tea for Women\u2019s History Month",
+            "date": "2026-03-27",
+            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Student-Resilience-Honored-During-President\u2019s-Reco",
+            "image_reference": "https://www.hostos.cuny.edu/getattachment/27702d21-64e8-45c8-be9e-5467dad825c1/recognition1.png.aspx;.gif;;?lang=en-US&width=225&height=138",
+            "description": "On Thursday, March 26, the Faculty Dining Room at Hostos Community College was transformed into a space of reflection, recognition, and celebration as students, faculty, and staff gathered for the President\u2019s Recognition Tea in Honor of Women\u2019s History Month."
+        },
+        {
+            "title": "The Story of Elinor Glyn, the First Romance Novelist and Hollywood\u2019s Oracle of Sex: Women\u2019s History Month Takes a Walk on the Wild Side",
+            "date": "2026-03-24",
+            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/The-Story-of-Elinor-Glyn,-the-First-Romance-Noveli",
+            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/The-Story-of-Elinor-Glyn,-the-First-Romance-Noveli/story1.png.aspx;.gif;;?lang=en-US&width=225&height=152",
+            "description": "On Monday, March 23, the Hostos Research Center was packed with students, faculty, and staff who had come to hear about how an unhappily married aristocratic British woman not only invented the \u201csex novel\u201d but also became the \u201coracle that helped Hollywood to its sexual future.\u201d That woman, Elinor Glyn, is the subject of the book \u201cInventing the It Girl: How Elinor Glyn Created the Modern Romance and Conquered Early Hollywood,\" and the author, Columbia University\u2019sHistory Professor Hilary A. Hallett, came to Hostos to share the fascinating story of this remarkable woman to help us mark Women\u2019s History Month."
+        },
         {
             "title": "Hostos LGBTQIA+ Council Screens \u201cHeightened Scrutiny,\u201d Sparks Dialogue on Transgender Rights, Equity and Inclusion",
             "date": "2026-03-24",
@@ -668,20 +700,6 @@
             "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/All-classes-will-be-offered-online,-January-26th",
             "image_reference": "",
             "description": "All classes will be offered online today, January 26th. If you have an in-person class today, please log into your course in Brightspace for more information about your class. If you have any questions, please email your professor."
-        },
-        {
-            "title": "Hostos Secures Over $100,000 in CUNY AI Innovation Fund Awards",
-            "date": "2026-01-23",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Secures-Over-$100,000-in-CUNY-AI-Innovation",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/45ea5f25-e2e4-45fa-9490-86357e5d6995/Picture1.png.aspx;.gif;;?lang=en-US&width=225&height=150",
-            "description": "Hostos Community College has been awarded more than $100,000 in competitive funding from the CUNY AI Innovation Fund, recognizing the College\u2019s leadership in advancing ethical artificial intelligence (AI), innovative pedagogy, and faculty-driven instructional transformation."
-        },
-        {
-            "title": "Hostos Student NaiAsia McGregor Selected for Prestigious Kaplan Leadership Program",
-            "date": "2026-01-13",
-            "read_more_link": "https://www.hostos.cuny.edu/Home-Page-Content/News/Hostos-Student-NaiAsia-McGregor-Selected-for-Prest",
-            "image_reference": "https://www.hostos.cuny.edu/getattachment/Home-Page-Content/News/Hostos-Student-NaiAsia-McGregor-Selected-for-Prest/NaiAsiaReplace.png.aspx;.gif;;?lang=en-US&width=225&height=276",
-            "description": "Hostos Community College proudly announces that student NaiAsia McGregor has been selected as a 2025\u201326 Kaplan Leadership Scholar, a prestigious honor awarded to a highly selective group of exceptional community college students."
         }
     ],
     "york": [
@@ -828,6 +846,69 @@
     ],
     "lagrdia": [
         {
+            "title": "QNS",
+            "read_more_link": "https://qns.com/2026/03/through-her-lens-independent-women-filmmakers/",
+            "image_reference": "",
+            "description": "On March 19, Queens Deputy Borough President Ebony Young hosted an event at LaGuardia Community College celebrating independent women filmmakers.",
+            "date": "March 20, 2026"
+        },
+        {
+            "title": "QNS",
+            "read_more_link": "https://qns.com/2026/03/laguardia-college-cooke-scholarship-semifinalists/",
+            "image_reference": "",
+            "description": "Seven LaGuardia Community College students announced as Jack Kent Cooke scholarship semifinalists.",
+            "date": "March 20, 2026"
+        },
+        {
+            "title": "LaGuardia Community College Celebrates Women\u2019s and Men\u2019s Basketball Team Achievements",
+            "read_more_link": "https://www.laguardia.edu/news/laguardia-community-college-celebrates-womens-and-mens-basketball-team-achievements/",
+            "image_reference": "",
+            "description": "LaGuardia Community College Celebrates Women\u2019s and Men\u2019s Basketball Team Achievements LONG ISLAND CITY, NY (March 6, 2026) \u2014 LaGuardia Community College/CUNY is celebrating LaGuardia Women\u2019s and Men\u2019s Basketball for reaching CUNY Playoffs & Regional Quarterfinals for the first time since",
+            "date": "March 6, 2026"
+        },
+        {
+            "title": "PERFIL",
+            "read_more_link": "https://www.perfil.com/noticias/espectaculos/bridgerton-perdio-su-rumbo-de-inclusion-de-pilar-conceptual-a-un-recurso-estetico.phtml",
+            "image_reference": "",
+            "description": "Dr. Jayashree Kambl\u00e9, a professor of English at LaGuardia, on the racial and cultural diversity reflected in the Bridgerton series. (Article in Spanish.)",
+            "date": "March 4, 2026"
+        },
+        {
+            "title": "NEW YORK AMSTERDAM NEWS",
+            "read_more_link": "https://amsterdamnews.com/news/2026/03/26/african-american-film-scorers-now-properly-recognized-on-wikipedia/",
+            "image_reference": "",
+            "description": "Through a CUNYpedia research initiative, LaGuardia students created a Wikipedia article spotlighting a century of overlooked contributions by Black composers to U.S. film.",
+            "date": "March 26, 2026"
+        },
+        {
+            "title": "BLACK NEWS UK",
+            "read_more_link": "https://www.blacknews.uk/african-american-film-scorers-now-properly-recognized-on-wikipedia",
+            "image_reference": "",
+            "description": "LaGuardia students in an English 103 course taught by Ximena Gallardo and Ann Matsuuchi created a Wikipedia article spotlighting a century of overlooked contributions by Black composers to U.S. film.",
+            "date": "March 26, 2026"
+        },
+        {
+            "title": "INSIDE HIGHER ED",
+            "read_more_link": "https://www.insidehighered.com/news/student-success/life-after-college/2026/03/25/cuny-brings-career-readiness-classroom",
+            "image_reference": "",
+            "description": "CUNY Beyond is delivering early gains at LaGuardia Community College, where internship applications are up 20%. Dr. Jason Hendrickson, a LaGuardia professor and CUNY co-director, said the initiative helps students better connect academics to careers.",
+            "date": "March 25, 2026"
+        },
+        {
+            "title": "Searching for Direction Led Michael Moura to LaGuardia Community College and a Career in Global Search Technology",
+            "read_more_link": "https://www.laguardia.edu/news/searching-for-direction-led-michael-moura-to-laguardia-community-college-and-a-career-in-global-search-technology/",
+            "image_reference": "",
+            "description": "Searching for Direction Led Michael Moura to LaGuardia Community College and a Career in Global Search Technology LONG ISLAND CITY, NY (March 2, 2026) \u2014 For much of his early adulthood, Michael Moura was searching\u2014searching for a path that made",
+            "date": "March 3, 2026"
+        },
+        {
+            "title": "LaGuardia Community College Presents 2026 Fiorello LaGuardia Book Prize to Rutgers University Professor Emeritus Dr. Robert W. Snyder",
+            "read_more_link": "https://www.laguardia.edu/news/laguardia-community-college-presents-2026-fiorello-laguardia-book-prize-to-rutgers-university-professor-emeritus-dr-robert-w-snyder/",
+            "image_reference": "",
+            "description": "LaGuardia Community College Presents 2026 Fiorello LaGuardia Book Prize to Rutgers University Professor Emeritus Dr. Robert W. Snyder Award recognizes outstanding work of scholarship based on resources from the LaGuardia and Wagner Archives LONG ISLAND CITY, NY (March 3, 2026)",
+            "date": "March 3, 2026"
+        },
+        {
             "title": "NATIONAL TODAY",
             "read_more_link": "https://nationaltoday.com/us/ny/new-york/news/2026/02/26/laguardia-performing-arts-center-presents-rough-draft-festival-2026/",
             "image_reference": "",
@@ -903,72 +984,23 @@
             "image_reference": "",
             "description": "LaGuardia Community College Welcomes Five Full-Time Health Sciences Faculty Members LONG ISLAND CITY, NY (March 17, 2026) \u2014\u00a0LaGuardia Community College/CUNY welcomes five full-time faculty members to the Health Sciences Department for the Spring semester, which began March 4. The five",
             "date": "March 17, 2026"
-        },
-        {
-            "title": "LaGuardia and Wagner Archives to Host Panel Marking the 40th Anniversary of the New York City Gay Rights Bill",
-            "read_more_link": "https://www.laguardia.edu/news/laguardia-and-wagner-archives-to-host-panel-marking-the-40th-anniversary-of-the-new-york-city-gay-rights-bill/",
-            "image_reference": "",
-            "description": "LaGuardia and Wagner Archives to Host Panel Marking the 40th Anniversary of the New York City Gay Rights Bill Thursday, March 26, 6 p.m., LPAC Mainstage LONG ISLAND CITY, NY (March 17, 2026) \u2014 On March 20, 1986, the City",
-            "date": "March 17, 2026"
-        },
-        {
-            "title": "CITY & STATE NEW YORK",
-            "read_more_link": "https://www.cityandstateny.com/power-lists/2026/03/2026-queens-power-100/412047/#kenneth-adams",
-            "image_reference": "",
-            "description": "LaGuardia Community College President Kenneth Adams has been named to City & State\u2019s Queens Power 100, recognizing him among the borough\u2019s most influential leaders.",
-            "date": "March 16, 2026"
-        },
-        {
-            "title": "LaGuardia Faculty and Leadership Participate in CUNY Women\u2019s Conference, March 5, 18-19, and 26",
-            "read_more_link": "https://www.laguardia.edu/news/laguardia-faculty-and-leadership-participate-in-cuny-womens-conference-march-5-18-19-and-26/",
-            "image_reference": "",
-            "description": "LaGuardia Faculty and Leadership Participate in CUNY Women\u2019s Conference, March 5, 18-19, and 26 LONG ISLAND CITY, NY (March 13, 2026)\u00a0\u2014\u00a0On history, culture, and society. LaGuardia Community College and other colleges in the City University of New York (CUNY) system",
-            "date": "March 13, 2026"
-        },
-        {
-            "title": "Seven LaGuardia Community College Students Named Semifinalists for 2026 Jack Kent Cooke Transfer Scholarship",
-            "read_more_link": "https://www.laguardia.edu/news/seven-laguardia-community-college-students-named-semifinalists-for-2026-jack-kent-cooke-transfer-scholarship/",
-            "image_reference": "",
-            "description": "Seven LaGuardia Community College Students Named Semifinalists for 2026 Jack Kent Cooke Transfer Scholarship LONG ISLAND CITY, NY (March 11, 2026) \u2014 Seven LaGuardia Community College/CUNY students have been named semifinalists for the 2026 Jack Kent Cooke Undergraduate Transfer Scholarship,",
-            "date": "March 11, 2026"
-        },
-        {
-            "title": "LaGuardia Community College Celebrates Women\u2019s and Men\u2019s Basketball Team Achievements",
-            "read_more_link": "https://www.laguardia.edu/news/laguardia-community-college-celebrates-womens-and-mens-basketball-team-achievements/",
-            "image_reference": "",
-            "description": "LaGuardia Community College Celebrates Women\u2019s and Men\u2019s Basketball Team Achievements LONG ISLAND CITY, NY (March 6, 2026) \u2014 LaGuardia Community College/CUNY is celebrating LaGuardia Women\u2019s and Men\u2019s Basketball for reaching CUNY Playoffs & Regional Quarterfinals for the first time since",
-            "date": "March 6, 2026"
-        },
-        {
-            "title": "PERFIL",
-            "read_more_link": "https://www.perfil.com/noticias/espectaculos/bridgerton-perdio-su-rumbo-de-inclusion-de-pilar-conceptual-a-un-recurso-estetico.phtml",
-            "image_reference": "",
-            "description": "Dr. Jayashree Kambl\u00e9, a professor of English at LaGuardia, on the racial and cultural diversity reflected in the Bridgerton series. (Article in Spanish.)",
-            "date": "March 4, 2026"
-        },
-        {
-            "title": "PIX11 NEWS",
-            "read_more_link": "https://pix11.com/news/local-news/wwii-letters-reveal-a-timeless-love-story-of-everyday-new-yorkers-lives/",
-            "image_reference": "",
-            "description": "Dr. Molly Rosner, Director of Education Programs for the LaGuardia and Wagner Archives, shares love letters her grandparents sent one another during World War II, in a special Valentine\u2019s Day feature.",
-            "date": "February 12, 2026"
-        },
-        {
-            "title": "QNS",
-            "read_more_link": "https://qns.com/2026/02/laguardia-college-julie-won-capital-improvements/",
-            "image_reference": "",
-            "description": "LaGuardia College receives $3 million from NYC Council for capital improvements.",
-            "date": "February 24, 2026"
-        },
-        {
-            "title": "QNS",
-            "read_more_link": "https://qns.com/2026/02/laguardia-college-barbershop-series/",
-            "image_reference": "",
-            "description": "LaGuardia Community College\u2019s Barbershop Series is at the intersection of Black culture and student engagement.",
-            "date": "February 23, 2026"
         }
     ],
     "sps": [
+        {
+            "title": "CUNY SPS\u2019 Newly Launched Graduate Programs Meet Needs of Growing Industries",
+            "date": "March 30, 2026",
+            "read_more_link": "https://sps.cuny.edu/about/news/cuny-sps-newly-launched-graduate-programs-meet-needs-of-growing-industries",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/african-woman-scorlling-on-laptop-looking-at-chart_SQUARE600.JPG?itok=LoQy1rQ6",
+            "description": "A look at CUNY SPS' new master's programs in generative AI and early childhood policy and leadership, which were launched this spring to prepare students for two rapidly growing and impactful fields."
+        },
+        {
+            "title": "8th Annual Student Leadership Conference Applies Theory to Affect Change",
+            "date": "March 25, 2026",
+            "read_more_link": "https://sps.cuny.edu/about/news/8th-annual-student-leadership-conference-applies-theory-to-affect-change",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/CUNY-SPS-keynote-speakers_0.png?itok=zWgpoFeZ",
+            "description": "CUNY SPS's 8th Annual Student Leadership Conference united adult learners around the theme \"Change Agents: From Classroom to Community,\" featuring several graduate students who led workshops on using theory to achieve social justice."
+        },
         {
             "title": "Sharing My Story: Sharon Morris",
             "date": "March 20, 2026",
@@ -1094,20 +1126,6 @@
             "read_more_link": "https://sps.cuny.edu/about/news/this-veterans-day-cuny-sps-salutes-all-who-served",
             "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/joel-rivera-camacho-z4flTWuGDHs-unsplash_Square600.JPG?itok=P1YWLkON",
             "description": "CUNY SPS proudly honors all veterans within our School and extends our heartfelt appreciation for their bravery and service. In recognition of this important day, we are pleased to showcase several student veterans and the community who supports them."
-        },
-        {
-            "title": "CUNY SPS Celebrates Faculty and Staff Service with Milestone Anniversary Ceremony",
-            "date": "October 31, 2025",
-            "read_more_link": "https://sps.cuny.edu/about/news/cuny-sps-celebrates-faculty-and-staff-service-with-milestone-anniversary-ceremony",
-            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/CUNY-SPS-Employee-appreciation-event.png?itok=XrLnNJSE",
-            "description": "For the second year in a row, CUNY SPS celebrated the hard work and dedication of its staff with a Years of Service Awards Ceremony honoring employees who reached milestone work anniversaries."
-        },
-        {
-            "title": "Undergraduate Business Programs To Be Offered As Zero Textbook Cost, Providing Students With Substantial Savings",
-            "date": "October 24, 2025",
-            "read_more_link": "https://sps.cuny.edu/about/news/undergraduate-business-programs-to-be-offered-as-zero-textbook-cost-providing-students",
-            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/CUNY-SPS-student-working-laptop_0.jpg?itok=RyHbzJa8",
-            "description": "Starting in Winter Session 2026, CUNY SPS will add the BS in Business and the BPS in Applied Management and Entrepreneurship programs to the growing list of degree programs offering student savings through textbook-free curriculum, called \"Z Degrees.\""
         }
     ],
     "qcc": [
@@ -1615,6 +1633,27 @@
     ],
     "lehman": [
         {
+            "title": "Will AI Make Us Stupid? Maeve Adams Weighs in at Salon",
+            "date": "March 30, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Will-AI-Make-Us-Stupid-Maeve-Adams-Weighs-in-at-Salon.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Events-Calendar/Images/2025/robotics-demo-day.png",
+            "description": "LLMs Won\u2019t Destroy Our Capacity for Critical Thinking"
+        },
+        {
+            "title": "Lehman Weekly March 22-28, 2026: The World Comes to Lehman",
+            "date": "March 26, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-March-22-28-2026-The-World-Comes-to-Lehman-1.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/UN_SplitScreen.png",
+            "description": "The World Comes to Lehman"
+        },
+        {
+            "title": "Eighty Years Since First Meeting, United Nations Security Council Returns to Lehman",
+            "date": "March 25, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Eighty-Years-Since-First-Meeting-United-Nations-Security-Council-Returns-to-Lehman.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/lehmanUN-4-1.jpg",
+            "description": "Campus played pivotal role in UN history"
+        },
+        {
             "title": "Lehman-Toyohashi Exchange Program Brings Japanese Student Researchers to Campus",
             "date": "March 24, 2026",
             "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Toyohashi-Exchange-Program-Brings-Japanese-Student-Researchers-to-Campus-1.php",
@@ -1732,27 +1771,6 @@
             "read_more_link": "https://www.lehman.cuny.edu/news/2026/Espaillat-Announces-820K-for-South-Field-Funding-1.php",
             "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Espaillat-everyone.JPG",
             "description": "Allocation supports significant expansion of seating capacity"
-        },
-        {
-            "title": "Lehman Weekly February 22-28, 2026: Cup of Joy",
-            "date": "February 25, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-February-22-28-2026-Cup-of-Joy-1.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/CoverPhoto.png",
-            "description": "Cup of Joy"
-        },
-        {
-            "title": "How Prof. Bryan Warde Spent His Holidays: Visiting Every Country in the World",
-            "date": "February 25, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/How-Prof-Bryan-Warde-Spent-His-Holidays-Visiting-Every-Country-in-the-World-.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Warde-QA-960x640.jpg",
-            "description": "Social Work professor completes \"the 193,\" traveling to all U.N. member states, non-member states, territories, and more"
-        },
-        {
-            "title": "Lehman Students Lend Their Voices to Museum Exhibit Audio Guide",
-            "date": "February 23, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Students-Lend-Their-Voices-to-Museum-Exhibit-Audio-Guide.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Wunder-HS.jpg",
-            "description": "Honors class produced Bloomberg Connects segments for the Hispanic Society & Museum exhibition"
         }
     ],
     "law": [
@@ -1885,6 +1903,30 @@
     ],
     "ccny": [
         {
+            "title": "Noted Harvard cardiovascular medicine researcher Christine Seidman delivers CCNY\u2019s de Beer Lecture, March 18",
+            "read_more_link": "https://www.ccny.cuny.edu/news/noted-harvard-cardiovascular-medicine-researcher-christine-seidman-delivers-ccnys-de-beer",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-03/De%20Beer%20Lecture_2026_Christine%20Seidman.jpeg?itok=Q0f7-vDh",
+            "description": "Dr. Christine E. Seidman, the Thomas W. Smith Professor of Medicine and Genetics at Harvard Medical School, presents the 2026 Louis Levine-Gabriella de Beer Lecture in Genetics at The City College of New York on Wednesday, March 18. Her talk, \u201cGetting to the Heart of the Matter: Curing Genetic Cardiomyopathy,\u201d begins at 5 p.m. in The Great Hall. The lecture is free and open to the public. Click here to RSVP. Seidman\u2019s lecture is on hypertrophic cardiomyopathy (HCM), the most common cause of sudden cardiac death on the athletic field that causes symptoms, arrhythmias, and heart failure. HCM"
+        },
+        {
+            "title": "PBS premieres \u201cTHOREAU\u201d documentary, with a CCNY connection",
+            "read_more_link": "https://www.ccny.cuny.edu/news/pbs-premieres-thoreau-documentary-ccny-connection",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-03/David%20Cieri%20%26%20Meryl%20Streep.jpg?itok=0UMk1IDA",
+            "description": "\u201c HENRY DAVID THOREAU,\u201d a PBS series executive produced by Ken Burns and musician Don Henley, narrated by George Clooney and featuring the voices of Meryl Streep, Jeff Goldblum, Ted Danson and other acting legends, premieres at 9 p.m. ET on March 30, with music scored by City College of New York Adjunct Professor and master composer David Cieri. Click here to watch the trailer. A member of CCNY\u2019s music faculty for 16 years, Cieri currently teaches courses on music and film, and film scoring in Professor Paul Kozel\u2019s renowned Sonic Arts Center (SAC). His work on \u201cTHOREAU,\u201d a three-part, three"
+        },
+        {
+            "title": "AAAS Honors three CCNY researchers as Lifetime Fellows",
+            "read_more_link": "https://www.ccny.cuny.edu/news/aaas-honors-three-ccny-researchers-lifetime-fellows",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-03/AAAS%202025%20Llife-time%20Fellows%20.jpg?itok=B03wvy_G",
+            "description": "Three City College of New York faculty members -- Kevin H. Gardner, David J. Lohman and Vinod M. Menon -- have been elected 2025 Fellows of the American Association for the Advancement of Science. They are among the nearly 500 scientists, engineers and innovators who have been recognized for their scientifically and socially distinguished achievements by one of the world\u2019s largest general scientific societies and publisher of the Science family of journals. A tradition dating back to 1874, election as an AAAS Fellow is a lifetime honor, and all Fellows are expected to meet the commonly held"
+        },
+        {
+            "title": "Economic mobility visionary Kilsys Payamps-Roure and CCNY President Boudreau discuss the career-to-college pipeline at Rudin Lecture",
+            "read_more_link": "https://www.ccny.cuny.edu/news/economic-mobility-visionary-kilsys-pyamps-roure-and-ccny-president-boudreau-discuss-career",
+            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-03/Rudin%20Scholar%20Lecture%20March%202026%20%2827%20of%2099%29.jpg?itok=AZHdd-N7",
+            "description": "The City College of New York President Vincent G. Boudreau and Braven New York Founding Executive Director Kilsys Payamps-Roure lauded the tangible outcomes of their 2022 partnership in a wide-ranging conversation, \u201cOpportunity by Design: How CCNY and Braven Strengthen the College-to-Career Pipeline,\u201d at the Samuel Rudin Distinguished Visiting Scholar Lecture. The partnership has resulted in \u201c84 percent of CCNY Braven students [being] employed or in graduate school within six months of graduation,\u201d said Boudreau, noting that Braven has served almost 3,000 students at CCNY and Lehman College"
+        },
+        {
             "title": "Pinkerton Foundation awards CCNY STEM Institute $110K grant",
             "read_more_link": "https://www.ccny.cuny.edu/news/pinkerton-foundation-awards-ccny-stem-institute-110k-grant",
             "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-03/Pinkerton%20STEM%20Grant%20to%20CCNY_2026.png?itok=8IiLcd1R",
@@ -1979,33 +2021,23 @@
             "read_more_link": "https://www.ccny.cuny.edu/news/ccny-opens-upper-manhattan-small-business-development-center-aid-aspiring-entrepreneurs",
             "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-02/New%20York%20Small%20Business%20Development%20Centers.png?itok=WSWFXAU7",
             "description": "The City College of New York has partnered with the New York Small Business Development Centers to open a regional center at CCNY to encourage entrepreneurship and the creation of small businesses by the members of the CCNY community, as well as entrepreneurs and small businesses throughout Upper Manhattan. This will be the fifth CUNY campus to host a regional center, joining Baruch College, York College, the College of Staten Island, and LaGuardia Community College. The center will be located in Shepard Hall and managed by the Office of Institutional Advancement, Communications, & External"
-        },
-        {
-            "title": "TED Talk author and urbanist Carlos Moreno gives CCNY Mumford Lecture",
-            "read_more_link": "https://www.ccny.cuny.edu/news/ted-talk-author-and-urbanist-carlos-moreno-gives-ccny-mumford-lecture",
-            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-01/CarlosMoreno_%C2%A9ThomasBaltes_TBA4885_A_HD.jpg?itok=awIEKkAh",
-            "description": "The Sorbonne University professor, scientist and writer Carlos Moreno will deliver The City College of New York's Bernard and Anne Spitzer School of Architecture\u2019s Lewis Mumford Lecture entitled \u201cFrom Crisis to Proximity: A New Social Contract for Cities.\u201d The lecture has been postponed due to reports of heavy snow. Please check back for a future date and more details. Moreno is associate professor and scientific director of the ETI (Entrepreneurship \u2013 Territory \u2013 Innovation) Chair at the IAE Paris, the Sorbonne Business School. The French-Colombian scholar coined the term \u201c15-Minute City,\u201d"
-        },
-        {
-            "title": "CCNY community celebrates the holidays",
-            "read_more_link": "https://www.ccny.cuny.edu/news/ccny-community-celebrates-holidays",
-            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-01/cuny%20dinner3.jpg?itok=6-PKb9j6",
-            "description": "The City College of New York's and the Foundation for City College's ongoing outreach initiatives to provide fresh, nutritious meals to those in need continues to expand, including a massive effort that resulted in hundreds of meals being distributed the week of Thanksgiving and again the last week of 2025. Every year since 2020, the College and the Foundation have partnered with Black-owned school food management company Red Rabbit to deliver the meals to different community partners, including PSS Manhattanville Center, Wilson Major Morris Community Center, Greater File Chapel Baptist Church"
-        },
-        {
-            "title": "World enters era of  \u201cGlobal Water Bankruptcy,\u201d declares UN report led by CCNY's Kaveh Madani",
-            "read_more_link": "https://www.ccny.cuny.edu/news/world-enters-era-global-water-bankruptcy-ccny-led-un-report-declares",
-            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-01/Kaveh%20Madani.jpg?itok=6VRoYpio",
-            "description": "For decades, the world has been warned of a looming water crisis. A landmark report released today at the United Nations Headquarters argues that the time for \"crisis management\" has passed. The report, Global Water Bankruptcy: Living Beyond Our Hydrological Means in the Post-Crisis Era, is the outcome of an investigation led by Kaveh Madani, the renowned environmental scientist and Research Professor at The City College of New York\u2019s CUNY CREST Institute. The study concludes that humanity has entered a state of \u201c Global Water Bankruptcy\u201d\u2014a permanent, systemic failure where the natural capital"
-        },
-        {
-            "title": "Noted Harvard cardiovascular medicine researcher Christine Seidman delivers CCNY\u2019s de Beer Lecture, March 18",
-            "read_more_link": "https://www.ccny.cuny.edu/news/noted-harvard-cardiovascular-medicine-researcher-christine-seidman-delivers-ccnys-de-beer",
-            "image_reference": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-03/De%20Beer%20Lecture_2026_Christine%20Seidman.jpeg?itok=Q0f7-vDh",
-            "description": "Dr. Christine E. Seidman, the Thomas W. Smith Professor of Medicine and Genetics at Harvard Medical School, presents the 2026 Louis Levine-Gabriella de Beer Lecture in Genetics at The City College of New York on Wednesday, March 18. Her talk, \u201cGetting to the Heart of the Matter: Curing Genetic Cardiomyopathy,\u201d begins at 5 p.m. in The Great Hall. The lecture is free and open to the public. Click here to RSVP. Seidman\u2019s lecture is on hypertrophic cardiomyopathy (HCM), the most common cause of sudden cardiac death on the athletic field that causes symptoms, arrhythmias, and heart failure. HCM"
         }
     ],
     "bmcc": [
+        {
+            "title": "BMCC\u2019s Healing through Hip Hop Initiative Hosts Event for World Premiere of \u201cBreakthrough\u201d",
+            "date": "December 18, 2025",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/bmccs-healing-through-hip-hop-initiative-hosts-event-for-world-premiere-of-breakthrough/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2025/12/breakthrough0thumb.jpg",
+            "description": "Workshops are designed to create a safe space where students can engage in creative expression with the guidance of hip-hop artists and counselor input."
+        },
+        {
+            "title": "Kaplan Educational Foundation Names Three BMCC Students to Scholar Program",
+            "date": "December 18, 2025",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/kaplan-educational-foundation-names-three-bmcc-students-to-scholar-program/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2023/11/kaplan-11162023.jpg",
+            "description": "Kaplan Leadership Scholars have been accepted to many of the country\u2019s most competitive schools, including Yale, Stanford, Brown, Amherst, Cornell and many others"
+        },
         {
             "title": "BMCC Celebrates Induction of 68 Students into Out in Two Scholars Program",
             "date": "March 20, 2026",
@@ -2131,23 +2163,16 @@
             "read_more_link": "https://www.bmcc.cuny.edu/news/u-s-rep-dan-goldman-secures-357k-in-federal-funding-for-bmcc-project-impact-program/",
             "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/03/THUMB-GOLDMAN.jpg",
             "description": "Program has proven track record of improving student retention, GPAs, and is an invaluable tool for decreasing recidivism"
-        },
-        {
-            "title": "BMCC Professors Receive $182K Teagle Foundation Grant to Implement NYC-Focused Civics Course",
-            "date": "January 7, 2026",
-            "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-professors-receive-182k-teagle-foundation-grant-to-implement-nyc-focused-civics-course/",
-            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/01/campus-thumb-grant.jpg",
-            "description": "Grant will enable implementation of Harmony in the Metropolis: Discovering My Role in American Civic Life in New York City course."
-        },
-        {
-            "title": "BMCC\u2019s Healing through Hip Hop Initiative Hosts Event for World Premiere of \u201cBreakthrough\u201d",
-            "date": "December 18, 2025",
-            "read_more_link": "https://www.bmcc.cuny.edu/news/bmccs-healing-through-hip-hop-initiative-hosts-event-for-world-premiere-of-breakthrough/",
-            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2025/12/breakthrough0thumb.jpg",
-            "description": "Workshops are designed to create a safe space where students can engage in creative expression with the guidance of hip-hop artists and counselor input."
         }
     ],
     "csi": [
+        {
+            "title": "CSI Today News Brief: Legal Studies Institute Alumni Mixer",
+            "date": "Mar 25, 2026",
+            "read_more_link": "https://csitoday.com/2026/03/csi-today-news-brief-legal-studies-institute-alumni-mixer/",
+            "image_reference": "https://csitoday.com/wp-content/uploads/2026/03/Mixer-Web-Cover-627x376.jpg",
+            "description": "Last week, CSI\u2019s Legal Studies Institute and Professor Michael Paris held an alumni mixer in..."
+        },
         {
             "title": "Episode 7 of \u201cThe Flipside\u201d Premieres Now on CSI-TV",
             "date": "Mar 19, 2026",
@@ -2328,6 +2353,34 @@
     ],
     "hunter": [
         {
+            "title": "Hunter Professor Receives State Grant To Support Adults With Disabilities",
+            "date": "February 25, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-professor-receives-state-grant-to-support-adults-with-disabilities/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/gina-riley-news-768x432.jpg.webp",
+            "description": "Hunter College\u2019s School of Education has won a grant for a project to help developmentally disabled adults."
+        },
+        {
+            "title": "Navigating Hunter: Updated Campus Access Plan Effective March 30",
+            "date": "March 27, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/navigating-hunter-updated-campus-access-plan-effective-march-30/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/68th-street-campus-11-768x432.jpg.webp",
+            "description": "Starting Monday, March 30, Hunter College will implement an updated building access plan for the 68th Street campus."
+        },
+        {
+            "title": "Get Ready for Hunter\u2019s First Annual Giving Day!",
+            "date": "March 26, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/get-ready-for-hunters-first-annual-giving-day/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/alumni-giving-day-768x432.jpg.webp",
+            "description": "On April 29, Hunter College is launching its inaugural Giving Day."
+        },
+        {
+            "title": "Hoops Star Spotlights Another Side of Hunter: Training Ground for Athletes",
+            "date": "March 4, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hoop-star-spotlights-another-side-of-hunter-training-ground-for-athletes/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/alexa-charles-news-1-768x432.jpg.webp",
+            "description": "Senior guard Alexa Charles, scored 31 points during the game and was honored as CUNYAC Tournament Most Valuable Player."
+        },
+        {
             "title": "Anchor Institution: How Hunter College is Reimagining the Public Square",
             "date": "March 24, 2026",
             "read_more_link": "https://www.hunter.cuny.edu/news/anchor-institution-how-hunter-college-is-reimagining-the-public-square/?news-feed=spotlight&source=/news/",
@@ -2438,34 +2491,6 @@
             "read_more_link": "https://www.hunter.cuny.edu/news/director-of-hunters-roosevelt-house-named-manhattan-borough-historian/?news-feed=spotlight&source=/news/",
             "image_reference": "https://s29068.pcdn.co/wp-content/uploads/harold-holzer-news-768x432.jpg.webp",
             "description": "Holzer has served since 2015 as the chief steward of President Franklin Delano Roosevelt\u2019s former home, the birthplace of the New Deal."
-        },
-        {
-            "title": "Hunter Alum Named New York City Planning Director",
-            "date": "February 25, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-alum-named-new-york-city-planning-director/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/sideya-sherman-news-768x432.jpg.webp",
-            "description": "Another Hunter College alum is joining the top ranks of the New York City government."
-        },
-        {
-            "title": "Hunter Professor Receives State Grant To Support Adults With Disabilities",
-            "date": "February 25, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-professor-receives-state-grant-to-support-adults-with-disabilities/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/gina-riley-news-768x432.jpg.webp",
-            "description": "Hunter College\u2019s School of Education has won a grant for a project to help developmentally disabled adults."
-        },
-        {
-            "title": "Hunter Alumna Named Top Curator of The Hip Hop Museum",
-            "date": "February 20, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-alumna-named-top-curator-of-the-hip-hop-museum/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/indira-a-abiskaroon-valbuena-news-768x432.jpg.webp",
-            "description": "Indira A. Abiskaroon Valbuena MHC \u201915 has joined The Hip Hop Museum in The Bronx as creative director and director of curatorial affairs."
-        },
-        {
-            "title": "Hunter Researcher Wins Education Policy Prize for Article",
-            "date": "February 19, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-researcher-wins-education-policy-prize-for-article/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/scott-e-grapin-news-768x432.jpg.webp",
-            "description": "Assistant Education Professor Scott E. Grapin won The International Research Foundation for English Language Education award."
         }
     ],
     "jjay": [
@@ -2749,6 +2774,13 @@
         }
     ],
     "soj": [
+        {
+            "title": "Who\u2019s Telling the Stories of Older Americans? Meet Newmark\u2019s 2026 Aging Beat Cohort",
+            "read_more_link": "https://www.journalism.cuny.edu/2026/03/newmark-2026-aging-beat-cohort/",
+            "image_reference": "",
+            "description": "The Craig Newmark Graduate School of Journalism at CUNY has selected nine working journalists from across North America to participate in its second \u201cAging Beat\u201d workshop to be held in\u2026",
+            "date": "Mar 26, 2026"
+        },
         {
             "title": "14 Leaders Selected for Third Cohort of Nonprofit News Business Certificate at the Newmark J-School",
             "read_more_link": "https://www.journalism.cuny.edu/2026/03/14-leaders-selected-for-third-cohort-of-nonprofit-news-business-certificate-at-the-newmark-j-school/",
