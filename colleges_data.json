@@ -1,6 +1,12 @@
 {
     "bcc": [
         {
+            "title": "Alexander Ott Appointed Dean of Curriculum Advancement and Student Achievement",
+            "read_more_link": "https://www.bcc.cuny.edu/alexander-ott-appointed-dean-of-curriculum-advancement-and-student-achievement/",
+            "image_reference": "http://www.bcc.cuny.edu/wp-content/uploads/bfi_thumb/dummy-transparent-o04t92n7l7l8jbxbtcxxnbzvbm9lct79j91v1jm6jw.png",
+            "description": "Bronx Community College is now accepting nominations for the 2027 Distinguished Alumni Award, which honors alumni whose professional achievements, leadership, and service reflect the excellence [...]"
+        },
+        {
             "title": "SUNY Bronx EOC Celebrates Class of 2026 at BCC",
             "read_more_link": "https://www.bcc.cuny.edu/suny-bronx-eoc-celebrates-class-of-2026-at-bcc/",
             "image_reference": "http://www.bcc.cuny.edu/wp-content/uploads/bfi_thumb/dummy-transparent-o04t92n7l7l8jbxbtcxxnbzvbm9lct79j91v1jm6jw.png",
@@ -116,6 +122,18 @@
         }
     ],
     "baruc": [
+        {
+            "title": "Baruch\u2019s Alvi Khan Is First Alumnus Admitted to NIH-Funded MD/PhD Program",
+            "read_more_link": "https://newscenter.baruch.cuny.edu/news/baruchs-alvi-khan-is-first-alumnus-admitted-to-nih-funded-md-phd-program/",
+            "image_reference": "https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2026/06/Alvi-Khan_2026-Salk-Scholar.gif",
+            "description": "June 10, 2026"
+        },
+        {
+            "title": "Baruch College Professor Focuses Research on LGBTQ+ Health Equity",
+            "read_more_link": "https://newscenter.baruch.cuny.edu/news/baruch-college-professor-focuses-research-lgbtq-health-equity/",
+            "image_reference": "https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2026/06/Professor-Christopher-Stultz.gif",
+            "description": "June 9, 2026"
+        },
         {
             "title": "Congratulations Baruch College Class of 2026!",
             "read_more_link": "https://newscenter.baruch.cuny.edu/news/congratulations-baruch-college-class-of-2026/",
@@ -412,6 +430,12 @@
     ],
     "broklyn": [
         {
+            "title": "Brooklyn College Names New Dean for the Murray Koppelman School of Business",
+            "read_more_link": "https://www.brooklyn.edu/bc-news/brooklyn-college-names-new-dean-for-the-murray-koppelman-school-of-business/",
+            "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
+            "description": "Shalei V. K. Simms, Ph.D., appointed to lead Brooklyn\u2019s only AACSB-accredited business school."
+        },
+        {
             "title": "Brooklyn College Celebrates Class of 2026 at 101st Commencement",
             "read_more_link": "https://www.brooklyn.edu/bc-news/brooklyn-college-celebrates-class-of-2026-at-101st-commencement/",
             "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
@@ -524,15 +548,23 @@
             "read_more_link": "https://www.brooklyn.edu/bc-news/president-michelle-j-anderson-joins-chancellor-felix-v-matos-rodriguez-to-unveil-dual-enrollment-program-to-yeshiva-students/",
             "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
             "description": "Visits to Yeshivah of Flatbush Joel Braverman High School showcase a model for future private school partnerships."
-        },
-        {
-            "title": "Brooklyn College Celebrates Congresswoman Yvette D. Clarke With Prestigious Presidential Medal of Honor",
-            "read_more_link": "https://www.brooklyn.edu/bc-news/brooklyn-college-celebrates-congresswoman-yvette-clarke-with-prestigious-presidential-medal-of-honor/",
-            "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
-            "description": "President Michelle J. Anderson recognizes Clarke\u2019s enduring service and advocacy for the Brooklyn community and the nation."
         }
     ],
     "sph": [
+        {
+            "title": "CUNY SPH Foundation announces board updates",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/06/24/cuny-sph-foundation-board-updates/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/06/Board-Meeting-June-16-2026-e1782314512137-300x124.jpg",
+            "description": "At its recent annual meeting, the CUNY SPH Foundation announced the renewal of its board leadership, the election of new officers and directors, and the retirement of a longtime member.\nDistinguished Scholar Lyndon Haviland will continue as chair, along with Alfonso Chang as vice chair and Michael M...",
+            "date": "Jun. 24, 2026"
+        },
+        {
+            "title": "Trace art installation offers new model for participatory public health dissemination",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/06/23/trace-study/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/06/Trace-image-01-300x193.jpg",
+            "description": "A new article drawing on the launch of\u00a0Trace: A Memorial\u00a0at CUNY SPH shows how art, community partnerships, and shared memory can deepen trust and make research feel more humane and participatory.\nTrace is a heat-sensitive artwork by artist Nyssa Chow honoring essential workers who died early in t...",
+            "date": "Jun. 23, 2026"
+        },
         {
             "title": "Study calls for stronger workplace mental health standards",
             "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/06/17/workplace-mental-health/",
@@ -658,20 +690,6 @@
             "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/04/3917-e1777482452592-294x300.jpg",
             "description": "Ambrosia Beckford is part of the first cohort of students to participate in the Sexual and Reproductive Justice & Health (SRJH) MPH curriculum. From undergraduate degrees at Brooklyn College and an MPH at CUNY SPH to working with the CUNY SPH Foundation and Sexual & Reproductive Justice (SRJ...",
             "date": "Apr. 29, 2026"
-        },
-        {
-            "title": "Assessing the potential to scale up urban agriculture in the Global North",
-            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/04/28/scaling-up-urban-agriculture-in-global-north/",
-            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2021/04/urban-gardening-300x200.jpg",
-            "description": "A new paper, co-authored by Associate Professor Nevin Cohen and colleagues from an NSF-funded study examines how much low-tech urban agriculture could realistically expand in five global cities: New York City, London, Paris, Dortmund in Germany, and Gorz\u00f3w Wielkopolski in Poland.\nUsing high-resolut...",
-            "date": "Apr. 28, 2026"
-        },
-        {
-            "title": "Digital health literacy higher in lower-income countries, 30-country survey finds",
-            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/04/28/digital-health-literacy-30-country-survey/",
-            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/04/GettyImages-2271600226-300x200.jpg",
-            "description": "New York, NY | April 28, 2026: A cross-national survey of 31,000 adults in 30 countries finds that digital health literacy is highest in low- and middle-income countries and lowest in high-income countries, challenging assumptions that national wealth translates into stronger digital skills. The stu...",
-            "date": "Apr. 28, 2026"
         }
     ],
     "hostos": [
@@ -960,6 +978,55 @@
     ],
     "lagrdia": [
         {
+            "title": "LaGuardia Community College Partners with DC 37 to Deliver Data Analytics Training for City Employees",
+            "read_more_link": "https://www.laguardia.edu/news/laguardia-community-college-partners-with-dc-37-to-deliver-data-analytics-training-for-city-employees/",
+            "image_reference": "",
+            "description": "LaGuardia Community College Partners with DC 37 to Deliver Data Analytics Training for City Employees LONG ISLAND CITY, NY (June 25, 2026) \u2014 Through a new partnership with District Council 37 (DC 37), New York City\u2019s largest public employee union,",
+            "date": "June 25, 2026"
+        },
+        {
+            "title": "LaGuardia Community College Expands Partnership with Rethink Food to Provide Free Hot Meals for Evening Students Beginning Summer 2026",
+            "read_more_link": "https://www.laguardia.edu/news/laguardia-community-college-expands-partnership-with-rethink-food-to-provide-free-hot-meals-for-evening-students-beginning-summer-2026/",
+            "image_reference": "",
+            "description": "LaGuardia Community College Expands Partnership with Rethink Food to Provide Free Hot Meals for Evening Students Beginning Summer 2026 LONG ISLAND CITY, NY (June 24, 2026) \u2014 LaGuardia Community College/CUNY is expanding its partnership with Rethink Food to strengthen food",
+            "date": "June 24, 2026"
+        },
+        {
+            "title": "PATCH AM/MSN",
+            "read_more_link": "https://www.msn.com/en-us/entertainment/general/patch-am-meet-the-queens-actor-quietly-stacking-new-york-stage-credits/ar-AA26ec1q?ocid=BingNewsVerp",
+            "image_reference": "",
+            "description": "A young actor from Queens, Lakhanpal Tak, is building his career through Brooklyn College and LaGuardia Community College productions while honing skills in both theater and film.",
+            "date": "June 22, 2026"
+        },
+        {
+            "title": "More Than 1,350 Graduates Cross the Stage at LaGuardia Community College\u2019s 54th Commencement",
+            "read_more_link": "https://www.laguardia.edu/news/more-than-1350-graduates-cross-the-stage-at-laguardia-community-colleges-54th-commencement/",
+            "image_reference": "",
+            "description": "More Than 1,350 Graduates Cross the Stage at LaGuardia Community College\u2019s 54th Commencement LONG ISLAND CITY, NY (June 18, 2026) \u2014 More than 1,350 LaGuardia Community College/CUNY graduates marked a major milestone today, crossing the stage at the College\u2019s 54th",
+            "date": "June 18, 2026"
+        },
+        {
+            "title": "QUEENS LATINO",
+            "read_more_link": "https://queenslatino.com/cuny-students-won-jack-kent-cooke-foundation-scholarship/",
+            "image_reference": "",
+            "description": "LaGuardia\u2019s Nataly Briones was one of seven CUNY community college students named 2026 Jack Kent Cooke Undergraduate Transfer Scholars, a national award that provides financial support to high-achieving students transferring to four-year institutions.",
+            "date": "June 18, 2026"
+        },
+        {
+            "title": "BROADWAY WORLD",
+            "read_more_link": "https://www.broadwayworld.com/article/CUNY-Dance-Initiative-Unveils-Largest-Cohort-of-Resident-Artists-for-202627-Season-20260616",
+            "image_reference": "",
+            "description": "CUNY Dance Initiative unveils its largest-ever cohort of resident artists for the 2026\u201327 season, highlighting LaGuardia Performing Arts Center (LPAC) as a host site for the CUNY-wide program supporting NYC choreographers with space, funding, and campus engagement.",
+            "date": "June 16, 2026"
+        },
+        {
+            "title": "QUEENS GAZETTE",
+            "read_more_link": "https://www.qgazette.com/articles/laguardia-community-college-way/",
+            "image_reference": "",
+            "description": "LaGuardia Community College/CUNY, New York City Council Member Julie Won, and Queens Borough President Donovan J. Richards Jr. celebrated the co-naming of 29th Street between Skillman and 47th Avenues as \u201cLaGuardia Community College Way\u201d at a ceremony on June 1.",
+            "date": "June 11, 2026"
+        },
+        {
             "title": "LaGuardia\u2019s Tomorrow Campaign 2.0 Raises More Than $25 Million in Support of Student Success",
             "read_more_link": "https://www.laguardia.edu/news/laguardias-tomorrow-campaign-2-0-raises-more-than-25-million-in-support-of-student-success/",
             "image_reference": "",
@@ -1049,58 +1116,16 @@
             "image_reference": "",
             "description": "Red Hawks Rising: David Moore Builds a Future Through Education After Incarceration LONG ISLAND CITY, NY (June 8, 2026) \u2014 David Moore is graduating from LaGuardia Community College/CUNY with an associate degree in Psychology. He will transfer to John Jay",
             "date": "June 8, 2026"
-        },
-        {
-            "title": "Red Hawks Rising: LaGuardia Accounting Major Yasmine Khemiri Prepares for Baruch",
-            "read_more_link": "https://www.laguardia.edu/news/red-hawks-rising-laguardia-accounting-major-yasmine-khemiri-prepares-for-baruch/",
-            "image_reference": "",
-            "description": "Red Hawks Rising: LaGuardia Accounting Major Yasmine Khemiri Prepares for Baruch LONG ISLAND CITY, NY (June 8, 2026) \u2014\u00a0Yasmine Khemiri is graduating from LaGuardia Community College/CUNY with an associate degree in Accounting and a 3.54 GPA. She will transfer to",
-            "date": "June 8, 2026"
-        },
-        {
-            "title": "NOTICIA NY",
-            "read_more_link": "https://www.noticiany.com/breves-del-lunes-todo-lo-que-necesita-saber-para-iniciar-informado-su-semana-177/",
-            "image_reference": "",
-            "description": "CUNY created the Institute for LGBTQIA+ Community Engagement and Public History, which will serve as a CUNY-wide hub to support LGBTQIA+ students, strengthen campus collaboration and partner with community organizations. Housed at LaGuardia, the institute will also preserve NYC\u2019s LGBTQIA+",
-            "date": "June 8, 2026"
-        },
-        {
-            "title": "Red Hawks Rising: From LaGuardia to Columbia, Tamoy Bloomfield Builds a Path in Law",
-            "read_more_link": "https://www.laguardia.edu/news/red-hawks-rising-from-laguardia-to-columbia-tamoy-bloomfield-builds-a-path-in-law/",
-            "image_reference": "",
-            "description": "Red Hawks Rising: From LaGuardia to Columbia, Tamoy Bloomfield Builds a Path in Law LONG ISLAND CITY, NY (June 8, 2026) \u2014 When Tamoy Bloomfield enrolled at LaGuardia Community College/CUNY, she brought with her years of life experience, a clear",
-            "date": "June 8, 2026"
-        },
-        {
-            "title": "Leadership Awards Gala Honors Students Dedication and Contributions at LaGuardia Community College",
-            "read_more_link": "https://www.laguardia.edu/news/leadership-awards-gala-honors-students-dedication-and-contributions-at-laguardia-community-college/",
-            "image_reference": "",
-            "description": "Leadership Awards Gala Honors Students Dedication and Contributions at LaGuardia Community College LONG ISLAND CITY, NY (June 8, 2026) \u2014 LaGuardia Community College/CUNY celebrated the outstanding contributions of its student leaders during the Student Leadership Awards Gala, held on Wednesday,",
-            "date": "June 8, 2026"
-        },
-        {
-            "title": "HOODLINE",
-            "read_more_link": "https://hoodline.com/2026/06/jackson-heights-set-to-explode-with-color-at-queens-pride-parade/",
-            "image_reference": "",
-            "description": "The first Queens Pride launched in 1993 by leaders including Daniel Dromm and Maritza Martinez, to raise LGBTQ+ visibility in the borough. Its origins were documented by the LaGuardia and Wagner Archives at LaGuardia Community College.",
-            "date": "June 5, 2026"
-        },
-        {
-            "title": "QNS",
-            "read_more_link": "https://qns.com/2026/06/laguardia-community-college-way-lic-block/",
-            "image_reference": "",
-            "description": "LaGuardia Community College celebrates co-naming of LIC block as \u2018LaGuardia Community College Way\u2019",
-            "date": "June 4, 2026"
-        },
-        {
-            "title": "LaGuardia Students Showcase Undergraduate Research Projects and Collaborations with Faculty",
-            "read_more_link": "https://www.laguardia.edu/news/laguardia-students-showcase-undergraduate-research-projects-and-collaborations-with-faculty/",
-            "image_reference": "",
-            "description": "LaGuardia Students Showcase Undergraduate Research Projects and Collaborations with Faculty LONG ISLAND CITY, NY (June 3, 2026) \u2014 LaGuardia Community College/CUNY celebrated the creativity and academic excellence of its students during the 2026 Undergraduate Research Day (URD) on June 3",
-            "date": "June 4, 2026"
         }
     ],
     "sps": [
+        {
+            "title": "Liberal Studies Instructor Named 2026 Winner of Adjunct Faculty Teaching Excellence Prize",
+            "date": "June 24, 2026",
+            "read_more_link": "https://sps.cuny.edu/about/news/liberal-studies-instructor-named-2026-winner-of-adjunct-faculty-teaching-excellence",
+            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/Everitt%20photosquare_600.JPG?itok=npW2_unW",
+            "description": "Dr. Ryan Everitt, who has taught in the CUNY SPS BA in Liberal Studies program for the past five years, received the School's yearly adjunct faculty award for his dedication, innovation, and commitment to student learning."
+        },
         {
             "title": "CUNY SPS Salutes First Class of Spanish-Language Child Development Associate Certificate",
             "date": "June 16, 2026",
@@ -1233,13 +1258,6 @@
             "read_more_link": "https://sps.cuny.edu/about/news/cuny-sps-debuts-2025-issue-of-voices-newly-renamed-school-magazine",
             "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/cover_Square600.JPG?itok=hw-w-tAS",
             "description": "With Voices as its new title, the 2025 issue showcases some of the School's exceptional faculty, students, staff, and alumni and the ways that they are redefining scholarship, research, and their own personal and professional lives."
-        },
-        {
-            "title": "Youth Studies Film Series Focuses on Art Influencing Social Reform",
-            "date": "February 25, 2026",
-            "read_more_link": "https://sps.cuny.edu/about/news/youth-studies-film-series-focuses-on-art-influencing-social-reform",
-            "image_reference": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/CUNY-SPS-Youth-Studies-Film-Series-Angola-Can-You-Hear-Us.jpg?itok=T4StCAxP",
-            "description": "The CUNY SPS Youth Studies programs sponsored their seventh annual Community & Youth Organizing Conference film series that centered on the theme of \u201cReimagining Justice Through Art,\u201d and featured three events over several weeks in January."
         }
     ],
     "qcc": [
@@ -1605,6 +1623,20 @@
     ],
     "macaly": [
         {
+            "title": "25 Years of Transformative Honors Education",
+            "date": "1/30/2026",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/25-years-of-transformative-honors-education/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2026/01/25th-anniversary-slider-Large-667x375.jpeg",
+            "description": "Macaulay Honors College announces the kickoff of a year of special events and programming to highlight its growth and celebrate its twenty-fifth anniversary."
+        },
+        {
+            "title": "Enrollment Leadership and Academic Innovation: Welcoming New Staff",
+            "date": "1/26/2026",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/enrollment-leadership-and-academic-innovation-welcoming-new-staff/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2026/01/Scott-Millstein-and-Emmanuel-Cruz-667x375.jpeg",
+            "description": "Macaulay Honors College announces new senior staff: Manny Cruz joins Macaulay\u2019s Office of Student Services and Engagement as Director of Enrollment Management, and Scott Millstein is the college\u2019s new Professional-in-Residence and Lecturer."
+        },
+        {
             "title": "Celebrating Macaulay's Alumni Pioneers",
             "date": "12/17/2025",
             "read_more_link": "https://macaulay.cuny.edu/news-and-events/celebrate-macaulays-alumni-pioneers/",
@@ -1729,114 +1761,9 @@
             "read_more_link": "https://macaulay.cuny.edu/news-and-events/picturing-home-without-boundaries/",
             "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2026/04/PhotoUrbanism2026-667x375.jpg",
             "description": "Macaulay Honors College expands its partnership with Design Trust for Public Space through the launch of a special Spring Break Photo Urbanism program for Macaulay students."
-        },
-        {
-            "title": "City Nature Challenge 2026",
-            "date": "3/23/2018",
-            "read_more_link": "https://macaulay.cuny.edu/calendar-of-events/city-nature-challenge/",
-            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2023/04/mhc_city_nature_slider_2023-667x375.png",
-            "description": "Come participate in any events during these three days!"
-        },
-        {
-            "title": "25 Years of Transformative Honors Education",
-            "date": "1/30/2026",
-            "read_more_link": "https://macaulay.cuny.edu/news-and-events/25-years-of-transformative-honors-education/",
-            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2026/01/25th-anniversary-slider-Large-667x375.jpeg",
-            "description": "Macaulay Honors College announces the kickoff of a year of special events and programming to highlight its growth and celebrate its twenty-fifth anniversary."
         }
     ],
     "lehman": [
-        {
-            "title": "Do Working Conditions Impact Diabetes Management?",
-            "date": "May 27, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Do-Working-Conditions-Impact-Diabetes-Management.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Events-Calendar/Images/2025/RATIO-FOR-CALENDAR-IMAGES-.jpg",
-            "description": "Tailisha Gonzalez finds women and Latino workers may face greater barriers to health"
-        },
-        {
-            "title": "Lehman Weekly May 24-30: It's the Final Countdown",
-            "date": "May 27, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-May-24-30-Its-the-Final-Countdown.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/TheKing.png",
-            "description": "It's the Final Countdown"
-        },
-        {
-            "title": "Lehman Launches Bronx Food Humanities Program",
-            "date": "May 26, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Launches-Bronx-Food-Humanities-Program.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Food-Humanities-Program-Launch-Event_00457.jpg",
-            "description": "We Are What We Eat"
-        },
-        {
-            "title": "Scholarship Support With a Lasting Impact",
-            "date": "June 16, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Scholarship-Support-With-a-Lasting-Impact.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Kiara-Meza.jpeg",
-            "description": "Alice Griffin Scholar Kiara Meza \u201926 looks ahead"
-        },
-        {
-            "title": "Lehman's Broadens College Access for Local Students",
-            "date": "June 11, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehmans-Broadens-College-Access-for-Local-Students-.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/LS-143--2023-Admissions-Open-House-34.jpg",
-            "description": "New direct admissions program simplifies transition to college"
-        },
-        {
-            "title": "Lehman Weekly June 7-13: Celebrations Continue",
-            "date": "June 10, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-June-7-13-Celebrations-Continue.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/LS-131-2026-Nursing-Pinning-Ceremony_00718.png",
-            "description": "Celebrations Continue"
-        },
-        {
-            "title": "Who is David Pantalone? NSS Dean Reflects on His First Year",
-            "date": "May 22, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Who-is-David-Pantalone-NSS-Dean-Reflects-on-His-First-Year.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/resources/documents/Press-Releases/Images/David-Pantalone_14-1295x870.jpg",
-            "description": "Two milestones and counting\u2026"
-        },
-        {
-            "title": "Julio Gallego-Delgado, Teacher of the Year",
-            "date": "May 21, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Julio-Gallego-Delgado-Teacher-of-the-Year.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/JG_D.jpg",
-            "description": "Students nominate two faculty members in Natural and Social Sciences"
-        },
-        {
-            "title": "Lehman Weekly May 17-23: Next Stop....El Rayo's Way",
-            "date": "May 20, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-May-17-23-Next-StopEl-Rayos-Way.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/BFP.png",
-            "description": "Next Stop....El Rayo's Way"
-        },
-        {
-            "title": "Lehman Takes First At CUNY Beat Week",
-            "date": "May 20, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Takes-First-At-CUNY-Beat-Week.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Cuny-Beat-Battle_DAY-2-sm.jpg",
-            "description": "2026 CUNY Beat Battle enhanced with extended Beat Week programming"
-        },
-        {
-            "title": "Four Lehman Graduates, Four Journeys to the Same Stage",
-            "date": "May 19, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Four-Lehman-Graduates-Four-Journeys-to-the-Same-Stage.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/2026-student-speakers.jpg",
-            "description": "Student commencement speakers reflect on persistence, family, belonging, and the courage to keep going"
-        },
-        {
-            "title": "How Do You Pronounce \u2018L.I.R.R.\u2019?",
-            "date": "May 19, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/How-Do-You-Pronounce-LIRR.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/ryan-fleischer-An034Iei8oY-unsplash.jpg",
-            "description": "Lehman professor Cecelia Cutler sheds light on the explosive controversy"
-        },
-        {
-            "title": "Lehman Weekly May 10-16: The Future is Bright",
-            "date": "May 13, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-May-10-16-The-Future-is-Bright.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/bJx9JJwM.png",
-            "description": "The Future is Bright"
-        },
         {
             "title": "Lehman Celebrates First EDOL Graduates",
             "date": "June 9, 2026",
@@ -1880,11 +1807,102 @@
             "description": "Minwoo Song develops index to help explain and predict market changes"
         },
         {
-            "title": "How Is New York City English Changing?",
-            "date": "May 13, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/How-Is-New-York-City-English-Changing.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Cecelia_Cutler-600x548.jpeg",
-            "description": "Cecelia Cutler on the CUNY project documenting the city\u2019s speech patterns"
+            "title": "Lehman College Names Azadeh Keivani Dean of the School of Continuing and Professional Studies",
+            "date": "June 24, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-College-Names-Azadeh-Keivani-Dean-of-the-School-of-Continuing-and-Professional-Studies-.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Keivani-cropped.jpeg",
+            "description": "Astrophysicist brings together industry partnerships, technological innovation, and an entrepreneurial spirit"
+        },
+        {
+            "title": "LEHMAN COLLEGE APPOINTS ASTROPHYSICIST AND AI LEADER AZADEH KEIVANI AS DEAN OF THE SCHOOL OF CONTINUING AND PROFESSIONAL STUDIES",
+            "date": "June 24, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/LEHMAN-COLLEGE-APPOINTS-ASTROPHYSICIST-AND-AI-LEADER-AZADEH-KEIVANI-AS-DEAN-OF-THE-SCHOOL-OF-CONTINUING-AND-PROFESSIONAL-STUDIES-.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Keivani-cropped.jpeg",
+            "description": "Will oversee academic and workforce programs, continuing education offerings, certificate programs, and the Adult Degree Program"
+        },
+        {
+            "title": "A Dose of Experiential Learning at NACE Conference, Lehman Style",
+            "date": "June 23, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/A-Dose-of-Experiential-Learning-at-NACE-Conference-Lehman-Style.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/About/images/Lehman-Campus-Oct_11_2022-0091-X3-1295x870.jpg",
+            "description": "Management and Business Innovation faculty put pedagogy into practice for National Association of Colleges and Employers"
+        },
+        {
+            "title": "Lehman College\u2019s Brandon Begarly Selected for AASCU Emerging Leaders Program",
+            "date": "June 23, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Colleges-Brandon-Begarly-Selected-for-AASCU-Emerging-Leaders-Program.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Phone-Directory/faculty-staff/Brandon-Begarly-small-450x585.jpeg",
+            "description": "Program supports advancement of mid-career academic and administrative professionals"
+        },
+        {
+            "title": "She Speaks Through Me - How Theatre Helped Me Find My Voice",
+            "date": "June 19, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/She-Speaks-Through-Me---How-Theatre-Helped-Me-Find-My-Voice.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Enrollment-Management/images/PHOTO-2026-06-09-11-53-26.jpg",
+            "description": "What started as a theatre honors project became one of the most meaningful experiences of my college journey."
+        },
+        {
+            "title": "Finding Support, Building Community",
+            "date": "June 18, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Finding-Support-Building-Community.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Enrollment-Management/images/1000007457.jpg",
+            "description": "Hello everyone, my name is Khaldwn El-Fares. I am one of the co-chairs for the Social Work Heals committee and an executive member of the Lehman Young"
+        },
+        {
+            "title": "Planting the Seeds of Success",
+            "date": "June 18, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Planting-the-Seeds-of-Success-.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Enrollment-Management/images/original-833C092C-02FF-49F5-97C5-F993EA4BD9D5.jpeg",
+            "description": "Hello everyone! My name is Jilsana Mohamed Bakry, and I am a double major in Biology and Adolescent Teacher Education at Lehman College."
+        },
+        {
+            "title": "Balancing School, Style, and Service",
+            "date": "June 18, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Balancing-School-Style-and-Service.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Enrollment-Management/images/Screenshot-2026-06-18-at-9.27.15\u202fAM.png",
+            "description": "Follow Deanna Marte, a senior Anthropology (ABC-BS) major, as she takes students through her final days of the spring semester!"
+        },
+        {
+            "title": "Lehman Weekly June 14-21: Happy National Mascot Day",
+            "date": "June 17, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-June-14-21-Happy-National-Mascot-Day.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/LS-100-2026-Commencement-2026_Quad_01700.png",
+            "description": "Happy National Mascot Day"
+        },
+        {
+            "title": "Lehman College Appoints Corey Ptak as Senior Director of the Center for Teaching and Learning",
+            "date": "June 17, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-College-Appoints-Corey-Ptak-as-Senior-Director-of-the-Center-for-Teaching-and-Learning.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Events-Calendar/Images/Generic-Images/Z09_5043-1295x870.jpg",
+            "description": "Lehman College welcomes Corey Ptak as the new Senior Director of the Center for Teaching and Learning (CTL)."
+        },
+        {
+            "title": "Edward Seldin\u2019s Lehman story began almost 75 years ago",
+            "date": "May 28, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Edward-Seldins-Lehman-story-began-almost-75-years-ago.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Seldin-crop.jpg",
+            "description": "Longtime member of the concert band is Lehman's oldest student"
+        },
+        {
+            "title": "Do Working Conditions Impact Diabetes Management?",
+            "date": "May 27, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Do-Working-Conditions-Impact-Diabetes-Management.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Events-Calendar/Images/2025/RATIO-FOR-CALENDAR-IMAGES-.jpg",
+            "description": "Tailisha Gonzalez finds women and Latino workers may face greater barriers to health"
+        },
+        {
+            "title": "Lehman Weekly May 24-30: It's the Final Countdown",
+            "date": "May 27, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-May-24-30-Its-the-Final-Countdown.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/TheKing.png",
+            "description": "It's the Final Countdown"
+        },
+        {
+            "title": "Lehman Launches Bronx Food Humanities Program",
+            "date": "May 26, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Launches-Bronx-Food-Humanities-Program.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Food-Humanities-Program-Launch-Event_00457.jpg",
+            "description": "We Are What We Eat"
         }
     ],
     "law": [
@@ -2502,6 +2520,41 @@
     ],
     "hunter": [
         {
+            "title": "Hunter Sociologists Earn Top CUNY Honors for Impactful Research",
+            "date": "May 29, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-sociologists-earn-top-cuny-honors-for-impactful-research/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/heba-gowayed-and-andrea-becker-news-768x432.jpg.webp",
+            "description": "Two Hunter College sociology faculty members received honors from the CUNY Academy for the Humanities and Sciences."
+        },
+        {
+            "title": "Hunter Nursing Doctoral Student Will Train in National Program",
+            "date": "May 29, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-nursing-doctoral-student-will-train-in-national-program/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/lydia-peal-news-768x432.jpg.webp",
+            "description": "A doctor of nursing practice student at Hunter has been selected for a highly competitive national training program."
+        },
+        {
+            "title": "Joe Foelsch Retires After a Decade Leading Public Safety at Hunter",
+            "date": "June 23, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/joe-foelsch-retires-after-a-decade-leading-public-safety-at-hunter/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/joseph-foelsch-news-768x432.jpg.webp",
+            "description": "Foelsch took a distinctly personal approach to campus safety\u00a0\u2014\u00a0one rooted in communication, trust, and respect."
+        },
+        {
+            "title": "Hawks Calling: Alums Give Advice for Graduates",
+            "date": "June 23, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hawks-calling-alums-give-advice-for-graduates/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/collage-of-hunter-alumni-news-768x432.jpg.webp",
+            "description": "The graduating class\u00a0departs\u00a0for a new chapter in their lives, even as\u00a0a new class stands at the threshold of possibility."
+        },
+        {
+            "title": "Jane Fonda to Hunter Graduates: \u2018You Are Taking the Reins\u2019",
+            "date": "June 18, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/jane-fonda-to-hunter-graduates-you-are-taking-the-reins/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/jane-fonda-commencement-news-768x432.jpg.webp",
+            "description": "Academy Award\u2013winning actor, activist, and cultural icon Jane Fonda delivered a powerful keynote address at Hunter College\u2019s commencement."
+        },
+        {
             "title": "Hunter Panel Asks About the Future of AI, Education, and Work",
             "date": "May 22, 2026",
             "read_more_link": "https://www.hunter.cuny.edu/news/hunter-panel-asks-about-the-future-of-ai-education-and-work/?news-feed=spotlight&source=/news/",
@@ -2605,41 +2658,6 @@
             "read_more_link": "https://www.hunter.cuny.edu/news/hunter-college-convenes-first-indigenous-food-policy-summit/?news-feed=spotlight&source=/news/",
             "image_reference": "https://s29068.pcdn.co/wp-content/uploads/sean-sherman-news-2-768x432.jpg.webp",
             "description": "Indigenous leaders, elders, scholars, and community members from around the world gathered on April 27 for the 2026 Indigenous Food Policy Summit."
-        },
-        {
-            "title": "Hunter Hosts High Schoolers for a Hands-on AI Literacy Day",
-            "date": "May 15, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-hosts-high-schoolers-for-a-hands-on-ai-literacy-day/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/ai-literacy-day-news-768x432.jpg.webp",
-            "description": "On March 27, Hunter welcomed 9th-, 10th-, and 11th-grade students from the High School of Fashion Industries for National AI Literacy Day."
-        },
-        {
-            "title": "Hunter Education School Debuts Suite of Micro-Credentials",
-            "date": "May 15, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-education-school-debuts-suite-of-micro-credentials/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/julie-gorlewski-with-students-news-768x432.jpg.webp",
-            "description": "Hunter\u2019s School of Education is advancing equity-centered teaching and career-ready learning with the launch of its first micro-credential programs."
-        },
-        {
-            "title": "Hunter Sociologists Earn Top CUNY Honors for Impactful Research",
-            "date": "May 29, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-sociologists-earn-top-cuny-honors-for-impactful-research/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/heba-gowayed-and-andrea-becker-news-768x432.jpg.webp",
-            "description": "Two Hunter College sociology faculty members received honors from the CUNY Academy for the Humanities and Sciences."
-        },
-        {
-            "title": "Hunter Nursing Doctoral Student Will Train in National Program",
-            "date": "May 29, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-nursing-doctoral-student-will-train-in-national-program/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/lydia-peal-news-768x432.jpg.webp",
-            "description": "A doctor of nursing practice student at Hunter has been selected for a highly competitive national training program."
-        },
-        {
-            "title": "#FacesOfHunter: Oliver Jones, Finding the Rhythm of Community",
-            "date": "May 5, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/facesofhunter-oliver-jones-finding-the-rhythm-of-community/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/oliver-jones-news-768x432.jpg.webp",
-            "description": "For Oliver Jones, the road to Hunter College began in a high-school dance studio in Hicksville,\u00a0on\u00a0Long Island."
         }
     ],
     "jjay": [
@@ -2802,6 +2820,60 @@
     ],
     "slu": [
         {
+            "title": "Student, Staff & Faculty Publications, Awards and Talks \u2014 May 2026",
+            "read_more_link": "https://slu.cuny.edu/2026/05/21/student-faculty-publications-may-2026/",
+            "image_reference": "",
+            "description": "MA Student Christina Sparrock will participate in a panel this evening, May 21 at 6 p.m. on alternative mental health crisis responses. People may attend via zoom (register here) for a discussion of a joint report, \u201cSelf-Determination is the Pathway to Liberation\u201d: Alternative Mental Health Crisis Response in the United States, by New York Lawyers for the Public Interest (NYLPI), Human Rights Watch, and the Center for Racial and Disability Justice at UCLA School of Law."
+        },
+        {
+            "title": "Meet Urban Studies Stars, Valedictorian Christine Clemmings and Salutatorian Toni Charlton",
+            "read_more_link": "https://slu.cuny.edu/2026/05/21/meet-urban-studies-stars-valedictorian-christine-clemmings-and-salutatorian-toni-charlton/",
+            "image_reference": "",
+            "description": "The writer and critic Susan Sontag once noted, \u201cA writer, I think, is someone who pays attention to the world.\u201d It makes sense, then, that 2026 Valedictorian Christine Clemmings has a keen interest in the nuanced mechanisms that keep New York City humming."
+        },
+        {
+            "title": "Student Storylines: What We Built Together This Year",
+            "read_more_link": "https://slu.cuny.edu/2026/05/21/what-we-built-together-this-year/",
+            "image_reference": "",
+            "description": "And just like that, another semester at SLU comes to a close. For any fellow students that I didn\u2019t get the chance to meet: my name is Carmen and I\u2019ve been serving as your Student Union Secretary this year and as SLU\u2019s Graduate Delegate to the University Student Senate."
+        },
+        {
+            "title": "Ayetuoma Owheruo: From Farm to Skyscraper \u2014 With a Stop on the Subway Platform",
+            "read_more_link": "https://slu.cuny.edu/2026/04/24/ayetuoma-owheruo-from-farm-to-skyscraper-with-a-stop-on-the-subway-platform/",
+            "image_reference": "",
+            "description": "The Manhattan view from Ayetuoma Owheruo\u2019s 39th-floor office in the World Trade Center could not be more of a contrast from the lush landscape of his grandparents\u2019 farm in Nigeria."
+        },
+        {
+            "title": "Women Learning to Lead:  Students Reflect on a Day of Growth",
+            "read_more_link": "https://slu.cuny.edu/2026/04/23/women-learning-to-lead-students-reflect-on-a-day-of-growth/",
+            "image_reference": "",
+            "description": "SLU students joined in the events at the CUNY Student Women\u2019s Leadership Conference last month, a one-day whirlwind of speakers and networking. SLU Director of Student and Community Affairs Rochel Pinder was proud that five students attended this year, the largest number yet for the annual event."
+        },
+        {
+            "title": "Training Troublemakers: Q&A With Distinguished Lecturer Ellen Dichner",
+            "read_more_link": "https://slu.cuny.edu/2026/04/22/training-troublemakers-qa-with-distinguished-lecturer-ellen-dichner/",
+            "image_reference": "",
+            "description": "Distinguished Lecturer in Labor Studies Ellen Dichner is a labor lawyer with deep experience representing workers and unions. Prior to joining the SLU faculty, she served as Chief Counsel to the Chairman of the National Labor Relations Board in Washington during the Obama administration."
+        },
+        {
+            "title": "A Student-Led Approach to Addressing Hunger and Building Community",
+            "read_more_link": "https://slu.cuny.edu/2026/04/22/a-student-led-approach-to-addressing-hunger-and-building-community/",
+            "image_reference": "",
+            "description": "Here at SLU, food insecurity isn\u2019t just about hunger \u2013 it\u2019s about stigma, survival, and the kind of community we choose to build. For many students, the challenge of accessing food is not only financial, but social \u2013 shaped by whether they feel safe, seen, and supported enough to ask for help."
+        },
+        {
+            "title": "SLU Remembers Assemblymember Catherine Nolan, A Champion for Labor and Education",
+            "read_more_link": "https://slu.cuny.edu/2026/03/16/slu-remembers-assemblymember-catherine-nolan-a-champion-for-labor-and-education/",
+            "image_reference": "",
+            "description": "Catherine Nolan, a Queens lawmaker who served in the State Assembly for almost four decades and was widely known as a fierce advocate for workers\u2019 rights, passed away on March 11, one day before her 68th birthday."
+        },
+        {
+            "title": "Organizer in the Classroom: Inneshia Hart\u2019s Fight for Workers\u2014and a Degree",
+            "read_more_link": "https://slu.cuny.edu/2026/03/12/organizer-in-the-classroom-inneshia-harts-fight-for-workers-and-a-degree/",
+            "image_reference": "",
+            "description": "Having a child alters your life, it\u2019s safe to say. But you won\u2019t know how, exactly, until it occurs."
+        },
+        {
             "title": "Beyond the Ivory Tower: Q&A With Professor Penny Lewis",
             "read_more_link": "https://slu.cuny.edu/2026/03/12/beyond-the-ivory-tower-qa-with-professor-penny-lewis/",
             "image_reference": "",
@@ -2866,63 +2938,16 @@
             "read_more_link": "https://slu.cuny.edu/2026/01/25/weather-alert-2026/",
             "image_reference": "",
             "description": "Due to severe winter weather conditions, the SLU campus will operate fully remotely on Monday, January 26, 2026. All classes and administrative operations will be conducted remotely, and all on-campus events are canceled."
-        },
-        {
-            "title": "Transforming Trash and Telling Stories: SLU Grads Make Their Mark",
-            "read_more_link": "https://slu.cuny.edu/2025/12/22/transforming-trash-and-telling-stories-slu-grads-make-their-mark/",
-            "image_reference": "",
-            "description": "A garbage innovator and a budding journalist: Joshua Goodman and Paige Oamek are both SLU graduates who were spotlighted recently in CUNY\u2019s second annual 50 Under 50 Alumni Awards."
-        },
-        {
-            "title": "From Fresh Goals to Job Offers: Internship Program Spurs Careers",
-            "read_more_link": "https://slu.cuny.edu/2025/12/22/from-fresh-goals-to-job-offers-internship-program-spurs-careers/",
-            "image_reference": "",
-            "description": "For some of SLU\u2019s experiential learners, this fall\u2019s internship was the first time they ever used an office phone. For others, it was their first time in an office, period."
-        },
-        {
-            "title": "A Year of Critical Questions and Bold Answers",
-            "read_more_link": "https://slu.cuny.edu/2025/12/18/a-year-of-critical-questions-and-bold-answers/",
-            "image_reference": "",
-            "description": "SLU served as a vital academic hub and practical \u201claboratory\u201d for scholars and students to engage in critical teaching and research over the past year."
-        },
-        {
-            "title": "Major Labor Schools Coming to SLU This Summer",
-            "read_more_link": "https://slu.cuny.edu/2025/12/18/major-labor-schools-coming-to-slu-this-summer/",
-            "image_reference": "",
-            "description": "Two major labor movement summer schools will be held at SLU in summer 2026\u2014one as a new permanent program and the other as a cyclical hosting event."
-        },
-        {
-            "title": "Student Storylines: What We Built Together This Year",
-            "read_more_link": "https://slu.cuny.edu/2026/05/21/what-we-built-together-this-year/",
-            "image_reference": "",
-            "description": "And just like that, another semester at SLU comes to a close. For any fellow students that I didn\u2019t get the chance to meet: my name is Carmen and I\u2019ve been serving as your Student Union Secretary this year and as SLU\u2019s Graduate Delegate to the University Student Senate."
-        },
-        {
-            "title": "Student, Staff & Faculty Publications, Awards and Talks \u2014 May 2026",
-            "read_more_link": "https://slu.cuny.edu/2026/05/21/student-faculty-publications-may-2026/",
-            "image_reference": "",
-            "description": "MA Student Christina Sparrock will participate in a panel this evening, May 21 at 6 p.m. on alternative mental health crisis responses. People may attend via zoom (register here) for a discussion of a joint report, \u201cSelf-Determination is the Pathway to Liberation\u201d: Alternative Mental Health Crisis Response in the United States, by New York Lawyers for the Public Interest (NYLPI), Human Rights Watch, and the Center for Racial and Disability Justice at UCLA School of Law."
-        },
-        {
-            "title": "Meet Urban Studies Stars, Valedictorian Christine Clemmings and Salutatorian Toni Charlton",
-            "read_more_link": "https://slu.cuny.edu/2026/05/21/meet-urban-studies-stars-valedictorian-christine-clemmings-and-salutatorian-toni-charlton/",
-            "image_reference": "",
-            "description": "The writer and critic Susan Sontag once noted, \u201cA writer, I think, is someone who pays attention to the world.\u201d It makes sense, then, that 2026 Valedictorian Christine Clemmings has a keen interest in the nuanced mechanisms that keep New York City humming."
-        },
-        {
-            "title": "What We Built Together This Year",
-            "read_more_link": "https://slu.cuny.edu/2026/05/21/what-we-built-together-this-year/",
-            "image_reference": "",
-            "description": "And just like that, another semester at SLU comes to a close. For any fellow students that I didn\u2019t get the chance to meet: my name is Carmen and I\u2019ve been serving as your Student Union Secretary this year and as SLU\u2019s Graduate Delegate to the University Student Senate."
-        },
-        {
-            "title": "Ayetuoma Owheruo: From Farm to Skyscraper \u2014 With a Stop on the Subway Platform",
-            "read_more_link": "https://slu.cuny.edu/2026/04/24/ayetuoma-owheruo-from-farm-to-skyscraper-with-a-stop-on-the-subway-platform/",
-            "image_reference": "",
-            "description": "April 24, 2026 \u00a0 The Manhattan view from Ayetuoma Owheruo\u2019s 39th-floor office in the World Trade Center could not be more of a contrast from the lush landscape of his grandparents\u2019 farm in Nigeria. It\u2019s been a long journey from that farm to his current position in the city\u2019s Human Resources Administration, where he leads the One-Shot Deal (OSD) and Project Management Unit of the Supportive Housing and Specialized Services. And now, as he works toward a master\u2019s degree in Urban Studies at SLU, he is looking down roads that will take him even further. After 15 years working inside [\u2026]"
         }
     ],
     "soj": [
+        {
+            "title": "Newmark J-School Welcomes Ken Auletta and Shuwei Fang as Senior Fellows",
+            "read_more_link": "https://www.journalism.cuny.edu/2026/06/ken-auletta-shuwei-fang-senior-fellows-newmark-jschool/",
+            "image_reference": "https://www.journalism.cuny.edu/wp-content/uploads/2026/06/260617-Senior-Fellows-Banner1-730x548.png",
+            "description": "The Craig Newmark Graduate School of Journalism at CUNY is pleased to welcome Ken Auletta\u2026",
+            "date": "Jun 18, 2026"
+        },
         {
             "title": "New AI Safety Tool expands critical safety guidance for journalists and editors in the U.S.",
             "read_more_link": "https://www.journalism.cuny.edu/2026/05/new-ai-safety-tool-expands-critical-safety-guidance/",
@@ -3055,13 +3080,6 @@
             "image_reference": "https://www.journalism.cuny.edu/wp-content/uploads/2018/08/newbanners-730x548.jpg",
             "description": "New York, NY, December 18, 2025 \u2013 Fifty-one ethnic and community media outlets, who publish\u2026",
             "date": "Dec 18, 2025"
-        },
-        {
-            "title": "McGraw Fellow Robert Lopez wins Sidney Award for Detailing Child Labor Abuses on California Farms",
-            "read_more_link": "https://www.journalism.cuny.edu/2025/12/mcgraw-fellow-robert-lopez-wins-sidney-award-for-detailing-child-labor-abuses-on-california-farms/",
-            "image_reference": "https://www.journalism.cuny.edu/wp-content/uploads/2025/12/Salinas_001-730x548.jpg",
-            "description": "Robert Lopez has won the December Sidney Award for his two-part investigation into California\u2019s failure\u2026",
-            "date": "Dec 11, 2025"
         }
     ]
 }
