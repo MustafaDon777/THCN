@@ -1,51 +1,27 @@
 [
   {
+    "category": "BARUC",
+    "title": "Baruch Students Publish AI-Informed Diabetes Study in Healthcare Journal",
+    "date": "September 18, 2026",
+    "description": "September 18, 2026",
+    "link": "https://newscenter.baruch.cuny.edu/news/baruch-students-publish-ai-informed-diabetes-study-in-healthcare-journal/",
+    "img_link": "https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2026/09/Healthcare-Research.gif"
+  },
+  {
+    "category": "SPH",
+    "title": "As AI enters health care, are we ready?",
+    "date": "In new perspective piece, researchers call for health-literate AI\nNew York, NY | September 16, 2026 – Artificial intelligence is rapidly becoming part of how people seek, interpret, and act on health information. Yet the technology is advancing faster than the evidence needed to determine whether ...",
+    "description": "In new perspective piece, researchers call for health-literate AI\nNew York, NY | September 16, 2026 – Artificial intelligence is rapidly becoming part of how people seek, interpret, and act on health information. Yet the technology is advancing faster than the evidence needed to determine whether ...",
+    "link": "https://sph.cuny.edu/life-at-sph/news/2026/09/16/researchers-call-for-health-literate-ai/",
+    "img_link": "https://sph.cuny.edu/wp-content/uploads/2026/04/AI-course-bot-300x169.jpg"
+  },
+  {
     "category": "SPH",
     "title": "Global sexual and reproductive health and rights under threat, warn CUNY SPH experts and collaborators",
     "date": "Proposed UN reforms risk undermining decades of progress to protect maternal health and prevent gender-based violence\nNew York, NY | September 15, 2026: As world leaders gather at the 81st Session of the UN General Assembly (UNGA 81) this month, experts in a special collection of articles published ...",
     "description": "Proposed UN reforms risk undermining decades of progress to protect maternal health and prevent gender-based violence\nNew York, NY | September 15, 2026: As world leaders gather at the 81st Session of the UN General Assembly (UNGA 81) this month, experts in a special collection of articles published ...",
     "link": "https://sph.cuny.edu/life-at-sph/news/2026/09/15/global-sexual-reproductive-health-rights-under-threat/",
     "img_link": "https://sph.cuny.edu/wp-content/uploads/2026/09/Protest-mural-in-Kolkata-300x213.jpg"
-  },
-  {
-    "category": "BARUC",
-    "title": "The Princeton Review Names Baruch one of the Nation’s Best Colleges",
-    "date": "September 3, 2026",
-    "description": "September 3, 2026",
-    "link": "https://newscenter.baruch.cuny.edu/news/princeton-review-names-baruch-among-nations-best-392-colleges/",
-    "img_link": "https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2026/09/baruch-college-princeton.jpg"
-  },
-  {
-    "category": "SPS",
-    "title": "Inaugural Capstone Showcase Celebrates Groundbreaking Student Research",
-    "date": "Recent Announcement",
-    "description": "This all-day virtual event featured back-to-back presentations highlighting innovative scholarship from students in the School's undergraduate and graduate programs.",
-    "link": "https://sps.cuny.edu/about/news/inaugural-capstone-showcase-celebrates-groundbreaking-student-research",
-    "img_link": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/capstone%20use%20square600.JPG?itok=3y5jyzZn"
-  },
-  {
-    "category": "MACALY",
-    "title": "2026 Outstanding Undergraduate Research Awards",
-    "date": "Recent Announcement",
-    "description": "Macaulay announces and congratulates winners of the 2026 Outstanding Undergraduate Research Awards for exceptional research and creative work of our graduating seniors.",
-    "link": "https://macaulay.cuny.edu/news-and-events/2026-outstanding-undergraduate-research-awards/",
-    "img_link": "https://macaulay.cuny.edu/wp-content/uploads/2026/05/IMG_8143-667x375.jpg"
-  },
-  {
-    "category": "CCNY",
-    "title": "Six CCNY undergrads receive Gilman International scholarships",
-    "date": "Recent Announcement",
-    "description": "Africa, Asia, Europe and the Middle East were the destinations for the latest cohort of Gilman Scholars at The City College of New York. Six outstanding undergraduates at CCNY were among the 29 recipients from CUNY of Benjamin A. Gilman International Scholarships that provide support for overseas travel and research. Administered by the U.S. Department of State, Gilman Scholarships enable students of limited financial means to study or intern abroad, gaining skills critical to national security and economic competitiveness. Following are CCNY’s Gilman Scholars, their destinations and research",
-    "link": "https://www.ccny.cuny.edu/news/six-ccny-undergrads-receive-gilman-international-scholarships",
-    "img_link": "https://www.ccny.cuny.edu/sites/default/files/styles/medium/public/2026-02/Gilman%20Scholars_2026.jpg?itok=0knLMgel"
-  },
-  {
-    "category": "KBCC",
-    "title": "Two Kingsborough Community College Awarded  JKC National Community College Transfer Scholarships",
-    "date": "Recent Announcement",
-    "description": "Kingsborough Community College students Tanzeela Jahangir Chaudhry and William (Liam) Lotz, recipients of the 2025 Jack Kent Cooke Foundation’s Undergraduate Transfer Scholarship.",
-    "link": "https://www.kbcc.cuny.edu/news/2025/jack-kent-cooke-finalist-2025.html",
-    "img_link": "https://www.kbcc.cuny.edu/news/2025/images/Tanzeela-and-Liam-800x533.jpg"
   },
   {
     "category": "QCC",
@@ -56,19 +32,35 @@
     "img_link": "https://www.qcc.cuny.edu/news/images/URCW_2025_-_Square_Edit.jpg"
   },
   {
-    "category": "HUNTER",
-    "title": "Hunter Nursing Student Completes Prestigious Fellowship at Calvary Hospital",
-    "date": "Recent Announcement",
-    "description": "An undergraduate at the Hunter-Bellevue School of Nursing recently celebrated her graduation from a highly competitive summer fellowship.",
-    "link": "https://www.hunter.cuny.edu/news/hunter-nursing-student-completes-prestigious-fellowship-at-calvary-hospital/?news-feed=spotlight&source=/news/",
-    "img_link": "https://s29068.pcdn.co/wp-content/uploads/althea-castro-news-768x432.jpg.webp"
-  },
-  {
     "category": "SPS",
     "title": "CUNY SPS Student Reflects Back on Award-Winning Research Supporting Children with Autism",
     "date": "Recent Announcement",
     "description": "In this Q&A piece, Sergey Tikhonov, a CUNY SPS Information Science student, discusses his award-winning project that helps children with autism spectrum disorder recognize their different emotions. His program also provides insights for teachers and parents to identify areas where kids will need help modulating their emotional responses.",
     "link": "https://sps.cuny.edu/about/news/cuny-sps-student-reflects-back-on-awardwinning-research-supporting-children-with-autism",
     "img_link": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/CUNY-SPS-Information-Science-student-Sergey-Tikhonov_0.jpg?itok=1SbptszF"
+  },
+  {
+    "category": "SPS",
+    "title": "Liberal Studies Instructor Named 2026 Winner of Adjunct Faculty Teaching Excellence Prize",
+    "date": "Recent Announcement",
+    "description": "Dr. Ryan Everitt, who has taught in the CUNY SPS BA in Liberal Studies program for the past five years, received the School's yearly adjunct faculty award for his dedication, innovation, and commitment to student learning.",
+    "link": "https://sps.cuny.edu/about/news/liberal-studies-instructor-named-2026-winner-of-adjunct-faculty-teaching-excellence",
+    "img_link": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/Everitt%20photosquare_600.JPG?itok=npW2_unW"
+  },
+  {
+    "category": "MACALY",
+    "title": "Three Students Earn CUNY’s Jonas E. Salk Scholarship",
+    "date": "Recent Announcement",
+    "description": "Macaulay Honors College congratulates Michelle Chen (Hunter College), Rohan Ghoshal (Hunter College), and Ziv Nachshon (Queens College). They have received CUNY's prestigious Jonas E. Salk Scholarship to support future biomedical research.",
+    "link": "https://macaulay.cuny.edu/news-and-events/three-students-earn-cunys-jonas-e-salk-scholarship/",
+    "img_link": "https://macaulay.cuny.edu/wp-content/uploads/2026/05/2026JonasESalkScholars-667x375.png"
+  },
+  {
+    "category": "MACALY",
+    "title": "Endowed Gift to Advance the Human Condition",
+    "date": "Recent Announcement",
+    "description": "Macaulay Honors College receives a generous gift from Gary Schwartz, PhD to advance humanities education. The Gary Schwartz Endowed Scholarship for Advanced Study will support doctoral-bound humanities students with funding for research, study abroad, and professional development.",
+    "link": "https://macaulay.cuny.edu/news-and-events/endowed-gift-to-advance-the-human-condition/",
+    "img_link": "https://macaulay.cuny.edu/wp-content/uploads/2026/04/Dr.-Gary-Schwartz-left-with-Romario-Ricketts-21-Lehman-College-667x375.jpeg"
   }
 ]
