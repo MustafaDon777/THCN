@@ -1,66 +1,138 @@
 [
   {
-    "category": "BARUC",
-    "title": "Baruch Students Publish AI-Informed Diabetes Study in Healthcare Journal",
-    "date": "September 18, 2026",
-    "description": "September 18, 2026",
-    "link": "https://newscenter.baruch.cuny.edu/news/baruch-students-publish-ai-informed-diabetes-study-in-healthcare-journal/",
-    "img_link": "https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2026/09/Healthcare-Research.gif"
+    "category": "SPH",
+    "title": "SRJ Hub Student Spotlight: PhD Student Carolyn Brown-Kaiser, MPH",
+    "date": "Oct. 26, 2026",
+    "description": "In this series, we highlight the work of CUNY SPH students dedicated to scholarship, advocacy, and research in the field of sexual and reproductive health and justice.  \n Carolyn Brown-Kaiser, MPH\nA public health researcher dedicated to examining how structural inequities affect access to sexual a...",
+    "link": "https://sph.cuny.edu/life-at-sph/news/2026/10/26/srj-hub-student-spotlight-carolyn-brown-kaiser/",
+    "img_link": "https://sph.cuny.edu/wp-content/uploads/2026/10/IMG_0702-300x240.jpg"
+  },
+  {
+    "category": "BMCC",
+    "title": "BMCC Welcomes Eight New Scholars to Out in Two Program",
+    "date": "October 22, 2026",
+    "description": "Donor-funded Out in Two scholarship program creates supportive community designed to help students graduate in two years.",
+    "link": "https://www.bmcc.cuny.edu/news/bmcc-welcomes-eight-new-scholars-to-out-in-two-program/",
+    "img_link": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/10/thumb-out-in-twoo-300x300.jpg"
+  },
+  {
+    "category": "LEHMAN",
+    "title": "Lehman’s First Majors, Minors, and Internship Fair Draws 600 students",
+    "date": "October 28, 2026",
+    "description": "Event connected courses of study to career possibilities",
+    "link": "https://www.lehman.cuny.edu/news/2026/Lehmans-First-Majors-Minors-and-Internship-Fair-Draws-600-students.php",
+    "img_link": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Majors-minors.jpeg"
+  },
+  {
+    "category": "HUNTER",
+    "title": "Hunter College Journalism Award Honors Investigative Reporter, Student",
+    "date": "October 28, 2026",
+    "description": "Wendi C. Thomas received the 2026 James Aronson Outstanding Journalist Award.",
+    "link": "https://www.hunter.cuny.edu/news/hunter-college-journalism-award-honors-investigative-reporter-student/?news-feed=spotlight&source=/news/",
+    "img_link": "https://s29068.pcdn.co/wp-content/uploads/wendi-c-thomas-andrew-balaban-news-768x432.jpg.webp"
+  },
+  {
+    "category": "LEHMAN",
+    "title": "How One Student is Building a Computer Science Community",
+    "date": "October 26, 2026",
+    "description": "Mahfoudh Senhoury recognized for research and campus initiative",
+    "link": "https://www.lehman.cuny.edu/news/2026/How-One-Student-is-Building-a-Computer-Science-Community-.php",
+    "img_link": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/mahfoudh-400x400.jpeg"
+  },
+  {
+    "category": "LEHMAN",
+    "title": "Six Lehman Students Recognized by ALPFA",
+    "date": "October 21, 2026",
+    "description": "Association opens doors through scholarship programs",
+    "link": "https://www.lehman.cuny.edu/news/2026/Six-Lehman-Students-Recognized-by-ALPFA.php",
+    "img_link": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/LA-HS-(1).png"
+  },
+  {
+    "category": "HUNTER",
+    "title": "Hunter Honors Faculty and Staff for Teaching, Scholarship, and Service",
+    "date": "October 19, 2026",
+    "description": "Hunter College recognized 13 faculty and 10 staff members for outstanding achievements in teaching, scholarship, service, and community engagement.",
+    "link": "https://www.hunter.cuny.edu/news/hunter-honors-faculty-and-staff-excellence-for-teaching-scholarship-and-service/?news-feed=spotlight&source=/news/",
+    "img_link": "https://s29068.pcdn.co/wp-content/uploads/faculty-staff-awards-news-768x432.jpg.webp"
+  },
+  {
+    "category": "HUNTER",
+    "title": "Hunter Opens Doors of Community Wellness Hub in Midtown",
+    "date": "October 16, 2026",
+    "description": "A Hunter College initiative aims to bring mental health support, community connection, student training, and public-impact research under one roof.",
+    "link": "https://www.hunter.cuny.edu/news/hunter-opens-doors-of-community-wellness-hub-in-midtown/?news-feed=spotlight&source=/news/",
+    "img_link": "https://s29068.pcdn.co/wp-content/uploads/aboubakar-diaby-news-768x432.jpg.webp"
+  },
+  {
+    "category": "HUNTER",
+    "title": "Hunter College Historian Manu Bhagavan Receives Thought Leadership Award",
+    "date": "October 16, 2026",
+    "description": "A Hunter College historian has received an award for visionary public scholarship from an international human rights group.",
+    "link": "https://www.hunter.cuny.edu/news/hunter-college-historian-manu-bhagavan-receives-thought-leadership-award/?news-feed=spotlight&source=/news/",
+    "img_link": "https://s29068.pcdn.co/wp-content/uploads/manu-bhagavan-news-768x432.jpg.webp"
+  },
+  {
+    "category": "BMCC",
+    "title": "BMCC Early Childhood Center Awarded $1.9 Million to Support Student Parents",
+    "date": "October 7, 2026",
+    "description": "CCAMPIS program supports low-income student parents by providing access to campus-based child care services",
+    "link": "https://www.bmcc.cuny.edu/news/bmcc-early-childhood-center-awarded-1-9-million-to-support-student-parents/",
+    "img_link": "https://bmccprodstroac.blob.core.windows.net/uploads/2023/03/scott.jpg"
+  },
+  {
+    "category": "HUNTER",
+    "title": "Hunter Nursing Faculty Member Receives Prestigious Health Equity Award",
+    "date": "October 7, 2026",
+    "description": "A faculty member of the Hunter-Bellevue School of Nursing has been recognized with one of the nation’s most competitive health-equity research awards.",
+    "link": "https://www.hunter.cuny.edu/news/hunter-nursing-faculty-member-receives-prestigious-health-equity-award/?news-feed=spotlight&source=/news/",
+    "img_link": "https://s29068.pcdn.co/wp-content/uploads/helena-addison-news-768x432.jpg.webp"
+  },
+  {
+    "category": "HUNTER",
+    "title": "Hunter Researchers Win $3.9 Million Federal Grant to Advance HIV Prevention",
+    "date": "October 29, 2026",
+    "description": "Hunter College researchers Demetria Cain and Tyrel Starks have received a five-year, $3.93 million federal grant.",
+    "link": "https://www.hunter.cuny.edu/news/hunter-researchers-win-3-9-million-federal-grant-to-advance-hiv-prevention/?news-feed=spotlight&source=/news/",
+    "img_link": "https://s29068.pcdn.co/wp-content/uploads/researchers-demetria-cain-and-tyrel-starks-news-768x432.jpg.webp"
+  },
+  {
+    "category": "HUNTER",
+    "title": "Hunter Partners With Nonprofit Rethink Food To Fight Student Hunger",
+    "date": "October 29, 2026",
+    "description": "Beginning this month, Rethink Food will deliver sandwiches each week to stock the Food Policy Center’s three refrigerated Pantry Link locker machines.",
+    "link": "https://www.hunter.cuny.edu/news/hunter-partners-with-nonprofit-rethink-food-to-fight-student-hunger/?news-feed=spotlight&source=/news/",
+    "img_link": "https://s29068.pcdn.co/wp-content/uploads/rethink-food-to-fight-student-hunger-news-768x432.jpg.webp"
   },
   {
     "category": "SPH",
-    "title": "As AI enters health care, are we ready?",
-    "date": "In new perspective piece, researchers call for health-literate AI\nNew York, NY | September 16, 2026 – Artificial intelligence is rapidly becoming part of how people seek, interpret, and act on health information. Yet the technology is advancing faster than the evidence needed to determine whether ...",
-    "description": "In new perspective piece, researchers call for health-literate AI\nNew York, NY | September 16, 2026 – Artificial intelligence is rapidly becoming part of how people seek, interpret, and act on health information. Yet the technology is advancing faster than the evidence needed to determine whether ...",
-    "link": "https://sph.cuny.edu/life-at-sph/news/2026/09/16/researchers-call-for-health-literate-ai/",
-    "img_link": "https://sph.cuny.edu/wp-content/uploads/2026/04/AI-course-bot-300x169.jpg"
+    "title": "Study explores AI’s role in assessing nutrition articles",
+    "date": "Oct. 27, 2026",
+    "description": "Nutrition articles can offer useful health information, but their language and emotional tone may affect how readers receive the message. A new study by Assistant Professor Ann Gaba and other CUNY SPH colleagues explored whether ChatGPT could help researchers assess those features.\nPublished in JAMI...",
+    "link": "https://sph.cuny.edu/life-at-sph/news/2026/10/27/study-explores-ais-role-in-assessing-nutrition-articles/",
+    "img_link": "https://sph.cuny.edu/wp-content/uploads/2026/10/AdobeStock_1921334069-300x199.jpeg"
   },
   {
-    "category": "SPH",
-    "title": "Global sexual and reproductive health and rights under threat, warn CUNY SPH experts and collaborators",
-    "date": "Proposed UN reforms risk undermining decades of progress to protect maternal health and prevent gender-based violence\nNew York, NY | September 15, 2026: As world leaders gather at the 81st Session of the UN General Assembly (UNGA 81) this month, experts in a special collection of articles published ...",
-    "description": "Proposed UN reforms risk undermining decades of progress to protect maternal health and prevent gender-based violence\nNew York, NY | September 15, 2026: As world leaders gather at the 81st Session of the UN General Assembly (UNGA 81) this month, experts in a special collection of articles published ...",
-    "link": "https://sph.cuny.edu/life-at-sph/news/2026/09/15/global-sexual-reproductive-health-rights-under-threat/",
-    "img_link": "https://sph.cuny.edu/wp-content/uploads/2026/09/Protest-mural-in-Kolkata-300x213.jpg"
+    "category": "LEHMAN",
+    "title": "Alumna Porshe Maysonet Almost Became a Statistic in Her Own Research",
+    "date": "October 27, 2026",
+    "description": "Now she's determined to change the equation",
+    "link": "https://www.lehman.cuny.edu/news/2026/Alumna-Porshe-Maysonet-Almost-Became-a-Statistic-in-Her-Own-Research-.php",
+    "img_link": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Porshe.jpeg"
   },
   {
-    "category": "QCC",
-    "title": "Students and their Faculty Mentors Shined at the 10th Annual Undergraduate Research and Creative Works Day, Held on December 5",
-    "date": "Recent Announcement",
-    "description": "",
-    "link": "https://www.qcc.cuny.edu/news/2025/12/students-and-their-faculty-mentors-shined-at-the-10th-annual-undergraduate-research-and-creative-works-day,-held-on-december-5.html",
-    "img_link": "https://www.qcc.cuny.edu/news/images/URCW_2025_-_Square_Edit.jpg"
+    "category": "HUNTER",
+    "title": "Career Week Connects Hunter Students to Opportunity",
+    "date": "October 27, 2026",
+    "description": "Fall 2026 Career Week was one of Hunter College’s most successful career-readiness initiatives yet.",
+    "link": "https://www.hunter.cuny.edu/news/career-week-connects-hunter-students-to-opportunity/?news-feed=spotlight&source=/news/",
+    "img_link": "https://s29068.pcdn.co/wp-content/uploads/career-fair-news-768x432.jpg.webp"
   },
   {
-    "category": "SPS",
-    "title": "CUNY SPS Student Reflects Back on Award-Winning Research Supporting Children with Autism",
-    "date": "Recent Announcement",
-    "description": "In this Q&A piece, Sergey Tikhonov, a CUNY SPS Information Science student, discusses his award-winning project that helps children with autism spectrum disorder recognize their different emotions. His program also provides insights for teachers and parents to identify areas where kids will need help modulating their emotional responses.",
-    "link": "https://sps.cuny.edu/about/news/cuny-sps-student-reflects-back-on-awardwinning-research-supporting-children-with-autism",
-    "img_link": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/CUNY-SPS-Information-Science-student-Sergey-Tikhonov_0.jpg?itok=1SbptszF"
-  },
-  {
-    "category": "SPS",
-    "title": "Liberal Studies Instructor Named 2026 Winner of Adjunct Faculty Teaching Excellence Prize",
-    "date": "Recent Announcement",
-    "description": "Dr. Ryan Everitt, who has taught in the CUNY SPS BA in Liberal Studies program for the past five years, received the School's yearly adjunct faculty award for his dedication, innovation, and commitment to student learning.",
-    "link": "https://sps.cuny.edu/about/news/liberal-studies-instructor-named-2026-winner-of-adjunct-faculty-teaching-excellence",
-    "img_link": "https://sps.cuny.edu/sites/default/files/styles/medium/public/news/Everitt%20photosquare_600.JPG?itok=npW2_unW"
-  },
-  {
-    "category": "MACALY",
-    "title": "Three Students Earn CUNY’s Jonas E. Salk Scholarship",
-    "date": "Recent Announcement",
-    "description": "Macaulay Honors College congratulates Michelle Chen (Hunter College), Rohan Ghoshal (Hunter College), and Ziv Nachshon (Queens College). They have received CUNY's prestigious Jonas E. Salk Scholarship to support future biomedical research.",
-    "link": "https://macaulay.cuny.edu/news-and-events/three-students-earn-cunys-jonas-e-salk-scholarship/",
-    "img_link": "https://macaulay.cuny.edu/wp-content/uploads/2026/05/2026JonasESalkScholars-667x375.png"
-  },
-  {
-    "category": "MACALY",
-    "title": "Endowed Gift to Advance the Human Condition",
-    "date": "Recent Announcement",
-    "description": "Macaulay Honors College receives a generous gift from Gary Schwartz, PhD to advance humanities education. The Gary Schwartz Endowed Scholarship for Advanced Study will support doctoral-bound humanities students with funding for research, study abroad, and professional development.",
-    "link": "https://macaulay.cuny.edu/news-and-events/endowed-gift-to-advance-the-human-condition/",
-    "img_link": "https://macaulay.cuny.edu/wp-content/uploads/2026/04/Dr.-Gary-Schwartz-left-with-Romario-Ricketts-21-Lehman-College-667x375.jpeg"
+    "category": "LEHMAN",
+    "title": "LEHMAN COLLEGE RECEIVES $2.1 MILLION TO ADVANCE NURSING EDUCATION AND WORKFORCE DEVELOPMENT",
+    "date": "October 15, 2026",
+    "description": "Four-year federal grant expands support for nursing students",
+    "link": "https://www.lehman.cuny.edu/news/2026/-LEHMAN-COLLEGE-RECEIVES-21-MILLION-TO-ADVANCE-NURSING-EDUCATION-AND-WORKFORCE-DEVELOPMENT-.php",
+    "img_link": "https://www.lehman.cuny.edu/media/Undergraduate-Academic-Advisement/Pre-Nursing-Nursing-Academic-Advising/images/Nursing-Pre-Nursing-Header-Photo.png"
   }
 ]
