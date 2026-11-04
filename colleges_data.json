@@ -1,6 +1,30 @@
 {
     "bcc": [
         {
+            "title": "Alumni Spotlight: From BCC to Leadership in New York State Government",
+            "read_more_link": "https://www.bcc.cuny.edu/alumni-spotlight-from-bcc-to-leadership-in-new-york-state-government/",
+            "image_reference": "https://www.bcc.cuny.edu/wp-content/uploads/bfi_thumb/dummy-4-rswzbmqfb2o1nhujbjmkvdhlq62n7se5x8eht9ysh8.png",
+            "description": "BCC alumnus Ishrael Gonzalez reflects on his journey to New York State government leadership."
+        },
+        {
+            "title": "Pedro Lopez: Sharing His Knowledge at BCC and Abroad",
+            "read_more_link": "https://www.bcc.cuny.edu/pedro-lopez-sharing-his-knowledge-at-bcc-and-abroad/",
+            "image_reference": "https://www.bcc.cuny.edu/wp-content/uploads/bfi_thumb/pedro-lopez-900-900px-rvv87zxk6wm2q86y9225zocd247ixkf9qyxzcc6vn0.jpg",
+            "description": "BCC alumnus and professor Pedro Lopez shares his medical imaging expertise abroad."
+        },
+        {
+            "title": "BCC Honors Faculty and Staff at Annual Employee Service Awards",
+            "read_more_link": "https://www.bcc.cuny.edu/bcc-honors-faculty-and-staff-at-annual-employee-service-awards/",
+            "image_reference": "https://www.bcc.cuny.edu/wp-content/uploads/bfi_thumb/dummy-transparent-rswzbmqfb2o1nhujbjmkvdhlq62n7se5x8eht9ysh8.png",
+            "description": "BCC honors faculty and staff for service milestones ranging from five to 55 years."
+        },
+        {
+            "title": "Bronx Community College Celebrates $6 Million Investment to Expand Nursing and Allied Health Sciences",
+            "read_more_link": "https://www.bcc.cuny.edu/bronx-community-college-celebrates-6-million-investment-to-expand-nursing-and-allied-health-sciences/",
+            "image_reference": "https://www.bcc.cuny.edu/wp-content/uploads/bfi_thumb/dummy-transparent-rswzbmqfb2o1nhujbjmkvdhlq62n7se5x8eht9ysh8.png",
+            "description": "BCC celebrates $6 million investment to expand Nursing and Allied Health Sciences."
+        },
+        {
             "title": "Before We Became Other: Paintings and Photographs by BCC Alumnus Leonardo Ilianov De La Cruz",
             "read_more_link": "https://www.bcc.cuny.edu/before-we-became-other-paintings-and-photographs-by-bcc-alumnus-leonardo-ilianov-de-la-cruz/",
             "image_reference": "https://www.bcc.cuny.edu/wp-content/uploads/bfi_thumb/leonardo-ilianov-de-la-cruz-900-900px-rv5ckj85h1m5k04w5xtf7qr3mlyhy82ri1b9d7hlf0.jpg",
@@ -95,33 +119,15 @@
             "read_more_link": "https://www.bcc.cuny.edu/college-senate-parliamentarian-and-communications-professor-laurence-brenner-helps-students-become-their-best-selves/",
             "image_reference": "https://www.bcc.cuny.edu/wp-content/uploads/bfi_thumb/dummy-transparent-rswzbmqfb2o1nhujbjmkvdhlq62n7se5x8eht9ysh8.png",
             "description": "Dr. Laurence Brenner helps BCC students communicate, reflect and become their best selves."
-        },
-        {
-            "title": "Faculty Research Advances Healthcare Education",
-            "read_more_link": "https://www.bcc.cuny.edu/faculty-research-advances-healthcare-education/",
-            "image_reference": "https://www.bcc.cuny.edu/wp-content/uploads/bfi_thumb/dummy-transparent-rswzbmqfb2o1nhujbjmkvdhlq62n7se5x8eht9ysh8.png",
-            "description": "Dr. Diane P. Banks publishes new SARS-CoV-2 research as BCC celebrates a record MLT class."
-        },
-        {
-            "title": "What We Owe the Generation That Doesn\u2019t Remember 9/11?",
-            "read_more_link": "https://www.bcc.cuny.edu/what-we-owe-the-generation-that-doesnt-remember-9-11/",
-            "image_reference": "https://www.bcc.cuny.edu/wp-content/uploads/bfi_thumb/dummy-transparent-rswzbmqfb2o1nhujbjmkvdhlq62n7se5x8eht9ysh8.png",
-            "description": "A new generation is called to carry forward 9/11\u2019s lessons of courage, service, and unity."
-        },
-        {
-            "title": "Dr. Randelle Sasa Named Fellow of the American Association for Men in Nursing",
-            "read_more_link": "https://www.bcc.cuny.edu/dr-randelle-sasa-named-fellow-of-the-american-association-for-men-in-nursing/",
-            "image_reference": "https://www.bcc.cuny.edu/wp-content/uploads/bfi_thumb/dummy-transparent-rswzbmqfb2o1nhujbjmkvdhlq62n7se5x8eht9ysh8.png",
-            "description": "BCC honors Dr. Randelle Sasa as an inaugural AAMN Fellow for nursing education leadership."
-        },
-        {
-            "title": "Guiding Students Toward Success: Advisor Felipe Ayala Helps Students See What\u2019s Possible",
-            "read_more_link": "https://www.bcc.cuny.edu/guiding-students-toward-success-advisor-felipe-ayala-helps-students-see-whats-possible/",
-            "image_reference": "https://www.bcc.cuny.edu/wp-content/uploads/bfi_thumb/dummy-transparent-rswzbmqfb2o1nhujbjmkvdhlq62n7se5x8eht9ysh8.png",
-            "description": "El Diario honoree Felipe Ayala Jr. leads BCC students past barriers and toward graduation."
         }
     ],
     "baruc": [
+        {
+            "title": "Justin Kelley to Join Baruch College as Vice President for Student Affairs",
+            "read_more_link": "https://newscenter.baruch.cuny.edu/news/justin-kelley-to-join-baruch-college-as-vice-president-for-student-affairs/",
+            "image_reference": "https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2026/10/Justin-Kelley-BNi-headshot.jpg",
+            "description": "October 29, 2026"
+        },
         {
             "title": "Baruch College Celebrates Three Decades of Career Development",
             "read_more_link": "https://newscenter.baruch.cuny.edu/news/baruch-college-celebrates-three-decades-of-career-development/",
@@ -235,12 +241,6 @@
             "read_more_link": "https://newscenter.baruch.cuny.edu/news/baruch-expo-showcases-student-research-across-disciplines/",
             "image_reference": "https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2026/05/2026-Research-Expo.gif",
             "description": "May 27, 2026"
-        },
-        {
-            "title": "Baruch College Announces Class of 2026 Valedictorian and Salutatorian",
-            "read_more_link": "https://newscenter.baruch.cuny.edu/news/baruch-college-announces-class-of-2026-valedictorian-and-salutatorian/",
-            "image_reference": "https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2026/05/Class-of-2026-Val-and-Sal.gif",
-            "description": "May 12, 2026"
         }
     ],
     "gc": [],
@@ -436,6 +436,12 @@
     ],
     "broklyn": [
         {
+            "title": "Tow Center Hosts Three Fall Creative Residencies Supporting New Work",
+            "read_more_link": "https://www.brooklyn.edu/bc-news/tow-center-hosts-three-fall-creative-residencies-supporting-new-work/",
+            "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
+            "description": "Creative residencies connect Brooklyn College students and faculty with acclaimed artists."
+        },
+        {
             "title": "Brooklyn College Kicks Off Its Centennial Journey with the Reopening of the East Quad",
             "read_more_link": "https://www.brooklyn.edu/bc-news/brooklyn-college-kicks-off-its-centennial-journey-with-the-reopening-of-the-east-quad/",
             "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
@@ -548,15 +554,16 @@
             "read_more_link": "https://www.brooklyn.edu/bc-news/edwin-h-cohen-62-to-be-honored-with-naiop-new-jersey-lifetime-achievement-award/",
             "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
             "description": "Prism Capital Partners principal and longtime Brooklyn College Foundation trustee and its former Chair will receive the Charles Klatskin Award at NAIOP NJ\u2019s annual awards gala on May 14."
-        },
-        {
-            "title": "Presidential Lecture Explores Public Trust, Institutional Integrity, and Ethical Leadership",
-            "read_more_link": "https://www.brooklyn.edu/bc-news/presidential-lecture-explores-public-trust-institutional-integrity-and-ethical-leadership/",
-            "image_reference": "../wp-content/themes/mast/dist/img/cuny-logo-dark.png",
-            "description": "Former federal prosecutor with the U.S. Department of Justice Michael Ben\u2019Ary and Michelle J. Anderson examine the consequences of political interference in the rule of law and democratic institutions."
         }
     ],
     "sph": [
+        {
+            "title": "Study links arrests in youth to poorer mental health in adulthood",
+            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/11/03/arrests-poorer-mental-health/",
+            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/11/AdobeStock_269309823-300x200.jpeg",
+            "description": "Arrests during the transition to adulthood may have lasting consequences for mental health, according to a new study led by CUNY SPH doctoral alumna Pui Ying (Polly) Chan. Published in the Journal of Epidemiology and Community Health, the research suggests that contact with the criminal legal system...",
+            "date": "Nov. 3, 2026"
+        },
         {
             "title": "When it comes to drug use and sex, language matters",
             "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/10/27/drug-use-sex-language-matters/",
@@ -688,13 +695,6 @@
             "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/09/03/testosterones-evolutionary-trade-off/",
             "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/09/testosterone-300x150.jpg",
             "description": "A new genetic study led by Distinguished Professor Mary Schooling lends fresh evidence to an evolutionary idea known as antagonistic pleiotropy; the notion that a trait can boost reproductive success while quietly shortening lifespan. Using Mendelian randomization, the researchers found that higher ...",
-            "date": "Sep. 3, 2026"
-        },
-        {
-            "title": "Professors Levi Waldron and Constantin Yiannoutsos named distinguished professor",
-            "read_more_link": "https://sph.cuny.edu/life-at-sph/news/2026/09/03/professors-waldron-and-yianoutsos-named-distinguished-professor/",
-            "image_reference": "https://sph.cuny.edu/wp-content/uploads/2026/09/image_dd93040c-300x300.png",
-            "description": "CUNY SPH is delighted to announce that, effective September 1, Drs. Levi Waldron and Constantin Yiannoutsos have been elevated to the rank of distinguished professor. Both appointments were approved by the CUNY Board of Trustees at its meeting on June 29.\nCUNY bestows the title of distinguished prof...",
             "date": "Sep. 3, 2026"
         }
     ],
@@ -1629,6 +1629,34 @@
     ],
     "macaly": [
         {
+            "title": "A History-Making Moment: Our 25th Anniversary Gala",
+            "date": "5/07/2026",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/a-history-making-moment-our-25th-anniversary-gala/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2026/05/2026-25th-Anniversary-Gala-web-2-667x375.jpeg",
+            "description": "A recap of the 25th Anniversary Gala of Macaulay Honors College."
+        },
+        {
+            "title": "2026 Outstanding Undergraduate Research Awards",
+            "date": "5/08/2026",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/2026-outstanding-undergraduate-research-awards/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2026/05/IMG_8143-667x375.jpg",
+            "description": "Macaulay announces and congratulates winners of the 2026 Outstanding Undergraduate Research Awards for exceptional research and creative work of our graduating seniors."
+        },
+        {
+            "title": "Datathon Winners Reimagine a Greener, More Livable NYC",
+            "date": "10/29/2026",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/datathon-winners-reimagine-a-greener-more-livable-nyc/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2026/10/Datathon2026-667x375.jpeg",
+            "description": "80 students analyzed data related to congestion pricing in the Fall 2026 Macaulay Honors College Datathon: Reimagining NYC. Participants identified patterns, proposed novel designs, and presented findings that could help make New York City more livable."
+        },
+        {
+            "title": "Leadership Means Community and Connection",
+            "date": "10/19/2026",
+            "read_more_link": "https://macaulay.cuny.edu/news-and-events/leadership-means-community-and-connection/",
+            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2026/10/FrenkliJahaj_CollaborativeWellness2025-667x375.jpg",
+            "description": "Frenkli Jahaj '27 (Baruch College) combines community service with leadership. He is a participant in an Accenture internship program, a peer mentor and a member of the Collaborative Wellness initiative."
+        },
+        {
             "title": "2026 Student and Alumni Awards",
             "date": "3/25/2026",
             "read_more_link": "https://macaulay.cuny.edu/news-and-events/2026-student-and-alumni-awards/",
@@ -1739,37 +1767,51 @@
             "read_more_link": "https://macaulay.cuny.edu/news-and-events/creativity-in-motion-zeehan-wazed-13-captures-new-yorks-energy/",
             "image_reference": "",
             "description": "An interview with New York City multidisciplinary artist Zeehan Wazed '13 (Baruch)."
-        },
-        {
-            "title": "Macaulay Students Excel in New Harvard Summer Partnership",
-            "date": "8/13/2026",
-            "read_more_link": "https://macaulay.cuny.edu/news-and-events/macaulay-students-excel-in-new-harvard-summer-partnership/",
-            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2026/08/2926HarvardSummerSchool-667x375.jpg",
-            "description": "A group of Macaulay students earned college credit through Harvard Summer School program, facilitated by a new Macaulay partnership with the Harvard Division of Continuing Education (DCE). Students share their impressions of the experience."
-        },
-        {
-            "title": "Civic Futures Lab Showcase Celebrates a Year of Community-Driven Change",
-            "date": "6/24/2026",
-            "read_more_link": "https://macaulay.cuny.edu/news-and-events/civic-futures-lab-showcase-celebrates-a-year-of-community-driven-change/",
-            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2026/06/Civic-Futures-Lab-Spring-2026-Expo-667x375.jpeg",
-            "description": "On May 1, 2026, the twenty-sevenCivic Futures Labmembers and dozens of community members from across NYC came together to share five distinct projects focused on addressing housing affordability and accessibility in our city. The projects on display included:"
-        },
-        {
-            "title": "2026 Outstanding Undergraduate Research Awards",
-            "date": "5/08/2026",
-            "read_more_link": "https://macaulay.cuny.edu/news-and-events/2026-outstanding-undergraduate-research-awards/",
-            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2026/05/IMG_8143-667x375.jpg",
-            "description": "Macaulay announces and congratulates winners of the 2026 Outstanding Undergraduate Research Awards for exceptional research and creative work of our graduating seniors."
-        },
-        {
-            "title": "A History-Making Moment: Our 25th Anniversary Gala",
-            "date": "5/07/2026",
-            "read_more_link": "https://macaulay.cuny.edu/news-and-events/a-history-making-moment-our-25th-anniversary-gala/",
-            "image_reference": "https://macaulay.cuny.edu/wp-content/uploads/2026/05/2026-25th-Anniversary-Gala-web-2-667x375.jpeg",
-            "description": "A recap of the 25th Anniversary Gala of Macaulay Honors College."
         }
     ],
     "lehman": [
+        {
+            "title": "Six Lehman Students Recognized by ALPFA",
+            "date": "October 21, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Six-Lehman-Students-Recognized-by-ALPFA.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/LA-HS-(1).png",
+            "description": "Association opens doors through scholarship programs"
+        },
+        {
+            "title": "Matt O\u2019Dowd is Named Fellow of American Physical Society",
+            "date": "October 19, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Matt-ODowd-is-Named-Fellow-of-American-Physical-Society.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/resources/images/Communications-and-Marketing/mattodowd01.jpg",
+            "description": "Lehman astronomer recognized for the impact of his public outreach"
+        },
+        {
+            "title": "Lehman Weekly October 19-25: An Iconic Visit",
+            "date": "October 15, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-October-19-25-An-Iconic-Visit-.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Rita-Moreno.png",
+            "description": "An Iconic Visit"
+        },
+        {
+            "title": "How Do Women Build Peace?",
+            "date": "November 2, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/How-Do-Women-Build-Peace.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Through-Her-Lens_group.jpeg",
+            "description": "UN photography exhibition at Lehman highlights women\u2019s efforts across the globe"
+        },
+        {
+            "title": "Lehman Weekly October 26-November 2: Student Leaders Take Texas",
+            "date": "October 29, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-October-26-November-2-Student-Leaders-Take-Texas.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/CPR2.jpg",
+            "description": "Student Leaders Take Texas"
+        },
+        {
+            "title": "Lehman Weekly October 12-18: Autumn in the Bronx",
+            "date": "October 15, 2026",
+            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-October-12-18-Autumn-in-the-Bronx.php",
+            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Screenshot-2026-10-15-at-12.15.15\u202fPM.png",
+            "description": "Autumn in the Bronx"
+        },
         {
             "title": "Lehman Welcomes Chinese Healthcare Leaders for International Exchange",
             "date": "October 15, 2026",
@@ -1867,48 +1909,6 @@
             "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Connections-to-Nobel-Winning-Research.php",
             "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/FrancisHalzen_AzadehKeivani_2018-1.jpeg",
             "description": "Two faculty members have ties to research at the IceCube Neutrino Observatory"
-        },
-        {
-            "title": "How Can We Better Predict Environmental Change?",
-            "date": "October 23, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/How-Can-We-Better-Predict-Environmental-Change.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/School-of-Arts-and-Humanities/ATLAS/Images/LS-09-2022-Philosophy-Department-Headshot_033-X4-300x420.jpg",
-            "description": "Julie Maybee\u2019s latest article argues for a new look at natural systems"
-        },
-        {
-            "title": "Lehman Nursing Professor Discusses Vaccine Hesitancy in The Bronx",
-            "date": "October 22, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Nursing-Professor-Discusses-Vaccine-Hesitancy-in-The-Bronx.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/childhood-vaccines.jpeg",
-            "description": "Riverdale Press article highlights vaccination gaps in affluent neighborhoods"
-        },
-        {
-            "title": "The Iconic Rita  Moreno Takes the Conversation to Lehman College",
-            "date": "October 21, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/The-Iconic-Rita--Moreno-Takes-the-Conversation-to-Lehman-College.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Rita-Moreno-at-Lehman-College-1-Large-768x512.jpeg",
-            "description": "EGOT winner discusses her life, career, and legacy"
-        },
-        {
-            "title": "Six Lehman Students Recognized by ALPFA",
-            "date": "October 21, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Six-Lehman-Students-Recognized-by-ALPFA.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/LA-HS-(1).png",
-            "description": "Association opens doors through scholarship programs"
-        },
-        {
-            "title": "Matt O\u2019Dowd is Named Fellow of American Physical Society",
-            "date": "October 19, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Matt-ODowd-is-Named-Fellow-of-American-Physical-Society.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/resources/images/Communications-and-Marketing/mattodowd01.jpg",
-            "description": "Lehman astronomer recognized for the impact of his public outreach"
-        },
-        {
-            "title": "Lehman Weekly October 19-25: An Iconic Visit",
-            "date": "October 15, 2026",
-            "read_more_link": "https://www.lehman.cuny.edu/news/2026/Lehman-Weekly-October-19-25-An-Iconic-Visit-.php",
-            "image_reference": "https://www.lehman.cuny.edu/media/Lehman-College-Website/Site-Assets/Images/News/2026/Rita-Moreno.png",
-            "description": "An Iconic Visit"
         }
     ],
     "law": [
@@ -2177,6 +2177,34 @@
     ],
     "bmcc": [
         {
+            "title": "BMCC Hosts Greater New York Chamber Business Expo and Conference",
+            "date": "September 25, 2026",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-hosts-greater-new-york-chamber-business-expo-and-conference/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/09/NY-CHAMBER.jpg",
+            "description": "More than 60 companies and organizations participated in the expo, where students had opportunities to meet employers, learn about industries and explore internships and careers."
+        },
+        {
+            "title": "BMCC UMLA Students Explore History, Culture and Community in Ghana",
+            "date": "September 24, 2026",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-umla-students-explore-history-culture-and-community-in-ghana/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/09/ghana-300x282.jpg",
+            "description": "Ghana has significant historical and cultural connections to the African diaspora."
+        },
+        {
+            "title": "BMCC English Professor Jason Schneiderman Receives Prestigious Poetry Foundation Award",
+            "date": "November 3, 2026",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-english-professor-jason-schneiderman-receives-prestigious-poetry-foundation-award/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/11/jason-thumb.jpg",
+            "description": "Schneiderman was honored for the 2026 Pegasus Award for Poetry Criticism at Chicago ceremony"
+        },
+        {
+            "title": "BMCC Receives Grant to Support Film Internships",
+            "date": "September 21, 2026",
+            "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-receives-grant-to-support-film-internships/",
+            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/09/video-09182026-300x169.jpg",
+            "description": "BMCC has been awarded a $203,487.66 grant from NYS Empire State Development (ESD) that will support 13 BMCC Media Arts and Technology students in film post-production internships, working with editing, sound and color professionals to create a full-length film."
+        },
+        {
             "title": "BMCC Marks 25 Years Since September 11 with Commemoration Ceremony",
             "date": "September 11, 2026",
             "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-marks-25-years-since-september-11-with-commemoration-ceremony/",
@@ -2287,37 +2315,23 @@
             "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-early-childhood-center-awarded-1-9-million-to-support-student-parents/",
             "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2023/03/scott.jpg",
             "description": "CCAMPIS program supports low-income student parents by providing access to campus-based child care services"
-        },
-        {
-            "title": "Manhattan EOC Announces Renewal of TRIO EOC Funding",
-            "date": "October 5, 2026",
-            "read_more_link": "https://www.bmcc.cuny.edu/news/manhattan-eoc-announces-renewal-of-trio-eoc-funding/",
-            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/10/meoc-10022026b-300x169.jpg",
-            "description": "This five-year award from 2026 to 2031 totaling $1,299,200, will support eligible adult residents of Manhattan and the Bronx as they pursue post-secondary education, workforce training, and opportunities for career advancement."
-        },
-        {
-            "title": "BMCC Receives $456,657 NSF Grant for Undergraduate Research Program",
-            "date": "September 29, 2026",
-            "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-receives-456657-nsf-grant-for-undergraduate-research-program/",
-            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/09/NSF-Grant-26-thumb.jpg",
-            "description": "Students will work directly with faculty mentors on research in plant chemical biology, including experimental and computational projects."
-        },
-        {
-            "title": "BMCC Hosts Greater New York Chamber Business Expo and Conference",
-            "date": "September 25, 2026",
-            "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-hosts-greater-new-york-chamber-business-expo-and-conference/",
-            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/09/NY-CHAMBER.jpg",
-            "description": "More than 60 companies and organizations participated in the expo, where students had opportunities to meet employers, learn about industries and explore internships and careers."
-        },
-        {
-            "title": "BMCC UMLA Students Explore History, Culture and Community in Ghana",
-            "date": "September 24, 2026",
-            "read_more_link": "https://www.bmcc.cuny.edu/news/bmcc-umla-students-explore-history-culture-and-community-in-ghana/",
-            "image_reference": "https://bmccprodstroac.blob.core.windows.net/uploads/2026/09/ghana-300x282.jpg",
-            "description": "Ghana has significant historical and cultural connections to the African diaspora."
         }
     ],
     "csi": [
+        {
+            "title": "CSI Students Take Some Time to Unwind at The Relaxation Station",
+            "date": "Nov 3, 2026",
+            "read_more_link": "https://csitoday.com/2026/11/csi-students-take-some-time-to-unwind-at-the-relaxation-station/",
+            "image_reference": "https://csitoday.com/wp-content/uploads/2026/11/Mood-Matters-Web-Cover-copy-627x376.jpg",
+            "description": "This past Tuesday, students throughout the College of Staten Island were able to relax and..."
+        },
+        {
+            "title": "CSI Technology Services Receives EdX Award",
+            "date": "Oct 28, 2026",
+            "read_more_link": "https://csitoday.com/2026/10/csi-technology-services-receives-edx-award/",
+            "image_reference": "https://csitoday.com/wp-content/uploads/2026/10/EDx-Web-Cover-copy-627x376.jpg",
+            "description": "Technology Services at the College of Staten Island was recently honored with an Education..."
+        },
         {
             "title": "Event Celebrates the Life and Art of Cleve Overton",
             "date": "Oct 22, 2026",
@@ -2443,20 +2457,6 @@
             "read_more_link": "https://csitoday.com/2026/03/csi-alumna-soukaina-sourouri-15-featured-in-staten-island-advance/",
             "image_reference": "https://csitoday.com/wp-content/uploads/2026/03/Law-Event-ITN-Web-Cover-copy-627x376.jpg",
             "description": "College of Staten Island alumna Soukaina Sourouri \u201915 is highlighted in a recent article by..."
-        },
-        {
-            "title": "Civil Rights Activist Lynda Blackmon Lowery \u201982 Dies in Selma",
-            "date": "Mar 2, 2026",
-            "read_more_link": "https://csitoday.com/2026/03/civil-rights-activist-lynda-blackmon-lowery-82-dies-in-selma/",
-            "image_reference": "https://csitoday.com/wp-content/uploads/2026/03/Lowert-Times-Web-Cover-copy-627x376.jpg",
-            "description": "Lynda Blackmon Lowery \u201982, a civil rights activist who, in 1965 at age 14, was one of the youngest..."
-        },
-        {
-            "title": "Check Out CSI-TV\u2019s New Series of Shorts: Alumni and Faculty Spotlights",
-            "date": "Feb 19, 2026",
-            "read_more_link": "https://csitoday.com/2026/02/check-out-csi-tvs-new-series-of-shorts-alumni-and-faculty-spotlights/",
-            "image_reference": "https://csitoday.com/wp-content/uploads/2026/02/Web-Cover-Promo-General-627x376.jpg",
-            "description": "CSI-TV is now featuring a series of shorts highlighting our great alumni and prestigious faculty,..."
         }
     ],
     "guttman": [
@@ -2525,6 +2525,55 @@
         }
     ],
     "hunter": [
+        {
+            "title": "City Council Honors Devashish Basnet \u201922 for Immigrant Rights Advocacy",
+            "date": "October 19, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/city-council-honors-devashish-basnet-22-for-immigrant-rights-advocacy/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/devashish-basnet-news-768x432.jpg.webp",
+            "description": "City Council Honors Devashish Basnet \u201922 for Immigrant Rights Advocacy."
+        },
+        {
+            "title": "Hunter Honors Faculty and Staff for Teaching, Scholarship, and Service",
+            "date": "October 19, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-honors-faculty-and-staff-excellence-for-teaching-scholarship-and-service/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/faculty-staff-awards-news-768x432.jpg.webp",
+            "description": "Hunter College recognized 13 faculty and 10 staff members for outstanding achievements in teaching, scholarship, service, and community engagement."
+        },
+        {
+            "title": "Two Hunter Students Named 2026 Women\u2019s Forum Education Fund Scholars",
+            "date": "November 2, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/two-hunter-students-named-2026-womens-forum-education-fund-scholars/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/tamesha-brown-fariha-khan-news-768x432.jpg.webp",
+            "description": "Two Hunter College students named 2026 Women\u2019s Forum Education Fund Scholars."
+        },
+        {
+            "title": "Hunter Partnership Helps Child Welfare Leaders Grow and Thrive",
+            "date": "November 2, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-partnership-helps-child-welfare-leaders-grow-and-thrive/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/rebecca-jones-gaston-news-768x432.jpg.webp",
+            "description": "Many members of the fourth cohort highlighted the unique partnership between Hunter and New York City\u2019s Administration for Children\u2019s Services."
+        },
+        {
+            "title": "Humanities Action Lab Convening Highlights Hunter\u2019s Anchor Institution Role",
+            "date": "November 2, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/humanities-action-lab-convening-highlights-hunters-role-as-an-anchor-institution/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/kimberly-rodgers-news-768x432.jpg.webp",
+            "description": "The gathering also highlighted how the Humanities Action Lab, which moved its national headquarters to Hunter in 2025."
+        },
+        {
+            "title": "Nobel Prize Awarded to Human Rights Champion With Deep Hunter College Ties",
+            "date": "October 16, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/nobel-prize-awarded-to-human-rights-champion-with-deep-hunter-college-ties/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/navi-pillay-meryl-streep-jessica-neuwirth-news-768x432.jpg.webp",
+            "description": "U.N. High Commissioner for Human Rights Navi Pillay had been awarded the 2026 Nobel Peace Prize."
+        },
+        {
+            "title": "The Woman Who Changed New York\u2019s Streets Comes to Hunter College",
+            "date": "October 16, 2026",
+            "read_more_link": "https://www.hunter.cuny.edu/news/the-woman-who-changed-new-yorks-streets-comes-to-hunter-college/?news-feed=spotlight&source=/news/",
+            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/janette-sadik-khan-news-768x432.jpg.webp",
+            "description": "Janette Sadik-Khan will join podcasters Sarah Goodyear and Doug Gordon of The War on Cars for a live show Friday, Nov. 6, at 7 pm in Assembly Hall."
+        },
         {
             "title": "Hunter Opens Doors of Community Wellness Hub in Midtown",
             "date": "October 16, 2026",
@@ -2615,55 +2664,6 @@
             "read_more_link": "https://www.hunter.cuny.edu/news/new-mcnulty-chair-of-science-innovation-and-leadership-named-at-hunter/?news-feed=spotlight&source=/news/",
             "image_reference": "https://s29068.pcdn.co/wp-content/uploads/jill-bargonetti-news-768x432.jpg.webp",
             "description": "Hunter College is proud to announce that Dr. Jill Bargonetti has been named the Anne Welsh McNulty Chair of Science Innovation and Leadership."
-        },
-        {
-            "title": "Hunter Researcher Joins Study on Plastics Exposure in Laundry Industry",
-            "date": "September 30, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-researcher-joins-study-on-plastics-exposure-in-laundry-industry/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/jin-young-seo-news-768x432.jpg.webp",
-            "description": "A faculty researcher at the Hunter-Bellevue School of Nursing is helping lead key components of a federally funded study."
-        },
-        {
-            "title": "#FacesofHunter: Meet Artist Jessenia Reyes-Ambrosio",
-            "date": "September 30, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/facesofhunter-meet-artist-jessenia-reyes-ambrosio/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/reyes-ambrosio-news-768x432.jpg.webp",
-            "description": "Drawing houses and suns with Crayola finger paints, Jessenia Reyes-Ambrosio found her first artistic canvas at the kitchen table."
-        },
-        {
-            "title": "Roosevelt House Event Discusses the Legacy of Governor Mario Cuomo",
-            "date": "September 30, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/roosevelt-house-event-discusses-the-legacy-of-governor-mario-cuomo/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/harold-holzer-michael-dowling-jerry-crotty-tonio-burgos-news-768x432.jpg.webp",
-            "description": "More than a decade after his death, Mario Cuomo\u2019s voice still resonates across New York politics and public life."
-        },
-        {
-            "title": "City Council Honors Devashish Basnet \u201922 for Immigrant Rights Advocacy",
-            "date": "October 19, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/city-council-honors-devashish-basnet-22-for-immigrant-rights-advocacy/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/devashish-basnet-news-768x432.jpg.webp",
-            "description": "City Council Honors Devashish Basnet \u201922 for Immigrant Rights Advocacy."
-        },
-        {
-            "title": "Hunter Honors Faculty and Staff for Teaching, Scholarship, and Service",
-            "date": "October 19, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-honors-faculty-and-staff-excellence-for-teaching-scholarship-and-service/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/faculty-staff-awards-news-768x432.jpg.webp",
-            "description": "Hunter College recognized 13 faculty and 10 staff members for outstanding achievements in teaching, scholarship, service, and community engagement."
-        },
-        {
-            "title": "Hunter to Host Humanities Action Lab National Convening",
-            "date": "September 30, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-to-host-humanities-action-lab-national-convening/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/hal-national-convening-news-768x432.jpg.webp",
-            "description": "For three days in October, Hunter College will become a gathering place for students, faculty members, activists, community leaders, and storytellers."
-        },
-        {
-            "title": "Hunter College Rises to Top for Social Mobility and Return on Investment",
-            "date": "September 23, 2026",
-            "read_more_link": "https://www.hunter.cuny.edu/news/hunter-college-rises-to-top-for-social-mobility-and-return-on-investment/?news-feed=spotlight&source=/news/",
-            "image_reference": "https://s29068.pcdn.co/wp-content/uploads/hunter-at-sunset-768x432.jpg.webp",
-            "description": "Hunter College is earning national recognition for delivering on one of higher education\u2019s most important promises: creating opportunity."
         }
     ],
     "jjay": [
